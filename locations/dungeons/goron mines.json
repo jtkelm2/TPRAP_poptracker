@@ -4,9 +4,6 @@
 		"children": [
 			{
 				"name": "Goron Mines Boss Room",
-				"access_rules": [
-					"^$canAccess|GoronMinesBossRoom"
-				],
 				"children": [
 					{
 						"name": "Fyrus Boss",
@@ -24,23 +21,10 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Fyrus Heart Container",
-								"access_rules": [
-									"^$canDefeatFyrus"
-								]
+								"name": "Goron Mines Fyrus Heart Container"
 							},
 							{
-								"name": "Goron Mines Dungeon Reward",
-								"access_rules": [
-									"^$canDefeatFyrus"
-								]
-							},
-							{
-								"name": "Fyrus",
-								"access_rules": [
-									"^$canDefeatFyrus"
-								],
-								"hosted_item": "gmcompleted"
+								"name": "Goron Mines Dungeon Reward"
 							}
 						]
 					}
@@ -48,9 +32,6 @@
 			},
 			{
 				"name": "Goron Mines Crystal Switch Room",
-				"access_rules": [
-					"^$canAccess|GoronMinesCrystalSwitchRoom"
-				],
 				"children": [
 					{
 						"name": "Crystal Switch Room Underwater Chest",
@@ -68,11 +49,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Crystal Switch Room Underwater Chest",
-								"access_rules": [
-									"boots",
-									"[glitcheson], ^$hasHeavyMod"
-								]
+								"name": "Goron Mines Crystal Switch Room Underwater Chest"
 							}
 						]
 					},
@@ -92,10 +69,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Crystal Switch Room Small Chest",
-								"access_rules": [
-									"boots"
-								]
+								"name": "Goron Mines Crystal Switch Room Small Chest"
 							}
 						]
 					},
@@ -115,10 +89,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines After Crystal Switch Room Magnet Wall Chest",
-								"access_rules": [
-									"boots"
-								]
+								"name": "Goron Mines After Crystal Switch Room Magnet Wall Chest"
 							}
 						]
 					}
@@ -126,9 +97,6 @@
 			},
 			{
 				"name": "Goron Mines Entrance",
-				"access_rules": [
-					"^$canAccess|GoronMinesEntrance"
-				],
 				"children": [
 					{
 						"name": "Entrance Chest",
@@ -146,11 +114,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Entrance Chest",
-								"access_rules": [
-									"^$canPressMinesSwitch, ^$canBreakWoodenDoor",
-									"[glitcheson], ^$canDoBSMoonBoots"
-								]
+								"name": "Goron Mines Entrance Chest"
 							}
 						]
 					}
@@ -158,9 +122,6 @@
 			},
 			{
 				"name": "Goron Mines Lower West Wing",
-				"access_rules": [
-					"^$canAccess|GoronMinesLowerWestWing"
-				],
 				"children": [
 					{
 						"name": "Magnet Maze Chest",
@@ -178,10 +139,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Magnet Maze Chest",
-								"access_rules": [
-									"boots"
-								]
+								"name": "Goron Mines Magnet Maze Chest"
 							}
 						]
 					},
@@ -201,10 +159,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Gor Amato Chest",
-								"access_rules": [
-									"boots"
-								]
+								"name": "Goron Mines Gor Amato Chest"
 							}
 						]
 					},
@@ -224,10 +179,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Gor Amato Small Chest",
-								"access_rules": [
-									"boots"
-								]
+								"name": "Goron Mines Gor Amato Small Chest"
 							}
 						]
 					},
@@ -247,10 +199,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Gor Amato Key Shard",
-								"access_rules": [
-									"boots"
-								]
+								"name": "Goron Mines Gor Amato Key Shard"
 							}
 						]
 					}
@@ -258,9 +207,6 @@
 			},
 			{
 				"name": "Goron Mines Magnet Room",
-				"access_rules": [
-					"^$canAccess|GoronMinesMagnetRoom"
-				],
 				"children": [
 					{
 						"name": "Main Magnet Room Bottom Chest",
@@ -278,10 +224,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Main Magnet Room Bottom Chest",
-								"access_rules": [
-									""
-								]
+								"name": "Goron Mines Main Magnet Room Bottom Chest"
 							}
 						]
 					},
@@ -301,11 +244,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Main Magnet Room Top Chest",
-								"access_rules": [
-									"bow, boots, ^$canDefeatDangoro, gmsmallkey:3",
-									"[glitcheson], ^$canAccess|GoronMinesUpperEastWing, ^$canDefeatDangoro, ^$canDefeatBeamos"
-								]
+								"name": "Goron Mines Main Magnet Room Top Chest"
 							}
 						]
 					}
@@ -313,9 +252,6 @@
 			},
 			{
 				"name": "Goron Mines North Wing",
-				"access_rules": [
-					"^$canAccess|GoronMinesNorthWing"
-				],
 				"children": [
 					{
 						"name": "Outside Beamos Chest",
@@ -333,10 +269,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Outside Beamos Chest",
-								"access_rules": [
-									""
-								]
+								"name": "Goron Mines Outside Beamos Chest"
 							}
 						]
 					},
@@ -356,12 +289,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Outside Underwater Chest",
-								"access_rules": [
-									"sword, boots",
-									"^$canUseWaterBombs, boots",
-									"[glitcheson], ^$hasHeavyMod"
-								]
+								"name": "Goron Mines Outside Underwater Chest"
 							}
 						]
 					},
@@ -381,12 +309,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Outside Clawshot Chest",
-								"access_rules": [
-									"clawshot, bow",
-									"clawshot, slingshot",
-									"[glitcheson], clawshot"
-								]
+								"name": "Goron Mines Outside Clawshot Chest"
 							}
 						]
 					}
@@ -394,9 +317,6 @@
 			},
 			{
 				"name": "Goron Mines Upper East Wing",
-				"access_rules": [
-					"^$canAccess|GoronMinesUpperEastWing"
-				],
 				"children": [
 					{
 						"name": "Gor Ebizo Chest",
@@ -414,10 +334,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Gor Ebizo Chest",
-								"access_rules": [
-									""
-								]
+								"name": "Goron Mines Gor Ebizo Chest"
 							}
 						]
 					},
@@ -437,11 +354,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Chest Before Dangoro",
-								"access_rules": [
-									"boots",
-									"[glitcheson], ^$canDoLJA"
-								]
+								"name": "Goron Mines Chest Before Dangoro"
 							}
 						]
 					},
@@ -461,10 +374,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Gor Ebizo Key Shard",
-								"access_rules": [
-									""
-								]
+								"name": "Goron Mines Gor Ebizo Key Shard"
 							}
 						]
 					},
@@ -484,10 +394,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Dangoro Chest",
-								"access_rules": [
-									"boots, ^$canDefeatDangoro"
-								]
+								"name": "Goron Mines Dangoro Chest"
 							}
 						]
 					},
@@ -507,11 +414,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Beamos Room Chest",
-								"access_rules": [
-									"boots, ^$canDefeatDangoro, bow",
-									"[glitcheson], boots, ^$canDefeatDangoro, ^$canDefeatBeamos"
-								]
+								"name": "Goron Mines Beamos Room Chest"
 							}
 						]
 					},
@@ -531,11 +434,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Gor Liggs Chest",
-								"access_rules": [
-									"boots, ^$canDefeatDangoro, bow",
-									"[glitcheson], boots, ^$canDefeatDangoro, ^$canDefeatBeamos"
-								]
+								"name": "Goron Mines Gor Liggs Chest"
 							}
 						]
 					},
@@ -555,42 +454,7 @@
 						],
 						"sections": [
 							{
-								"name": "Goron Mines Gor Liggs Key Shard",
-								"access_rules": [
-									"boots, ^$canDefeatDangoro, bow",
-									"[glitcheson], boots, ^$canDefeatDangoro, ^$canDefeatBeamos"
-								]
-							}
-						]
-					},
-					{
-						"name": "Hint Sign",
-						"map_locations": [
-							{
-								"map": "gm2f",
-								"x": 1834,
-								"y": 123,
-								"shape": "triangle",
-								"orientation": "south"
-							},
-							{
-								"map": "gmfull",
-								"x": 1942,
-								"y": 62,
-								"shape": "triangle",
-								"orientation": "south"
-							}
-						],
-						"sections": [
-							{
-								"access_rules": [
-									"{^$canAccess|GoronMinesUpperEastWing}"
-								],
-								"visibility_rules": [
-									"hintson"
-								],
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png"
+								"name": "Goron Mines Gor Liggs Key Shard"
 							}
 						]
 					}

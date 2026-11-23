@@ -4,9 +4,6 @@
 		"children": [
 			{
 				"name": "Forest Temple Boss Room",
-				"access_rules": [
-					"^$canAccess|ForestTempleBossRoom"
-				],
 				"children": [
 					{
 						"name": "Diababa Boss",
@@ -24,23 +21,10 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Diababa Heart Container",
-								"access_rules": [
-									"^$canDefeatDiababa"
-								]
+								"name": "Forest Temple Diababa Heart Container"
 							},
 							{
-								"name": "Forest Temple Dungeon Reward",
-								"access_rules": [
-									"^$canDefeatDiababa"
-								]
-							},
-							{
-								"name": "Diababa",
-								"access_rules": [
-									"^$canDefeatDiababa"
-								],
-								"hosted_item": "ftcompleted"
+								"name": "Forest Temple Dungeon Reward"
 							}
 						]
 					}
@@ -48,9 +32,6 @@
 			},
 			{
 				"name": "Forest Temple East Wing",
-				"access_rules": [
-					"^$canAccess|ForestTempleEastWing"
-				],
 				"children": [
 					{
 						"name": "Second Monkey Under Bridge Chest",
@@ -68,10 +49,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Second Monkey Under Bridge Chest",
-								"access_rules": [
-									"ftsmallkey:4"
-								]
+								"name": "Forest Temple Second Monkey Under Bridge Chest"
 							}
 						]
 					},
@@ -91,10 +69,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Big Key Chest",
-								"access_rules": [
-									"boomerang"
-								]
+								"name": "Forest Temple Big Key Chest"
 							}
 						]
 					},
@@ -114,10 +89,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple East Water Cave Chest",
-								"access_rules": [
-									""
-								]
+								"name": "Forest Temple East Water Cave Chest"
 							}
 						]
 					}
@@ -125,9 +97,6 @@
 			},
 			{
 				"name": "Forest Temple Entrance",
-				"access_rules": [
-					"^$canAccess|ForestTempleEntrance"
-				],
 				"children": [
 					{
 						"name": "Entrance Vines Chest",
@@ -145,10 +114,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Entrance Vines Chest",
-								"access_rules": [
-									"^$canDefeatWalltula"
-								]
+								"name": "Forest Temple Entrance Vines Chest"
 							}
 						]
 					}
@@ -156,9 +122,6 @@
 			},
 			{
 				"name": "Forest Temple Lobby",
-				"access_rules": [
-					"^$canAccess|ForestTempleLobby"
-				],
 				"children": [
 					{
 						"name": "Central Chest Behind Stairs",
@@ -176,10 +139,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Central Chest Behind Stairs",
-								"access_rules": [
-									"boomerang"
-								]
+								"name": "Forest Temple Central Chest Behind Stairs"
 							}
 						]
 					},
@@ -199,11 +159,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Central North Chest",
-								"access_rules": [
-									"lantern",
-									"[glitcheson], ^$canDoLJA, ^$canAccess|ForestTempleWestWing"
-								]
+								"name": "Forest Temple Central North Chest"
 							}
 						]
 					},
@@ -223,42 +179,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Central Chest Hanging From Web",
-								"access_rules": [
-									"^$canCutHangingWeb",
-									"[glitcheson], ^$canDoJSMoonBoots"
-								]
-							}
-						]
-					},
-					{
-						"name": "Hint Sign",
-						"map_locations": [
-							{
-								"map": "ft1f",
-								"x": 873,
-								"y": 1360,
-								"shape": "triangle",
-								"orientation": "south"
-							},
-							{
-								"map": "ftfull",
-								"x": 873,
-								"y": 1360,
-								"shape": "triangle",
-								"orientation": "south"
-							}
-						],
-						"sections": [
-							{
-								"access_rules": [
-									"{^$canAccess|ForestTempleLobby}"
-								],
-								"visibility_rules": [
-									"hintson"
-								],
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png"
+								"name": "Forest Temple Central Chest Hanging From Web"
 							}
 						]
 					}
@@ -266,9 +187,6 @@
 			},
 			{
 				"name": "Forest Temple North Wing",
-				"access_rules": [
-					"^$canAccess|ForestTempleNorthWing"
-				],
 				"children": [
 					{
 						"name": "Windless Bridge Chest",
@@ -286,10 +204,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Windless Bridge Chest",
-								"access_rules": [
-									""
-								]
+								"name": "Forest Temple Windless Bridge Chest"
 							}
 						]
 					},
@@ -309,11 +224,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple North Deku Like Chest",
-								"access_rules": [
-									"boomerang",
-									"[glitcheson], ^$hasBombs, sword, clawshot"
-								]
+								"name": "Forest Temple North Deku Like Chest"
 							}
 						]
 					},
@@ -333,14 +244,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple East Tile Worm Chest",
-								"access_rules": [
-									"^$canDefeatTileWorm, ^$canDefeatSkulltula, ^$canDefeatWalltula, boomerang, ftsmallkey:4",
-									"[glitcheson], ^$hasBombs, ftsmallkey:4",
-									"[glitcheson], ^$canDoBSMoonBoots, ftsmallkey:4",
-									"[glitcheson], ^$canDoJSMoonBoots, ftsmallkey:4",
-									"[glitcheson], boomerang, ftsmallkey:4"
-								]
+								"name": "Forest Temple East Tile Worm Chest"
 							}
 						]
 					}
@@ -348,9 +252,6 @@
 			},
 			{
 				"name": "Forest Temple West Wing",
-				"access_rules": [
-					"^$canAccess|ForestTempleWestWing"
-				],
 				"children": [
 					{
 						"name": "West Deku Like Chest",
@@ -368,11 +269,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple West Deku Like Chest",
-								"access_rules": [
-									"^$canDefeatWalltula",
-									"[glitcheson]"
-								]
+								"name": "Forest Temple West Deku Like Chest"
 							}
 						]
 					},
@@ -392,12 +289,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Totem Pole Chest",
-								"access_rules": [
-									"glitchesoff",
-									"[glitcheson], ^$canDefeatBombling",
-									"[glitcheson], ^$canSmash"
-								]
+								"name": "Forest Temple Totem Pole Chest"
 							}
 						]
 					},
@@ -417,12 +309,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple West Tile Worm Room Vines Chest",
-								"access_rules": [
-									"glitchesoff",
-									"[glitcheson], ^$canDefeatBombling",
-									"[glitcheson], ^$canSmash"
-								]
+								"name": "Forest Temple West Tile Worm Room Vines Chest"
 							}
 						]
 					},
@@ -442,12 +329,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple West Tile Worm Chest Behind Stairs",
-								"access_rules": [
-									"glitchesoff, boomerang",
-									"[glitcheson], boomerang, ^$canDefeatBombling",
-									"[glitcheson], boomerang, ^$canSmash"
-								]
+								"name": "Forest Temple West Tile Worm Chest Behind Stairs"
 							}
 						]
 					},
@@ -467,11 +349,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Big Baba Key",
-								"access_rules": [
-									"^$canDefeatBigBaba, ^$canDefeatWalltula",
-									"[glitcheson], ^$canDefeatBigBaba"
-								]
+								"name": "Forest Temple Big Baba Key"
 							}
 						]
 					}
@@ -479,9 +357,6 @@
 			},
 			{
 				"name": "Ook",
-				"access_rules": [
-					"^$canAccess|Ook"
-				],
 				"children": [
 					{
 						"name": "Gale Boomerang",
@@ -499,11 +374,7 @@
 						],
 						"sections": [
 							{
-								"name": "Forest Temple Gale Boomerang",
-								"access_rules": [
-									"^$canDefeatOok",
-									"[glitcheson], ^$hasBombs"
-								]
+								"name": "Forest Temple Gale Boomerang"
 							}
 						]
 					}

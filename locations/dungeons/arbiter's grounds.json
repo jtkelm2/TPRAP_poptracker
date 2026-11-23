@@ -4,9 +4,6 @@
 		"children": [
 			{
 				"name": "Arbiters Grounds Entrance",
-				"access_rules": [
-					"^$canAccess|ArbitersGroundsEntrance"
-				],
 				"children": [
 					{
 						"name": "Entrance Chest",
@@ -24,10 +21,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Entrance Chest",
-								"access_rules": [
-									"^$canBreakWoodenDoor"
-								]
+								"name": "Arbiters Grounds Entrance Chest"
 							}
 						]
 					}
@@ -35,9 +29,6 @@
 			},
 			{
 				"name": "Arbiters Grounds Lobby",
-				"access_rules": [
-					"^$canAccess|ArbitersGroundsLobby"
-				],
 				"children": [
 					{
 						"name": "Torch Room East Chest",
@@ -55,10 +46,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Torch Room East Chest",
-								"access_rules": [
-									""
-								]
+								"name": "Arbiters Grounds Torch Room East Chest"
 							}
 						]
 					},
@@ -78,10 +66,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Torch Room West Chest",
-								"access_rules": [
-									""
-								]
+								"name": "Arbiters Grounds Torch Room West Chest"
 							}
 						]
 					},
@@ -101,50 +86,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Torch Room Poe",
-								"access_rules": [
-									"shadowcrystal"
-								],
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png"
-							},
-							{
-								"name": "Poe Scent",
-								"access_rules": [
-									"shadowcrystal"
-								],
-								"hosted_item": "poescent"
-							}
-						]
-					},
-					{
-						"name": "Hint Sign",
-						"map_locations": [
-							{
-								"map": "ag1f",
-								"x": 1025,
-								"y": 638,
-								"shape": "triangle",
-								"orientation": "south"
-							},
-							{
-								"map": "agfull",
-								"x": 1712,
-								"y": 216,
-								"shape": "triangle",
-								"orientation": "south"
-							}
-						],
-						"sections": [
-							{
-								"access_rules": [
-									"{^$canAccess|ArbitersGroundsLobby}"
-								],
-								"visibility_rules": [
-									"hintson"
-								],
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png"
+								"name": "Arbiters Grounds Torch Room Poe"
 							}
 						]
 					}
@@ -152,9 +94,6 @@
 			},
 			{
 				"name": "Arbiters Grounds East Wing",
-				"access_rules": [
-					"^$canAccess|ArbitersGroundsEastWing"
-				],
 				"children": [
 					{
 						"name": "East Lower Turnable Redead Chest",
@@ -172,10 +111,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds East Lower Turnable Redead Chest",
-								"access_rules": [
-									"shadowcrystal"
-								]
+								"name": "Arbiters Grounds East Lower Turnable Redead Chest"
 							}
 						]
 					},
@@ -195,10 +131,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds East Upper Turnable Chest",
-								"access_rules": [
-									"agsmallkey:2"
-								]
+								"name": "Arbiters Grounds East Upper Turnable Chest"
 							}
 						]
 					},
@@ -218,10 +151,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds East Upper Turnable Redead Chest",
-								"access_rules": [
-									"^$hasDamagingItem, agsmallkey:2"
-								]
+								"name": "Arbiters Grounds East Upper Turnable Redead Chest"
 							}
 						]
 					},
@@ -241,10 +171,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Ghoul Rat Room Chest",
-								"access_rules": [
-									"^$canDefeatBubble, ^$canDefeatStalchild, ^$canDefeatRedeadKnight, agsmallkey:3"
-								]
+								"name": "Arbiters Grounds Ghoul Rat Room Chest"
 							}
 						]
 					},
@@ -264,12 +191,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds East Turning Room Poe",
-								"access_rules": [
-									"shadowcrystal, clawshot"
-								],
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png"
+								"name": "Arbiters Grounds East Turning Room Poe"
 							}
 						]
 					},
@@ -289,12 +211,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Hidden Wall Poe",
-								"access_rules": [
-									"shadowcrystal, ^$canDefeatRedeadKnight, agsmallkey:3"
-								],
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png"
+								"name": "Arbiters Grounds Hidden Wall Poe"
 							}
 						]
 					}
@@ -302,9 +219,6 @@
 			},
 			{
 				"name": "Arbiters Grounds West Wing",
-				"access_rules": [
-					"^$canAccess|ArbitersGroundsWestWing"
-				],
 				"children": [
 					{
 						"name": "West Small Chest Behind Block",
@@ -322,10 +236,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds West Small Chest Behind Block",
-								"access_rules": [
-									""
-								]
+								"name": "Arbiters Grounds West Small Chest Behind Block"
 							}
 						]
 					},
@@ -345,11 +256,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds West Chandelier Chest",
-								"access_rules": [
-									"agsmallkey:4, shadowcrystal",
-									"[glitcheson], ^$canDoLJA"
-								]
+								"name": "Arbiters Grounds West Chandelier Chest"
 							}
 						]
 					},
@@ -369,11 +276,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds West Stalfos West Chest",
-								"access_rules": [
-									"^$canBreakWoodenDoor, agsmallkey:4, ^$canDefeatRedeadKnight, ^$canDefeatStalchild, ^$canDefeatBubble, ^$canDefeatGhoulRat",
-									"[glitcheson], ^$canBreakWoodenDoor, ^$canDoLJA"
-								]
+								"name": "Arbiters Grounds West Stalfos West Chest"
 							}
 						]
 					},
@@ -393,11 +296,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds West Stalfos Northeast Chest",
-								"access_rules": [
-									"^$canBreakWoodenDoor, agsmallkey:4, ^$canDefeatRedeadKnight, ^$canDefeatStalchild, ^$canDefeatBubble, ^$canDefeatGhoulRat",
-									"[glitcheson], ^$canBreakWoodenDoor, ^$canDoLJA"
-								]
+								"name": "Arbiters Grounds West Stalfos Northeast Chest"
 							}
 						]
 					},
@@ -417,13 +316,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds West Poe",
-								"access_rules": [
-									"shadowcrystal, ^$canSmash, agsmallkey:4, ^$canDefeatRedeadKnight, ^$canDefeatStalchild, ^$canDefeatBubble, ^$canDefeatGhoulRat",
-									"[glitcheson], shadowcrystal, ^$canSmash, ^$canDoLJA"
-								],
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png"
+								"name": "Arbiters Grounds West Poe"
 							}
 						]
 					}
@@ -431,9 +324,6 @@
 			},
 			{
 				"name": "Arbiters Grounds After Poe Gate",
-				"access_rules": [
-					"^$canAccess|ArbitersGroundsAfterPoeGate"
-				],
 				"children": [
 					{
 						"name": "Big Key Chest",
@@ -451,11 +341,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Big Key Chest",
-								"access_rules": [
-									"agsmallkey:5, clawshot, spinner, ^$canSmash",
-									"[glitcheson], agsmallkey:4, shadowcrystal, clawshot, spinner, ^$canSmash"
-								]
+								"name": "Arbiters Grounds Big Key Chest"
 							}
 						]
 					},
@@ -475,10 +361,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds North Turning Room Chest",
-								"access_rules": [
-									"clawshot"
-								]
+								"name": "Arbiters Grounds North Turning Room Chest"
 							}
 						]
 					},
@@ -498,11 +381,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Death Sword Chest",
-								"access_rules": [
-									"^$canDefeatDeathSword, clawshot, ^$canDefeatBubble, ^$canDefeatStalfos, agsmallkey:5",
-									"[glitcheson], ^$canDefeatDeathSword, clawshot, ^$canDefeatBubble, ^$canDefeatStalfos, agsmallkey:4, shadowcrystal"
-								]
+								"name": "Arbiters Grounds Death Sword Chest"
 							}
 						]
 					},
@@ -522,11 +401,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Spinner Room First Small Chest",
-								"access_rules": [
-									"clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, agsmallkey:5",
-									"[glitcheson], clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, shadowcrystal"
-								]
+								"name": "Arbiters Grounds Spinner Room First Small Chest"
 							}
 						]
 					},
@@ -546,11 +421,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Spinner Room Second Small Chest",
-								"access_rules": [
-									"clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, agsmallkey:5",
-									"[glitcheson], clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, shadowcrystal"
-								]
+								"name": "Arbiters Grounds Spinner Room Second Small Chest"
 							}
 						]
 					},
@@ -570,11 +441,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Spinner Room Lower Central Small Chest",
-								"access_rules": [
-									"clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, agsmallkey:5",
-									"[glitcheson], clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, shadowcrystal"
-								]
+								"name": "Arbiters Grounds Spinner Room Lower Central Small Chest"
 							}
 						]
 					},
@@ -594,11 +461,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Spinner Room Stalfos Alcove Chest",
-								"access_rules": [
-									"clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, agsmallkey:5",
-									"[glitcheson], clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, shadowcrystal"
-								]
+								"name": "Arbiters Grounds Spinner Room Stalfos Alcove Chest"
 							}
 						]
 					},
@@ -618,11 +481,7 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Spinner Room Lower North Chest",
-								"access_rules": [
-									"clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, agsmallkey:5",
-									"[glitcheson], clawshot, spinner, ^$canDefeatBubble, ^$canDefeatStalfos, shadowcrystal"
-								]
+								"name": "Arbiters Grounds Spinner Room Lower North Chest"
 							}
 						]
 					}
@@ -630,9 +489,6 @@
 			},
 			{
 				"name": "Arbiters Grounds Boss Room",
-				"access_rules": [
-					"^$canAccess|ArbitersGroundsBossRoom"
-				],
 				"children": [
 					{
 						"name": "Stallord Boss",
@@ -650,23 +506,10 @@
 						],
 						"sections": [
 							{
-								"name": "Arbiters Grounds Stallord Heart Container",
-								"access_rules": [
-									"^$canDefeatStallord"
-								]
+								"name": "Arbiters Grounds Stallord Heart Container"
 							},
 							{
-								"name": "Arbiters Grounds Dungeon Reward",
-								"access_rules": [
-									"^$canDefeatStallord"
-								]
-							},
-							{
-								"name": "Stallord",
-								"access_rules": [
-									"^$canDefeatStallord"
-								],
-								"hosted_item": "agcompleted"
+								"name": "Arbiters Grounds Dungeon Reward"
 							}
 						]
 					}

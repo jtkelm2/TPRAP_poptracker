@@ -1,19 +1,18 @@
 [
 	{
 		"name": "overworld",
-		"location_size": 192,
-		"location_border_thickness": 2,
+		"location_size": 24,
+		"location_border_thickness": 1,
 		"location_shape": "rect",
 		"img": "images/Overworld/Full Map Big.png"
 	},
 	{
 		"name": "overworldfull",
-		"location_size": 192,
-		"location_border_thickness": 2,
+		"location_size": 48,
+		"location_border_thickness": 1,
 		"location_shape": "rect",
 		"img": "images/Overworld/Full Map Big.png"
 	},
-
 	{
 		"name": "sfc",
 		"location_size": 32,
@@ -294,7 +293,6 @@
 		"location_shape": "rect",
 		"img": "images/Submaps/STAR_Tent.png"
 	},
-
 	{
 		"name": "grotto12",
 		"location_size": 32,
@@ -442,7 +440,6 @@
 		"location_shape": "rect",
 		"img": "images/Submaps/Grotto_5.png"
 	},
-
 	{
 		"name": "ft1f",
 		"location_size": 32,
@@ -806,13 +803,5 @@
 		"location_border_thickness": 2,
 		"location_shape": "rect",
 		"img": "images/Dungeons/Hyrule Castle/Full.png"
-	},
-
-
-	{
-		"name": "tutorial",
-		"location_size": 32,
-		"location_border_thickness": 2,
-		"img": "images/TutorialDisc.png"
 	}
 ]

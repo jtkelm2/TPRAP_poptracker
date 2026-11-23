@@ -4,9 +4,6 @@
 		"children": [
 			{
 				"name": "Snowpeak Ruins Boss Room",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsBossRoom"
-				],
 				"children": [
 					{
 						"name": "Blizzeta Boss",
@@ -24,23 +21,10 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Blizzeta Heart Container",
-								"access_rules": [
-									"^$canDefeatBlizzeta"
-								]
+								"name": "Snowpeak Ruins Blizzeta Heart Container"
 							},
 							{
-								"name": "Snowpeak Ruins Dungeon Reward",
-								"access_rules": [
-									"^$canDefeatBlizzeta"
-								]
-							},
-							{
-								"name": "Blizzeta",
-								"access_rules": [
-									"^$canDefeatBlizzeta"
-								],
-								"hosted_item": "srcompleted"
+								"name": "Snowpeak Ruins Dungeon Reward"
 							}
 						]
 					}
@@ -48,9 +32,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins Caged Freezard Room Lower",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsCagedFreezardRoomLower"
-				],
 				"children": [
 					{
 						"name": "Broken Floor Chest",
@@ -68,10 +49,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Broken Floor Chest",
-								"access_rules": [
-									"ballchain"
-								]
+								"name": "Snowpeak Ruins Broken Floor Chest"
 							}
 						]
 					}
@@ -79,9 +57,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins Chapel",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsChapel"
-				],
 				"children": [
 					{
 						"name": "Chapel Chest",
@@ -99,10 +74,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Chapel Chest",
-								"access_rules": [
-									"^$canDefeatChilfos"
-								]
+								"name": "Snowpeak Ruins Chapel Chest"
 							}
 						]
 					}
@@ -110,9 +82,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins Darkhammer Room",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsDarkhammerRoom"
-				],
 				"children": [
 					{
 						"name": "Ball and Chain",
@@ -130,10 +99,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Ball and Chain",
-								"access_rules": [
-									"^$canDefeatDarkhammer"
-								]
+								"name": "Snowpeak Ruins Ball and Chain"
 							}
 						]
 					},
@@ -153,10 +119,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Chest After Darkhammer",
-								"access_rules": [
-									"^$canDefeatDarkhammer, ballchain"
-								]
+								"name": "Snowpeak Ruins Chest After Darkhammer"
 							}
 						]
 					}
@@ -164,9 +127,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins East Courtyard",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsEastCourtyard"
-				],
 				"children": [
 					{
 						"name": "East Courtyard Buried Chest",
@@ -184,10 +144,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins East Courtyard Buried Chest",
-								"access_rules": [
-									"shadowcrystal"
-								]
+								"name": "Snowpeak Ruins East Courtyard Buried Chest"
 							}
 						]
 					},
@@ -207,10 +164,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins East Courtyard Chest",
-								"access_rules": [
-									""
-								]
+								"name": "Snowpeak Ruins East Courtyard Chest"
 							}
 						]
 					}
@@ -218,9 +172,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins Entrance",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsEntrance"
-				],
 				"children": [
 					{
 						"name": "Lobby Chandelier Chest",
@@ -238,13 +189,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Lobby Chandelier Chest",
-								"access_rules": [
-									"srsmallkey:3, cheese, ballchain, shadowcrystal",
-									"[glitcheson], srsmallkey:3, cheese, ballchain",
-									"[glitcheson], clawshot, ballchain",
-									"[glitcheson], shadowcrystal, ^$canDoLJA"
-								]
+								"name": "Snowpeak Ruins Lobby Chandelier Chest"
 							}
 						]
 					},
@@ -264,10 +209,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Lobby West Armor Chest",
-								"access_rules": [
-									"ballchain"
-								]
+								"name": "Snowpeak Ruins Lobby West Armor Chest"
 							}
 						]
 					},
@@ -287,20 +229,12 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Lobby East Armor Chest",
-								"access_rules": [
-									"ballchain"
-								]
+								"name": "Snowpeak Ruins Lobby East Armor Chest"
 							}
 						]
 					},
 					{
 						"name": "Lobby Armor Poe",
-						"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-						"chest_opened_img": "images/Items/PoeSoul.png",
-						"visibility_rules": [
-							"poeson"
-						],
 						"map_locations": [
 							{
 								"map": "sr1f",
@@ -315,20 +249,12 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Lobby Armor Poe",
-								"access_rules": [
-									"shadowcrystal, ballchain"
-								]
+								"name": "Snowpeak Ruins Lobby Armor Poe"
 							}
 						]
 					},
 					{
 						"name": "Lobby Poe",
-						"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-						"chest_opened_img": "images/Items/PoeSoul.png",
-						"visibility_rules": [
-							"poeson"
-						],
 						"map_locations": [
 							{
 								"map": "sr1f",
@@ -343,10 +269,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Lobby Poe",
-								"access_rules": [
-									"shadowcrystal"
-								]
+								"name": "Snowpeak Ruins Lobby Poe"
 							}
 						]
 					}
@@ -354,9 +277,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins Northeast Chilfos Room First Floor",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsNortheastChilfosRoomFirstFloor"
-				],
 				"children": [
 					{
 						"name": "Ordon Pumpkin Chest",
@@ -374,10 +294,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Ordon Pumpkin Chest",
-								"access_rules": [
-									"^$canDefeatChilfos"
-								]
+								"name": "Snowpeak Ruins Ordon Pumpkin Chest"
 							}
 						]
 					}
@@ -385,9 +302,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins Northeast Chilfos Room Second Floor",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsNortheastChilfosRoomSecondFloor"
-				],
 				"children": [
 					{
 						"name": "Northeast Chandelier Chest",
@@ -405,10 +319,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Northeast Chandelier Chest",
-								"access_rules": [
-									"^$canDefeatChilfos, ballchain"
-								]
+								"name": "Snowpeak Ruins Northeast Chandelier Chest"
 							}
 						]
 					}
@@ -416,17 +327,9 @@
 			},
 			{
 				"name": "Snowpeak Ruins Second Floor Mini Freezard Room",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsSecondFloorMiniFreezardRoom"
-				],
 				"children": [
 					{
 						"name": "Ice Room Poe",
-						"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-						"chest_opened_img": "images/Items/PoeSoul.png",
-						"visibility_rules": [
-							"poeson"
-						],
 						"map_locations": [
 							{
 								"map": "sr2f",
@@ -441,10 +344,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Ice Room Poe",
-								"access_rules": [
-									"shadowcrystal"
-								]
+								"name": "Snowpeak Ruins Ice Room Poe"
 							}
 						]
 					}
@@ -452,9 +352,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins West Cannon Room",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsWestCannonRoom"
-				],
 				"children": [
 					{
 						"name": "West Cannon Room Central Chest",
@@ -472,10 +369,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins West Cannon Room Central Chest",
-								"access_rules": [
-									"ballchain"
-								]
+								"name": "Snowpeak Ruins West Cannon Room Central Chest"
 							}
 						]
 					},
@@ -495,10 +389,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins West Cannon Room Corner Chest",
-								"access_rules": [
-									"^$canSmash"
-								]
+								"name": "Snowpeak Ruins West Cannon Room Corner Chest"
 							}
 						]
 					}
@@ -506,9 +397,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins West Courtyard",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsWestCourtyard"
-				],
 				"children": [
 					{
 						"name": "West Courtyard Buried Chest",
@@ -526,10 +414,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins West Courtyard Buried Chest",
-								"access_rules": [
-									"shadowcrystal"
-								]
+								"name": "Snowpeak Ruins West Courtyard Buried Chest"
 							}
 						]
 					},
@@ -549,12 +434,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Courtyard Central Chest",
-								"access_rules": [
-									"ballchain",
-									"^$hasBombs, srsmallkey:2",
-									"glitchesoff, ^$hasBombs, cheese"
-								]
+								"name": "Snowpeak Ruins Courtyard Central Chest"
 							}
 						]
 					}
@@ -562,9 +442,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins Wooden Beam Room",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsWoodenBeamRoom"
-				],
 				"children": [
 					{
 						"name": "Wooden Beam Central Chest",
@@ -582,10 +459,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Wooden Beam Central Chest",
-								"access_rules": [
-									"^$canDefeatIceKeese"
-								]
+								"name": "Snowpeak Ruins Wooden Beam Central Chest"
 							}
 						]
 					},
@@ -605,10 +479,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Wooden Beam Northwest Chest",
-								"access_rules": [
-									"^$canDefeatIceKeese"
-								]
+								"name": "Snowpeak Ruins Wooden Beam Northwest Chest"
 							}
 						]
 					},
@@ -628,11 +499,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Wooden Beam Chandelier Chest",
-								"access_rules": [
-									"cheese, ballchain",
-									"[glitcheson], cheese, ^$canDoLJA"
-								]
+								"name": "Snowpeak Ruins Wooden Beam Chandelier Chest"
 							}
 						]
 					}
@@ -640,9 +507,6 @@
 			},
 			{
 				"name": "Snowpeak Ruins Yeto and Yeta",
-				"access_rules": [
-					"^$canAccess|SnowpeakRuinsYetoandYeta"
-				],
 				"children": [
 					{
 						"name": "Mansion Map",
@@ -660,41 +524,7 @@
 						],
 						"sections": [
 							{
-								"name": "Snowpeak Ruins Mansion Map",
-								"access_rules": [
-									""
-								]
-							}
-						]
-					},
-					{
-						"name": "Hint Sign",
-						"map_locations": [
-							{
-								"map": "sr1f",
-								"x": 654,
-								"y": 954,
-								"shape": "triangle",
-								"orientation": "south"
-							},
-							{
-								"map": "srfull",
-								"x": 309,
-								"y": 451,
-								"shape": "triangle",
-								"orientation": "south"
-							}
-						],
-						"sections": [
-							{
-								"access_rules": [
-									"{^$canAccess|SnowpeakRuinsYetoandYeta}"
-								],
-								"visibility_rules": [
-									"hintson"
-								],
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png"
+								"name": "Snowpeak Ruins Mansion Map"
 							}
 						]
 					}

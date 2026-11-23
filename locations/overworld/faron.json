@@ -7,123 +7,49 @@
 				"children": [
 					{
 						"name": "South Faron Woods",
-						"access_rules": [
-							"^$canAccess|SouthFaronWoods"
-						],
 						"children": [
 							{
 								"name": "Coro",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4900,
-										"y": 7409
+										"x": 1225,
+										"y": 1852
 									}
 								],
 								"sections": [
 									{
-										"name": "Coro Bottle",
-										"access_rules": [
-											"$Not|reducedwalletsize",
-											"mediumwallet"
-										]
+										"name": "Coro Bottle"
 									},
 									{
-										"name": "Coro Lantern",
-										"access_rules": [
-											""
-										]
+										"name": "Coro Lantern"
 									},
 									{
-										"name": "Coro Gate Key",
-										"access_rules": [
-											""
-										]
-									}
-								]
-							},
-							{
-								"name": "South Faron Portal",
-								"visibility_rules": [
-									"portals"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4787,
-										"y": 7684
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											""
-										],
-										"hosted_item": "sfwportal"
+										"name": "Coro Gate Key"
 									}
 								]
 							},
 							{
 								"name": "Faron Woods Coro Boulder",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4886,
-										"y": 7311
+										"x": 1222,
+										"y": 1828
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Woods Coro Boulder Rupee 1",
-										"access_rules": [
-											"^$canSmash"
-										]
+										"name": "Faron Woods Coro Boulder Rupee 1"
 									},
 									{
-										"name": "Faron Woods Coro Boulder Rupee 2",
-										"access_rules": [
-											"^$canSmash"
-										]
+										"name": "Faron Woods Coro Boulder Rupee 2"
 									},
 									{
-										"name": "Faron Woods Coro Boulder Rupee 3",
-										"access_rules": [
-											"^$canSmash"
-										]
+										"name": "Faron Woods Coro Boulder Rupee 3"
 									},
 									{
-										"name": "Faron Woods Coro Boulder Rupee 4",
-										"access_rules": [
-											"^$canSmash"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4940,
-										"y": 7475,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "Faron Woods Coro Boulder Rupee 4"
 									}
 								]
 							}
@@ -131,27 +57,19 @@
 					},
 					{
 						"name": "South Faron Woods Owl Statue Area",
-						"access_rules": [
-							"^$canAccess|SouthFaronWoodsOwlStatueArea"
-						],
 						"children": [
 							{
 								"name": "Faron Woods Owl Statue Sky Character",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4804,
-										"y": 7229
+										"x": 1201,
+										"y": 1807
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Woods Owl Statue Sky Character",
-										"access_rules": [
-											"glitchesoff, ^$canClearForest, powereddominionrod",
-											"[glitcheson], powereddominionrod, ^$canDoMapGlitch",
-											"[glitcheson], powereddominionrod, ^$canSmash, ^$canClearForest"
-										]
+										"name": "Faron Woods Owl Statue Sky Character"
 									}
 								]
 							}
@@ -159,24 +77,19 @@
 					},
 					{
 						"name": "Faron Woods Cave",
-						"access_rules": [
-							"^$canAccess|FaronWoodsCave"
-						],
 						"children": [
 							{
 								"name": "South Cave",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4713,
-										"y": 7446,
-										"shape": "trapezoid"
+										"x": 1178,
+										"y": 1862
 									}
 								],
 								"sections": [
 									{
-										"name": "Chest",
-										"ref": "Faron Province/Submaps/Faron Woods Cave/South Faron Cave Chest/South Faron Cave Chest"
+										"name": "Chest"
 									}
 								]
 							}
@@ -184,27 +97,19 @@
 					},
 					{
 						"name": "Mist Area Inside Mist",
-						"access_rules": [
-							"^$canAccess|MistAreaInsideMist"
-						],
 						"children": [
 							{
 								"name": "Faron Mist Stump Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4514,
-										"y": 7219
+										"x": 1128,
+										"y": 1805
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Mist Stump Chest",
-										"access_rules": [
-											"lantern, ^$canCompletePrologue, ^$canCompleteFaronTwilight",
-											"lantern, ^$canCompletePrologue, shadowcrystal",
-											"[glitcheson], shadowcrystal, ^$canCompletePrologue"
-										]
+										"name": "Faron Mist Stump Chest"
 									}
 								]
 							},
@@ -213,18 +118,13 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4559,
-										"y": 6998
+										"x": 1140,
+										"y": 1750
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Mist North Chest",
-										"access_rules": [
-											"lantern, ^$canCompletePrologue, ^$canCompleteFaronTwilight",
-											"lantern, ^$canCompletePrologue, shadowcrystal",
-											"[glitcheson], ^$canDoMapGlitch, ^$canCompletePrologue"
-										]
+										"name": "Faron Mist North Chest"
 									}
 								]
 							},
@@ -233,18 +133,13 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4501,
-										"y": 7361
+										"x": 1125,
+										"y": 1840
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Mist South Chest",
-										"access_rules": [
-											"lantern, ^$canCompletePrologue, ^$canCompleteFaronTwilight",
-											"lantern, ^$canCompletePrologue, shadowcrystal",
-											"[glitcheson], ^$canDoMapGlitch, ^$canCompletePrologue"
-										]
+										"name": "Faron Mist South Chest"
 									}
 								]
 							}
@@ -252,25 +147,19 @@
 					},
 					{
 						"name": "Mist Area Near Owl Statue Chest",
-						"access_rules": [
-							"^$canAccess|MistAreaNearOwlStatueChest"
-						],
 						"children": [
 							{
 								"name": "Faron Woods Owl Statue Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4668,
-										"y": 7194
+										"x": 1167,
+										"y": 1798
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Woods Owl Statue Chest",
-										"access_rules": [
-											""
-										]
+										"name": "Faron Woods Owl Statue Chest"
 									}
 								]
 							}
@@ -278,30 +167,19 @@
 					},
 					{
 						"name": "Mist Area Center Stump",
-						"access_rules": [
-							"^$canAccess|MistAreaCenterStump"
-						],
 						"children": [
 							{
 								"name": "Faron Mist Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4515,
-										"y": 7190
+										"x": 1129,
+										"y": 1798
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Mist Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompletePrologue, ^$canCompleteFaronTwilight"
-										]
+										"name": "Faron Mist Poe"
 									}
 								]
 							}
@@ -309,31 +187,22 @@
 					},
 					{
 						"name": "Mist Area Faron Mist Cave",
-						"access_rules": [
-							"^$canAccess|MistAreaFaronMistCave"
-						],
 						"children": [
 							{
 								"name": "Faron Mist Cave",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4810,
-										"y": 7021
+										"x": 1202,
+										"y": 1755
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Mist Cave Open Chest",
-										"access_rules": [
-											""
-										]
+										"name": "Faron Mist Cave Open Chest"
 									},
 									{
-										"name": "Faron Mist Cave Lantern Chest",
-										"access_rules": [
-											"lantern"
-										]
+										"name": "Faron Mist Cave Lantern Chest"
 									}
 								]
 							}
@@ -341,25 +210,19 @@
 					},
 					{
 						"name": "North Faron Woods",
-						"access_rules": [
-							"^$canAccess|NorthFaronWoods"
-						],
 						"children": [
 							{
 								"name": "North Faron Woods Deku Baba Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4125,
-										"y": 7122
+										"x": 1031,
+										"y": 1780
 									}
 								],
 								"sections": [
 									{
-										"name": "North Faron Woods Deku Baba Chest",
-										"access_rules": [
-											""
-										]
+										"name": "North Faron Woods Deku Baba Chest"
 									}
 								]
 							},
@@ -368,63 +231,13 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4184,
-										"y": 7106
+										"x": 1046,
+										"y": 1776
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Woods Golden Wolf",
-										"access_rules": [
-											""
-										]
-									}
-								]
-							},
-							{
-								"name": "North Faron Portal",
-								"visibility_rules": [
-									"portals"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4232,
-										"y": 7342
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											""
-										],
-										"hosted_item": "nfwportal"
-									}
-								]
-							}
-						]
-					},
-					{
-						"name": "North Faron Lost Woods Entrance",
-						"access_rules": [
-							"^$canAccess|NorthFaronLostWoodsEntrance"
-						],
-						"children": [
-							{
-								"name": "South Castle Town Stone",
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4043,
-										"y": 7351
-									}
-								],
-								"sections": [
-									{
-										"hosted_item": "nfwhowlingstone",
-										"access_rules": [
-											"{^$canAccess|NorthFaronLostWoodsEntrance, shadowcrystal}"
-										]
+										"name": "Faron Woods Golden Wolf"
 									}
 								]
 							}
@@ -437,26 +250,19 @@
 				"children": [
 					{
 						"name": "Faron Field",
-						"access_rules": [
-							"^$canAccess|FaronField"
-						],
 						"children": [
 							{
 								"name": "Faron Field Bridge Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4888,
-										"y": 6133
+										"x": 1222,
+										"y": 1533
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Field Bridge Chest",
-										"access_rules": [
-											"clawshot",
-											"[glitcheson], ^$canDoStorage"
-										]
+										"name": "Faron Field Bridge Chest"
 									}
 								]
 							},
@@ -465,114 +271,58 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4916,
-										"y": 6274
+										"x": 1229,
+										"y": 1568
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Field Tree Heart Piece",
-										"access_rules": [
-											"boomerang",
-											"clawshot",
-											"[glitcheson], ballchain"
-										]
+										"name": "Faron Field Tree Heart Piece"
 									}
 								]
 							},
 							{
 								"name": "Faron Field Male Beetle",
-								"chest_unopened_img": "images/Items/Bug4Grayed.png",
-								"chest_opened_img": "images/Items/Bug4.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4755,
-										"y": 6324
+										"x": 1189,
+										"y": 1581
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Field Male Beetle",
-										"access_rules": [
-											""
-										]
+										"name": "Faron Field Male Beetle"
 									}
 								]
 							},
 							{
 								"name": "Faron Field Female Beetle",
-								"chest_unopened_img": "images/Items/Bug5Grayed.png",
-								"chest_opened_img": "images/Items/Bug5.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 5186,
-										"y": 5929
+										"x": 1296,
+										"y": 1482
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Field Female Beetle",
-										"access_rules": [
-											"boomerang",
-											"clawshot",
-											"[glitcheson], ^$canDoStorage"
-										]
+										"name": "Faron Field Female Beetle"
 									}
 								]
 							},
 							{
 								"name": "Faron Field Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4952,
-										"y": 5930
+										"x": 1238,
+										"y": 1482
 									}
 								],
 								"sections": [
 									{
-										"name": "Faron Field Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteMDH, ^$canCompleteAllTwilight"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4889,
-										"y": 6177,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "Faron Field Poe"
 									}
 								]
 							}
@@ -580,32 +330,25 @@
 					},
 					{
 						"name": "Faron Field Corner Grotto",
-						"access_rules": [
-							"^$canAccess|FaronFieldCornerGrotto"
-						],
 						"children": [
 							{
 								"name": "Faron Field Corner Grotto",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 5182,
-										"y": 6661,
-										"shape": "trapezoid"
+										"x": 1296,
+										"y": 1665
 									}
 								],
 								"sections": [
 									{
-										"name": "Left Chest",
-										"ref": "Faron Province/Submaps/Faron Field Corner Grotto/Faron Field Corner Grotto Left Chest/Faron Field Corner Grotto Left Chest"
+										"name": "Left Chest"
 									},
 									{
-										"name": "Right Chest",
-										"ref": "Faron Province/Submaps/Faron Field Corner Grotto/Faron Field Corner Grotto Right Chest/Faron Field Corner Grotto Right Chest"
+										"name": "Right Chest"
 									},
 									{
-										"name": "Rear Chest",
-										"ref": "Faron Province/Submaps/Faron Field Corner Grotto/Faron Field Corner Grotto Rear Chest/Faron Field Corner Grotto Rear Chest"
+										"name": "Rear Chest"
 									}
 								]
 							}
@@ -618,49 +361,34 @@
 				"children": [
 					{
 						"name": "Lost Woods",
-						"access_rules": [
-							"^$canAccess|LostWoods"
-						],
 						"children": [
 							{
 								"name": "Lost Woods Lantern Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3267,
-										"y": 6960
+										"x": 817,
+										"y": 1740
 									}
 								],
 								"sections": [
 									{
-										"name": "Lost Woods Lantern Chest",
-										"access_rules": [
-											"lantern, ^$canDefeatSkullKid",
-											"lantern, skipsacredgroveentranceon"
-										]
+										"name": "Lost Woods Lantern Chest"
 									}
 								]
 							},
 							{
 								"name": "Lost Woods Waterfall Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3048,
-										"y": 7166
+										"x": 762,
+										"y": 1792
 									}
 								],
 								"sections": [
 									{
-										"name": "Lost Woods Waterfall Poe",
-										"access_rules": [
-											"shadowcrystal"
-										]
+										"name": "Lost Woods Waterfall Poe"
 									}
 								]
 							}
@@ -668,49 +396,34 @@
 					},
 					{
 						"name": "Lost Woods Lower Battle Arena",
-						"access_rules": [
-							"^$canAccess|LostWoodsLowerBattleArena"
-						],
 						"children": [
 							{
 								"name": "Sacred Grove Spinner Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3456,
-										"y": 7150
+										"x": 864,
+										"y": 1788
 									}
 								],
 								"sections": [
 									{
-										"name": "Sacred Grove Spinner Chest",
-										"access_rules": [
-											"spinner",
-											"[glitcheson], ^$canDoLJA"
-										]
+										"name": "Sacred Grove Spinner Chest"
 									}
 								]
 							},
 							{
 								"name": "Lost Woods Boulder Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3502,
-										"y": 7145
+										"x": 876,
+										"y": 1786
 									}
 								],
 								"sections": [
 									{
-										"name": "Lost Woods Boulder Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canSmash"
-										]
+										"name": "Lost Woods Boulder Poe"
 									}
 								]
 							}
@@ -718,57 +431,19 @@
 					},
 					{
 						"name": "Lost Woods Baba Serpent Grotto",
-						"access_rules": [
-							"^$canAccess|LostWoodsBabaSerpentGrotto"
-						],
 						"children": [
 							{
 								"name": "Baba Serpent Grotto",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3502,
-										"y": 7114,
-										"shape": "trapezoid"
+										"x": 876,
+										"y": 1778
 									}
 								],
 								"sections": [
 									{
-										"name": "Chest",
-										"ref": "Faron Province/Submaps/Lost Woods Baba Serpent Grotto/Sacred Grove Baba Serpent Grotto Chest/Sacred Grove Baba Serpent Grotto Chest"
-									}
-								]
-							}
-						]
-					},
-					{
-						"name": "Sacred Grove Upper",
-						"access_rules": [
-							"^$canAccess|SacredGroveUpper"
-						],
-						"children": [
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 3627,
-										"y": 7209,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "Chest"
 									}
 								]
 							}
@@ -776,54 +451,34 @@
 					},
 					{
 						"name": "Sacred Grove Lower",
-						"access_rules": [
-							"^$canAccess|SacredGroveLower"
-						],
 						"children": [
 							{
 								"name": "Sacred Grove Male Snail",
-								"chest_unopened_img": "images/Items/Bug16Grayed.png",
-								"chest_opened_img": "images/Items/Bug16.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3721,
-										"y": 7185
+										"x": 930,
+										"y": 1796
 									}
 								],
 								"sections": [
 									{
-										"name": "Sacred Grove Male Snail",
-										"access_rules": [
-											"clawshot",
-											"boomerang"
-										]
+										"name": "Sacred Grove Male Snail"
 									}
 								]
 							},
 							{
 								"name": "Sacred Grove Master Sword Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3702,
-										"y": 6867
+										"x": 926,
+										"y": 1717
 									}
 								],
 								"sections": [
 									{
-										"name": "Sacred Grove Master Sword Poe",
-										"access_rules": [
-											"shadowcrystal"
-										]
+										"name": "Sacred Grove Master Sword Poe"
 									}
 								]
 							},
@@ -832,43 +487,16 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3676,
-										"y": 6800
+										"x": 919,
+										"y": 1700
 									}
 								],
 								"sections": [
 									{
-										"name": "Sacred Grove Pedestal Master Sword",
-										"access_rules": [
-											""
-										]
+										"name": "Sacred Grove Pedestal Master Sword"
 									},
 									{
-										"name": "Sacred Grove Pedestal Shadow Crystal",
-										"access_rules": [
-											""
-										]
-									}
-								]
-							},
-							{
-								"name": "Sacred Grove Portal",
-								"visibility_rules": [
-									"portals"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 3676,
-										"y": 7101
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"^$canDefeatShadowBeast"
-										],
-										"hosted_item": "sgportal"
+										"name": "Sacred Grove Pedestal Shadow Crystal"
 									}
 								]
 							}
@@ -876,32 +504,25 @@
 					},
 					{
 						"name": "Sacred Grove Past",
-						"access_rules": [
-							"^$canAccess|SacredGrovePast"
-						],
 						"children": [
 							{
 								"name": "Sacred Grove",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3676,
-										"y": 7184,
-										"shape": "trapezoid"
+										"x": 919,
+										"y": 1796
 									}
 								],
 								"sections": [
 									{
-										"name": "Past Owl Statue Chest",
-										"ref": "Faron Province/Submaps/Sacred Grove Past/Sacred Grove Past Owl Statue Chest/Sacred Grove Past Owl Statue Chest"
+										"name": "Past Owl Statue Chest"
 									},
 									{
-										"name": "Female Snail",
-										"ref": "Faron Province/Submaps/Sacred Grove Past/Sacred Grove Female Snail/Sacred Grove Female Snail"
+										"name": "Female Snail"
 									},
 									{
-										"name": "Temple of Time Owl Statue Poe",
-										"ref": "Faron Province/Submaps/Sacred Grove Past/Sacred Grove Temple of Time Owl Statue Poe/Sacred Grove Temple of Time Owl Statue Poe"
+										"name": "Temple of Time Owl Statue Poe"
 									}
 								]
 							}
@@ -914,9 +535,6 @@
 				"children": [
 					{
 						"name": "Faron Woods Cave",
-						"access_rules": [
-							"^$canAccess|FaronWoodsCave"
-						],
 						"children": [
 							{
 								"name": "South Faron Cave Chest",
@@ -929,10 +547,7 @@
 								],
 								"sections": [
 									{
-										"name": "South Faron Cave Chest",
-										"access_rules": [
-											""
-										]
+										"name": "South Faron Cave Chest"
 									}
 								]
 							}
@@ -940,9 +555,6 @@
 					},
 					{
 						"name": "Faron Field Corner Grotto",
-						"access_rules": [
-							"^$canAccess|FaronFieldCornerGrotto"
-						],
 						"children": [
 							{
 								"name": "Faron Field Corner Grotto Left Chest",
@@ -955,10 +567,7 @@
 								],
 								"sections": [
 									{
-										"name": "Faron Field Corner Grotto Left Chest",
-										"access_rules": [
-											""
-										]
+										"name": "Faron Field Corner Grotto Left Chest"
 									}
 								]
 							},
@@ -973,10 +582,7 @@
 								],
 								"sections": [
 									{
-										"name": "Faron Field Corner Grotto Right Chest",
-										"access_rules": [
-											""
-										]
+										"name": "Faron Field Corner Grotto Right Chest"
 									}
 								]
 							},
@@ -991,10 +597,7 @@
 								],
 								"sections": [
 									{
-										"name": "Faron Field Corner Grotto Rear Chest",
-										"access_rules": [
-											""
-										]
+										"name": "Faron Field Corner Grotto Rear Chest"
 									}
 								]
 							}
@@ -1002,9 +605,6 @@
 					},
 					{
 						"name": "Lost Woods Baba Serpent Grotto",
-						"access_rules": [
-							"^$canAccess|LostWoodsBabaSerpentGrotto"
-						],
 						"children": [
 							{
 								"name": "Sacred Grove Baba Serpent Grotto Chest",
@@ -1017,15 +617,7 @@
 								],
 								"sections": [
 									{
-										"name": "Sacred Grove Baba Serpent Grotto Chest",
-										"access_rules": [
-											"^$canDefeatBabaSerpent, ^$canKnockDownHangingBaba",
-											"[glitcheson], ^$canDefeatBabaSerpentGlitched, sword",
-											"[glitcheson], ^$canDefeatBabaSerpentGlitched, shadowcrystal",
-											"[glitcheson], ^$canDefeatBabaSerpentGlitched, slingshot",
-											"[glitcheson], ^$canDefeatBabaSerpentGlitched, ballchain",
-											"[glitcheson], ^$canDefeatBabaSerpentGlitched, ^$hasBombs"
-										]
+										"name": "Sacred Grove Baba Serpent Grotto Chest"
 									}
 								]
 							}
@@ -1033,9 +625,6 @@
 					},
 					{
 						"name": "Sacred Grove Past",
-						"access_rules": [
-							"^$canAccess|SacredGrovePast"
-						],
 						"children": [
 							{
 								"name": "Sacred Grove Past Owl Statue Chest",
@@ -1048,21 +637,12 @@
 								],
 								"sections": [
 									{
-										"name": "Sacred Grove Past Owl Statue Chest",
-										"access_rules": [
-											"dominionrod",
-											"[glitcheson], shadowcrystal"
-										]
+										"name": "Sacred Grove Past Owl Statue Chest"
 									}
 								]
 							},
 							{
 								"name": "Sacred Grove Female Snail",
-								"chest_unopened_img": "images/Items/Bug17Grayed.png",
-								"chest_opened_img": "images/Items/Bug17.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "psg",
@@ -1072,21 +652,12 @@
 								],
 								"sections": [
 									{
-										"name": "Sacred Grove Female Snail",
-										"access_rules": [
-											"clawshot",
-											"boomerang"
-										]
+										"name": "Sacred Grove Female Snail"
 									}
 								]
 							},
 							{
 								"name": "Sacred Grove Temple of Time Owl Statue Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "psg",
@@ -1096,10 +667,7 @@
 								],
 								"sections": [
 									{
-										"name": "Sacred Grove Temple of Time Owl Statue Poe",
-										"access_rules": [
-											"shadowcrystal, dominionrod"
-										]
+										"name": "Sacred Grove Temple of Time Owl Statue Poe"
 									}
 								]
 							}

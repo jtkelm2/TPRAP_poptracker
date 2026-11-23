@@ -4,9 +4,6 @@
 		"children": [
 			{
 				"name": "City in The Sky Boss Room",
-				"access_rules": [
-					"^$canAccess|CityinTheSkyBossRoom"
-				],
 				"children": [
 					{
 						"name": "Argorok Boss",
@@ -24,23 +21,10 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Argorok Heart Container",
-								"access_rules": [
-									"^$canDefeatArgorok"
-								]
+								"name": "City in The Sky Argorok Heart Container"
 							},
 							{
-								"name": "City in The Sky Dungeon Reward",
-								"access_rules": [
-									"^$canDefeatArgorok"
-								]
-							},
-							{
-								"name": "Argorok",
-								"access_rules": [
-									"^$canDefeatArgorok"
-								],
-								"hosted_item": "cscompleted"
+								"name": "City in The Sky Dungeon Reward"
 							}
 						]
 					}
@@ -48,9 +32,6 @@
 			},
 			{
 				"name": "City in The Sky Central Tower Second Floor",
-				"access_rules": [
-					"^$canAccess|CityinTheSkyCentralTowerSecondFloor"
-				],
 				"children": [
 					{
 						"name": "Central Outside Ledge Chest",
@@ -68,12 +49,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Central Outside Ledge Chest",
-								"access_rules": [
-									"^$canDefeatDinalfos, ^$canDefeatWalltula, ^$canDefeatKargorok, shadowcrystal",
-									"[glitcheson], ^$canDefeatKargorok, ^$canDefeatWalltula, shadowcrystal",
-									"[glitcheson], clawshot"
-								]
+								"name": "City in The Sky Central Outside Ledge Chest"
 							}
 						]
 					},
@@ -93,12 +69,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Central Outside Poe Island Chest",
-								"access_rules": [
-									"^$canDefeatDinalfos, ^$canDefeatWalltula, ^$canDefeatKargorok, shadowcrystal",
-									"[glitcheson], ^$canDefeatKargorok, ^$canDefeatWalltula, shadowcrystal",
-									"[glitcheson], clawshot, shadowcrystal"
-								]
+								"name": "City in The Sky Central Outside Poe Island Chest"
 							}
 						]
 					},
@@ -118,15 +89,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Big Key Chest",
-								"access_rules": [
-									"^$canDefeatDinalfos, ^$canDefeatWalltula, ^$canDefeatKargorok, shadowcrystal, clawshot",
-									"^$canDefeatDinalfos, ^$canDefeatWalltula, ^$canDefeatKargorok, shadowcrystal, boots",
-									"[glitcheson], ^$canDefeatKargorok, shadowcrystal",
-									"[glitcheson], shadowcrystal, clawshot",
-									"[glitcheson], ^$canDoLJA, clawshot",
-									"[glitcheson], doubleclawshot"
-								]
+								"name": "City in The Sky Big Key Chest"
 							}
 						]
 					},
@@ -146,20 +109,12 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Chest Below Big Key Chest",
-								"access_rules": [
-									"^$canDefeatHelmasaur"
-								]
+								"name": "City in The Sky Chest Below Big Key Chest"
 							}
 						]
 					},
 					{
 						"name": "Poe Above Central Fan",
-						"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-						"chest_opened_img": "images/Items/PoeSoul.png",
-						"visibility_rules": [
-							"poeson"
-						],
 						"map_locations": [
 							{
 								"map": "cs4f",
@@ -174,10 +129,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Poe Above Central Fan",
-								"access_rules": [
-									"shadowcrystal, ^$canDefeatWalltula"
-								]
+								"name": "City in The Sky Poe Above Central Fan"
 							}
 						]
 					}
@@ -185,9 +137,6 @@
 			},
 			{
 				"name": "City in The Sky East Wing",
-				"access_rules": [
-					"^$canAccess|CityinTheSkyEastWing"
-				],
 				"children": [
 					{
 						"name": "East First Wing Chest After Fans",
@@ -205,11 +154,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky East First Wing Chest After Fans",
-								"access_rules": [
-									"clawshot",
-									"[glitcheson], ^$canDoLJA"
-								]
+								"name": "City in The Sky East First Wing Chest After Fans"
 							}
 						]
 					},
@@ -229,11 +174,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky East Wing Lower Level Chest",
-								"access_rules": [
-									"doubleclawshot, ^$canDefeatDinalfos, ^$canDefeatTileWorm",
-									"[glitcheson], doubleclawshot"
-								]
+								"name": "City in The Sky East Wing Lower Level Chest"
 							}
 						]
 					},
@@ -253,11 +194,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky East Tile Worm Small Chest",
-								"access_rules": [
-									"clawshot",
-									"[glitcheson], ^$canDoLJA"
-								]
+								"name": "City in The Sky East Tile Worm Small Chest"
 							}
 						]
 					},
@@ -277,11 +214,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky East Wing After Dinalfos Alcove Chest",
-								"access_rules": [
-									"clawshot, ^$canDefeatTileWorm, ^$canDefeatDinalfos",
-									"[glitcheson], clawshot, boots"
-								]
+								"name": "City in The Sky East Wing After Dinalfos Alcove Chest"
 							}
 						]
 					},
@@ -301,11 +234,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky East Wing After Dinalfos Ledge Chest",
-								"access_rules": [
-									"clawshot, ^$canDefeatTileWorm, ^$canDefeatDinalfos",
-									"[glitcheson], clawshot, boots"
-								]
+								"name": "City in The Sky East Wing After Dinalfos Ledge Chest"
 							}
 						]
 					},
@@ -325,11 +254,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Aeralfos Chest",
-								"access_rules": [
-									"^$canDefeatAeralfos, clawshot, boots, ^$canDefeatDinalfos, ^$canDefeatTileWorm",
-									"[glitcheson], ^$canDefeatAeralfos, clawshot, boots, ^$canDefeatDinalfos"
-								]
+								"name": "City in The Sky Aeralfos Chest"
 							}
 						]
 					}
@@ -337,9 +262,6 @@
 			},
 			{
 				"name": "City in The Sky Entrance",
-				"access_rules": [
-					"^$canAccess|CityinTheSkyEntrance"
-				],
 				"children": [
 					{
 						"name": "Underwater West Chest",
@@ -357,11 +279,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Underwater West Chest",
-								"access_rules": [
-									"boots",
-									"[glitcheson], ^$hasHeavyMod"
-								]
+								"name": "City in The Sky Underwater West Chest"
 							}
 						]
 					},
@@ -381,42 +299,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Underwater East Chest",
-								"access_rules": [
-									"boots",
-									"[glitcheson], ^$hasHeavyMod"
-								]
-							}
-						]
-					},
-					{
-						"name": "Hint Sign",
-						"map_locations": [
-							{
-								"map": "cs1f",
-								"x": 1007,
-								"y": 609,
-								"shape": "triangle",
-								"orientation": "south"
-							},
-							{
-								"map": "csfull",
-								"x": 336,
-								"y": 738,
-								"shape": "triangle",
-								"orientation": "south"
-							}
-						],
-						"sections": [
-							{
-								"access_rules": [
-									"{^$canAccess|CityinTheSkyEntrance}"
-								],
-								"visibility_rules": [
-									"hintson"
-								],
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png"
+								"name": "City in The Sky Underwater East Chest"
 							}
 						]
 					}
@@ -424,9 +307,6 @@
 			},
 			{
 				"name": "City in The Sky North Wing",
-				"access_rules": [
-					"^$canAccess|CityinTheSkyNorthWing"
-				],
 				"children": [
 					{
 						"name": "Chest Behind North Fan",
@@ -444,11 +324,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Chest Behind North Fan",
-								"access_rules": [
-									"doubleclawshot",
-									"[glitcheson], clawshot"
-								]
+								"name": "City in The Sky Chest Behind North Fan"
 							}
 						]
 					}
@@ -456,9 +332,6 @@
 			},
 			{
 				"name": "City in The Sky West Wing",
-				"access_rules": [
-					"^$canAccess|CityinTheSkyWestWing"
-				],
 				"children": [
 					{
 						"name": "West Wing First Chest",
@@ -476,10 +349,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky West Wing First Chest",
-								"access_rules": [
-									""
-								]
+								"name": "City in The Sky West Wing First Chest"
 							}
 						]
 					},
@@ -499,10 +369,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky West Wing Baba Balcony Chest",
-								"access_rules": [
-									"doubleclawshot"
-								]
+								"name": "City in The Sky West Wing Baba Balcony Chest"
 							}
 						]
 					},
@@ -522,10 +389,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky West Wing Narrow Ledge Chest",
-								"access_rules": [
-									"doubleclawshot"
-								]
+								"name": "City in The Sky West Wing Narrow Ledge Chest"
 							}
 						]
 					},
@@ -545,10 +409,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky West Wing Tile Worm Chest",
-								"access_rules": [
-									"doubleclawshot"
-								]
+								"name": "City in The Sky West Wing Tile Worm Chest"
 							}
 						]
 					},
@@ -568,10 +429,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Baba Tower Top Small Chest",
-								"access_rules": [
-									"^$canDefeatBabaSerpent, ^$canDefeatBigBaba, doubleclawshot"
-								]
+								"name": "City in The Sky Baba Tower Top Small Chest"
 							}
 						]
 					},
@@ -591,10 +449,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Baba Tower Narrow Ledge Chest",
-								"access_rules": [
-									"^$canDefeatBabaSerpent, ^$canDefeatBigBaba, doubleclawshot"
-								]
+								"name": "City in The Sky Baba Tower Narrow Ledge Chest"
 							}
 						]
 					},
@@ -614,10 +469,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Baba Tower Alcove Chest",
-								"access_rules": [
-									"^$canDefeatBabaSerpent, ^$canDefeatBigBaba, doubleclawshot"
-								]
+								"name": "City in The Sky Baba Tower Alcove Chest"
 							}
 						]
 					},
@@ -637,10 +489,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky West Garden Corner Chest",
-								"access_rules": [
-									"doubleclawshot"
-								]
+								"name": "City in The Sky West Garden Corner Chest"
 							}
 						]
 					},
@@ -660,10 +509,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky West Garden Lone Island Chest",
-								"access_rules": [
-									"doubleclawshot"
-								]
+								"name": "City in The Sky West Garden Lone Island Chest"
 							}
 						]
 					},
@@ -683,10 +529,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky West Garden Lower Chest",
-								"access_rules": [
-									"doubleclawshot"
-								]
+								"name": "City in The Sky West Garden Lower Chest"
 							}
 						]
 					},
@@ -706,20 +549,12 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky West Garden Ledge Chest",
-								"access_rules": [
-									"doubleclawshot"
-								]
+								"name": "City in The Sky West Garden Ledge Chest"
 							}
 						]
 					},
 					{
 						"name": "Garden Island Poe",
-						"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-						"chest_opened_img": "images/Items/PoeSoul.png",
-						"visibility_rules": [
-							"poeson"
-						],
 						"map_locations": [
 							{
 								"map": "cs2f",
@@ -734,10 +569,7 @@
 						],
 						"sections": [
 							{
-								"name": "City in The Sky Garden Island Poe",
-								"access_rules": [
-									"^$canAccess|CityinTheSkyWestWing, shadowcrystal, doubleclawshot"
-								]
+								"name": "City in The Sky Garden Island Poe"
 							}
 						]
 					}

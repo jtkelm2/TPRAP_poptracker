@@ -4,9 +4,6 @@
 		"children": [
 			{
 				"name": "Palace of Twilight Entrance",
-				"access_rules": [
-					"^$canAccess|PalaceofTwilightEntrance"
-				],
 				"children": [
 					{
 						"name": "Collect Both Sols",
@@ -24,41 +21,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight Collect Both Sols",
-								"access_rules": [
-									"^$canDefeatPhantomZant, clawshot, ^$canDefeatZantHead, ptsmallkey:7, ^$canDefeatShadowBeast"
-								]
-							}
-						]
-					},
-					{
-						"name": "Hint Sign",
-						"map_locations": [
-							{
-								"map": "pt1f",
-								"x": 572,
-								"y": 1467,
-								"shape": "triangle",
-								"orientation": "south"
-							},
-							{
-								"map": "ptfull",
-								"x": 328,
-								"y": 848,
-								"shape": "triangle",
-								"orientation": "south"
-							}
-						],
-						"sections": [
-							{
-								"access_rules": [
-									"{^$canAccess|PalaceofTwilightEntrance}"
-								],
-								"visibility_rules": [
-									"hintson"
-								],
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png"
+								"name": "Palace of Twilight Collect Both Sols"
 							}
 						]
 					}
@@ -66,9 +29,6 @@
 			},
 			{
 				"name": "Palace of Twilight West Wing",
-				"access_rules": [
-					"^$canAccess|PalaceofTwilightWestWing"
-				],
 				"children": [
 					{
 						"name": "West Wing First Room Central Chest",
@@ -86,10 +46,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight West Wing First Room Central Chest",
-								"access_rules": [
-									"^$canDefeatZantHead"
-								]
+								"name": "Palace of Twilight West Wing First Room Central Chest"
 							}
 						]
 					},
@@ -109,10 +66,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight West Wing Chest Behind Wall of Darkness",
-								"access_rules": [
-									"glowingmastersword, clawshot"
-								]
+								"name": "Palace of Twilight West Wing Chest Behind Wall of Darkness"
 							}
 						]
 					},
@@ -132,11 +86,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight West Wing Second Room Central Chest",
-								"access_rules": [
-									"ptsmallkey:6, ^$canDefeatZantHead, clawshot",
-									"skvanilla, ptsmallkey:3, ^$canDefeatZantHead, clawshot"
-								]
+								"name": "Palace of Twilight West Wing Second Room Central Chest"
 							}
 						]
 					},
@@ -156,11 +106,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight West Wing Second Room Lower South Chest",
-								"access_rules": [
-									"ptsmallkey:6, ^$canDefeatZantHead, clawshot",
-									"skvanilla, ptsmallkey:3, ^$canDefeatZantHead, clawshot"
-								]
+								"name": "Palace of Twilight West Wing Second Room Lower South Chest"
 							}
 						]
 					},
@@ -180,11 +126,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight West Wing Second Room Southeast Chest",
-								"access_rules": [
-									"ptsmallkey:6, ^$canDefeatZantHead, doubleclawshot",
-									"skvanilla, ptsmallkey:3, ^$canDefeatZantHead, doubleclawshot"
-								]
+								"name": "Palace of Twilight West Wing Second Room Southeast Chest"
 							}
 						]
 					}
@@ -192,9 +134,6 @@
 			},
 			{
 				"name": "Palace of Twilight East Wing",
-				"access_rules": [
-					"^$canAccess|PalaceofTwilightEastWing"
-				],
 				"children": [
 					{
 						"name": "East Wing First Room North Small Chest",
@@ -212,11 +151,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight East Wing First Room North Small Chest",
-								"access_rules": [
-									"clawshot",
-									"glowingmastersword"
-								]
+								"name": "Palace of Twilight East Wing First Room North Small Chest"
 							}
 						]
 					},
@@ -236,11 +171,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight East Wing First Room Zant Head Chest",
-								"access_rules": [
-									"^$canDefeatZantHead, clawshot",
-									"^$canDefeatZantHead, glowingmastersword"
-								]
+								"name": "Palace of Twilight East Wing First Room Zant Head Chest"
 							}
 						]
 					},
@@ -260,11 +191,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight East Wing First Room East Alcove Chest",
-								"access_rules": [
-									"glowingmastersword",
-									"^$canDefeatPhantomZant, clawshot, ^$canDefeatZantHead, ptsmallkey:7, ^$canDefeatShadowBeast"
-								]
+								"name": "Palace of Twilight East Wing First Room East Alcove Chest"
 							}
 						]
 					},
@@ -284,11 +211,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight East Wing First Room West Alcove Chest",
-								"access_rules": [
-									"glowingmastersword",
-									"^$canDefeatPhantomZant, clawshot, ^$canDefeatZantHead, ptsmallkey:7, ^$canDefeatShadowBeast"
-								]
+								"name": "Palace of Twilight East Wing First Room West Alcove Chest"
 							}
 						]
 					},
@@ -308,11 +231,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight East Wing Second Room Northeast Chest",
-								"access_rules": [
-									"^$canDefeatZantHead, ^$canDefeatShadowBeast, doubleclawshot, ptsmallkey:6",
-									"^$canDefeatZantHead, ^$canDefeatShadowBeast, doubleclawshot, skvanilla, ptsmallkey:3"
-								]
+								"name": "Palace of Twilight East Wing Second Room Northeast Chest"
 							}
 						]
 					},
@@ -332,11 +251,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight East Wing Second Room Northwest Chest",
-								"access_rules": [
-									"^$canDefeatZantHead, ^$canDefeatShadowBeast, clawshot, ptsmallkey:6",
-									"^$canDefeatZantHead, ^$canDefeatShadowBeast, clawshot, skvanilla, ptsmallkey:3"
-								]
+								"name": "Palace of Twilight East Wing Second Room Northwest Chest"
 							}
 						]
 					},
@@ -356,11 +271,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight East Wing Second Room Southwest Chest",
-								"access_rules": [
-									"^$canDefeatZantHead, ^$canDefeatShadowBeast, doubleclawshot, ptsmallkey:6",
-									"^$canDefeatZantHead, ^$canDefeatShadowBeast, doubleclawshot, skvanilla, ptsmallkey:3"
-								]
+								"name": "Palace of Twilight East Wing Second Room Southwest Chest"
 							}
 						]
 					},
@@ -380,11 +291,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight East Wing Second Room Southeast Chest",
-								"access_rules": [
-									"^$canDefeatZantHead, ^$canDefeatShadowBeast, doubleclawshot, ptsmallkey:6",
-									"^$canDefeatZantHead, ^$canDefeatShadowBeast, doubleclawshot, skvanilla, ptsmallkey:3"
-								]
+								"name": "Palace of Twilight East Wing Second Room Southeast Chest"
 							}
 						]
 					}
@@ -392,9 +299,6 @@
 			},
 			{
 				"name": "Palace of Twilight Central First Room",
-				"access_rules": [
-					"^$canAccess|PalaceofTwilightCentralFirstRoom"
-				],
 				"children": [
 					{
 						"name": "Central First Room Chest",
@@ -412,10 +316,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight Central First Room Chest",
-								"access_rules": [
-									"^$canDefeatZantHead, glowingmastersword"
-								]
+								"name": "Palace of Twilight Central First Room Chest"
 							}
 						]
 					}
@@ -423,9 +324,6 @@
 			},
 			{
 				"name": "Palace of Twilight Outside Room",
-				"access_rules": [
-					"^$canAccess|PalaceofTwilightOutsideRoom"
-				],
 				"children": [
 					{
 						"name": "Big Key Chest",
@@ -443,10 +341,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight Big Key Chest",
-								"access_rules": [
-									"glowingmastersword, doubleclawshot, ^$canDefeatZantHead"
-								]
+								"name": "Palace of Twilight Big Key Chest"
 							}
 						]
 					},
@@ -466,10 +361,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight Central Outdoor Chest",
-								"access_rules": [
-									"^$canDefeatZantHead"
-								]
+								"name": "Palace of Twilight Central Outdoor Chest"
 							}
 						]
 					}
@@ -477,9 +369,6 @@
 			},
 			{
 				"name": "Palace of Twilight North Tower",
-				"access_rules": [
-					"^$canAccess|PalaceofTwilightNorthTower"
-				],
 				"children": [
 					{
 						"name": "Central Tower Chest",
@@ -497,10 +386,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight Central Tower Chest",
-								"access_rules": [
-									"^$canDefeatZantHead, glowingmastersword, clawshot"
-								]
+								"name": "Palace of Twilight Central Tower Chest"
 							}
 						]
 					}
@@ -508,9 +394,6 @@
 			},
 			{
 				"name": "Palace of Twilight Boss Room",
-				"access_rules": [
-					"^$canAccess|PalaceofTwilightBossRoom"
-				],
 				"children": [
 					{
 						"name": "Zant Boss",
@@ -528,17 +411,7 @@
 						],
 						"sections": [
 							{
-								"name": "Palace of Twilight Zant Heart Container",
-								"access_rules": [
-									"^$canDefeatZant"
-								]
-							},
-							{
-								"name": "Zant",
-								"access_rules": [
-									"^$canDefeatZant"
-								],
-								"hosted_item": "ptcompleted"
+								"name": "Palace of Twilight Zant Heart Container"
 							}
 						]
 					}

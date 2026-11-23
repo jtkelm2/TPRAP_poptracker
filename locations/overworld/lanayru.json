@@ -7,26 +7,19 @@
 				"children": [
 					{
 						"name": "Castle Town West",
-						"access_rules": [
-							"^$canAccess|CastleTownWest"
-						],
 						"children": [
 							{
 								"name": "Charlo Donation Blessing",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4572,
-										"y": 3948
+										"x": 1143,
+										"y": 987
 									}
 								],
 								"sections": [
 									{
-										"name": "Charlo Donation Blessing",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, $Not|reducedwalletsize",
-											"^$canCompleteLanayruTwilight, mediumwallet"
-										]
+										"name": "Charlo Donation Blessing"
 									}
 								]
 							}
@@ -34,61 +27,22 @@
 					},
 					{
 						"name": "Castle Town STAR Game",
-						"access_rules": [
-							"^$canAccess|CastleTownSTARGame"
-						],
 						"children": [
 							{
 								"name": "STAR Tent",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4569,
-										"y": 4036,
-										"shape": "trapezoid"
+										"x": 1142,
+										"y": 1009
 									}
 								],
 								"sections": [
 									{
-										"name": "Prize 1",
-										"ref": "Lanayru Province/Submaps/Castle Town STAR Game/STAR/STAR Prize 1"
+										"name": "Prize 1"
 									},
 									{
-										"name": "Prize 2",
-										"ref": "Lanayru Province/Submaps/Castle Town STAR Game/STAR/STAR Prize 2"
-									}
-								]
-							}
-						]
-					},
-					{
-						"name": "Castle Town Center",
-						"access_rules": [
-							"^$canAccess|CastleTownCenter"
-						],
-						"children": [
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4706,
-										"y": 3993,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "Prize 2"
 									}
 								]
 							}
@@ -96,32 +50,25 @@
 					},
 					{
 						"name": "Castle Town Goron House",
-						"access_rules": [
-							"^$canAccess|CastleTownGoronHouse"
-						],
 						"children": [
 							{
 								"name": "Castle Town Goron Shop",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4655,
-										"y": 4107,
-										"shape": "trapezoid"
+										"x": 1164,
+										"y": 1027
 									}
 								],
 								"sections": [
 									{
-										"name": "Hylian Shield",
-										"ref": "Lanayru Province/Submaps/Castle Town Goron House/Castle Town Goron Shop Hylian Shield/Castle Town Goron Shop Hylian Shield"
+										"name": "Hylian Shield"
 									},
 									{
-										"name": "Red Potion",
-										"ref": "Lanayru Province/Submaps/Castle Town Goron House/Castle Town Goron Shop Red Potion/Castle Town Goron Shop Red Potion"
+										"name": "Red Potion"
 									},
 									{
-										"name": "Lantern Oil",
-										"ref": "Lanayru Province/Submaps/Castle Town Goron House/Castle Town Goron Shop Lantern Oil/Castle Town Goron Shop Lantern Oil"
+										"name": "Lantern Oil"
 									}
 								]
 							}
@@ -129,25 +76,19 @@
 					},
 					{
 						"name": "Castle Town Goron House Balcony",
-						"access_rules": [
-							"^$canAccess|CastleTownGoronHouseBalcony"
-						],
 						"children": [
 							{
 								"name": "Castle Town Goron Shop Arrow Refill",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4655,
-										"y": 4085
+										"x": 1164,
+										"y": 1021
 									}
 								],
 								"sections": [
 									{
-										"name": "Castle Town Goron Shop Arrow Refill",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Castle Town Goron Shop Arrow Refill"
 									}
 								]
 							}
@@ -155,24 +96,19 @@
 					},
 					{
 						"name": "Castle Town Malo Mart",
-						"access_rules": [
-							"^$canAccess|CastleTownMaloMart"
-						],
 						"children": [
 							{
 								"name": "Castle Town Malo Mart",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4760,
-										"y": 4058,
-										"shape": "trapezoid"
+										"x": 1190,
+										"y": 1014
 									}
 								],
 								"sections": [
 									{
-										"name": "Magic Armor",
-										"ref": "Lanayru Province/Submaps/Castle Town Malo Mart/Castle Town Malo Mart Magic Armor/Castle Town Malo Mart Magic Armor"
+										"name": "Magic Armor"
 									}
 								]
 							}
@@ -180,27 +116,19 @@
 					},
 					{
 						"name": "Castle Town North Behind First Door",
-						"access_rules": [
-							"^$canAccess|CastleTownNorthBehindFirstDoor"
-						],
 						"children": [
 							{
 								"name": "North Castle Town Golden Wolf",
-								"chest_unopened_img": "images/Items/GoldenWolfGrayed.png",
-								"chest_opened_img": "images/Items/GoldenWolf.png",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4710,
-										"y": 3719
+										"x": 1178,
+										"y": 930
 									}
 								],
 								"sections": [
 									{
-										"name": "North Castle Town Golden Wolf",
-										"access_rules": [
-											"shadowcrystal, ^$canAccess|HiddenVillage, ^$canCompleteMDH, ^$canCompleteLanayruTwilight, hvhowlingstone"
-										]
+										"name": "North Castle Town Golden Wolf"
 									}
 								]
 							}
@@ -208,50 +136,19 @@
 					},
 					{
 						"name": "Castle Town Doctors Office Balcony",
-						"access_rules": [
-							"^$canAccess|CastleTownDoctorsOfficeBalcony"
-						],
 						"children": [
 							{
 								"name": "Doctors Office Balcony Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4902,
-										"y": 3947
+										"x": 1226,
+										"y": 987
 									}
 								],
 								"sections": [
 									{
-										"name": "Doctors Office Balcony Chest",
-										"access_rules": [
-											""
-										]
-									}
-								]
-							}
-						]
-					},
-					{
-						"name": "Castle Town Doctors Office Lower",
-						"access_rules": [
-							"^$canAccess|CastleTownDoctorsOfficeLower"
-						],
-						"children": [
-							{
-								"name": "Castle Town Doctors Office Lower",
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4921,
-										"y": 3929,
-										"shape": "trapezoid"
-									}
-								],
-								"sections": [
-									{
-										"name": "Medicine Scent",
-										"ref": "Lanayru Province/Submaps/Castle Town Doctors Office Lower/Medicine Scent/"
+										"name": "Doctors Office Balcony Chest"
 									}
 								]
 							}
@@ -259,116 +156,88 @@
 					},
 					{
 						"name": "Castle Town Agithas House",
-						"access_rules": [
-							"^$canAccess|CastleTownAgithasHouse"
-						],
 						"children": [
 							{
 								"name": "Agitha",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4585,
-										"y": 4145,
-										"shape": "trapezoid"
+										"x": 1146,
+										"y": 1036
 									}
 								],
 								"sections": [
 									{
-										"name": "Male Ant Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Ant Reward/Agitha Male Ant Reward"
+										"name": "Male Ant Reward"
 									},
 									{
-										"name": "Female Ant Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Ant Reward/Agitha Female Ant Reward"
+										"name": "Female Ant Reward"
 									},
 									{
-										"name": "Male Dayfly Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Dayfly Reward/Agitha Male Dayfly Reward"
+										"name": "Male Dayfly Reward"
 									},
 									{
-										"name": "Female Dayfly Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Dayfly Reward/Agitha Female Dayfly Reward"
+										"name": "Female Dayfly Reward"
 									},
 									{
-										"name": "Male Beetle Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Beetle Reward/Agitha Male Beetle Reward"
+										"name": "Male Beetle Reward"
 									},
 									{
-										"name": "Female Beetle Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Beetle Reward/Agitha Female Beetle Reward"
+										"name": "Female Beetle Reward"
 									},
 									{
-										"name": "Male Mantis Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Mantis Reward/Agitha Male Mantis Reward"
+										"name": "Male Mantis Reward"
 									},
 									{
-										"name": "Female Mantis Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Mantis Reward/Agitha Female Mantis Reward"
+										"name": "Female Mantis Reward"
 									},
 									{
-										"name": "Male Stag Beetle Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Stag Beetle Reward/Agitha Male Stag Beetle Reward"
+										"name": "Male Stag Beetle Reward"
 									},
 									{
-										"name": "Female Stag Beetle Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Stag Beetle Reward/Agitha Female Stag Beetle Reward"
+										"name": "Female Stag Beetle Reward"
 									},
 									{
-										"name": "Male Pill Bug Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Pill Bug Reward/Agitha Male Pill Bug Reward"
+										"name": "Male Pill Bug Reward"
 									},
 									{
-										"name": "Female Pill Bug Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Pill Bug Reward/Agitha Female Pill Bug Reward"
+										"name": "Female Pill Bug Reward"
 									},
 									{
-										"name": "Male Butterfly Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Butterfly Reward/Agitha Male Butterfly Reward"
+										"name": "Male Butterfly Reward"
 									},
 									{
-										"name": "Female Butterfly Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Butterfly Reward/Agitha Female Butterfly Reward"
+										"name": "Female Butterfly Reward"
 									},
 									{
-										"name": "Male Ladybug Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Ladybug Reward/Agitha Male Ladybug Reward"
+										"name": "Male Ladybug Reward"
 									},
 									{
-										"name": "Female Ladybug Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Ladybug Reward/Agitha Female Ladybug Reward"
+										"name": "Female Ladybug Reward"
 									},
 									{
-										"name": "Male Snail Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Snail Reward/Agitha Male Snail Reward"
+										"name": "Male Snail Reward"
 									},
 									{
-										"name": "Female Snail Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Snail Reward/Agitha Female Snail Reward"
+										"name": "Female Snail Reward"
 									},
 									{
-										"name": "Male Phasmid Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Phasmid Reward/Agitha Male Phasmid Reward"
+										"name": "Male Phasmid Reward"
 									},
 									{
-										"name": "Female Phasmid Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Phasmid Reward/Agitha Female Phasmid Reward"
+										"name": "Female Phasmid Reward"
 									},
 									{
-										"name": "Male Grasshopper Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Grasshopper Reward/Agitha Male Grasshopper Reward"
+										"name": "Male Grasshopper Reward"
 									},
 									{
-										"name": "Female Grasshopper Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Grasshopper Reward/Agitha Female Grasshopper Reward"
+										"name": "Female Grasshopper Reward"
 									},
 									{
-										"name": "Male Dragonfly Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Male Dragonfly Reward/Agitha Male Dragonfly Reward"
+										"name": "Male Dragonfly Reward"
 									},
 									{
-										"name": "Female Dragonfly Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Agithas House/Agitha Female Dragonfly Reward/Agitha Female Dragonfly Reward"
+										"name": "Female Dragonfly Reward"
 									}
 								]
 							}
@@ -376,32 +245,25 @@
 					},
 					{
 						"name": "Castle Town Jovanis House",
-						"access_rules": [
-							"^$canAccess|CastleTownJovanisHouse"
-						],
 						"children": [
 							{
 								"name": "Jovani",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4838,
-										"y": 4059,
-										"shape": "trapezoid"
+										"x": 1210,
+										"y": 1015
 									}
 								],
 								"sections": [
 									{
-										"name": "20 Poe Soul Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Jovanis House/Jovani/Jovani 20 Poe Soul Reward"
+										"name": "20 Poe Soul Reward"
 									},
 									{
-										"name": "60 Poe Soul Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Jovanis House/Jovani/Jovani 60 Poe Soul Reward"
+										"name": "60 Poe Soul Reward"
 									},
 									{
-										"name": "House Poe",
-										"ref": "Lanayru Province/Submaps/Castle Town Jovanis House/Jovani House Poe/Jovani House Poe"
+										"name": "House Poe"
 									}
 								]
 							}
@@ -409,24 +271,19 @@
 					},
 					{
 						"name": "Castle Town Telmas Bar",
-						"access_rules": [
-							"^$canAccess|CastleTownTelmasBar"
-						],
 						"children": [
 							{
 								"name": "Castle Town Telmas Bar",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4795,
-										"y": 4132,
-										"shape": "trapezoid"
+										"x": 1199,
+										"y": 1033
 									}
 								],
 								"sections": [
 									{
-										"name": "Telma Invoice",
-										"ref": "Lanayru Province/Submaps/Castle Town Telmas Bar/Telma Invoice/Telma Invoice"
+										"name": "Telma Invoice"
 									}
 								]
 							}
@@ -439,206 +296,124 @@
 				"children": [
 					{
 						"name": "Lanayru Field",
-						"access_rules": [
-							"^$canAccess|LanayruField"
-						],
 						"children": [
 							{
 								"name": "Lanayru Field Behind Gate Underwater Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4868,
-										"y": 2913
+										"x": 1217,
+										"y": 728
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field Behind Gate Underwater Chest",
-										"access_rules": [
-											"boots",
-											"[glitcheson], ^$hasHeavyMod"
-										]
+										"name": "Lanayru Field Behind Gate Underwater Chest"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Field Male Stag Beetle",
-								"chest_unopened_img": "images/Items/Bug8Grayed.png",
-								"chest_opened_img": "images/Items/Bug8.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4370,
-										"y": 2584
+										"x": 1092,
+										"y": 646
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field Male Stag Beetle",
-										"access_rules": [
-											"clawshot, ^$canCompleteLanayruTwilight",
-											"boomerang, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lanayru Field Male Stag Beetle"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Field Female Stag Beetle",
-								"chest_unopened_img": "images/Items/Bug9Grayed.png",
-								"chest_opened_img": "images/Items/Bug9.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4790,
-										"y": 2017
+										"x": 1198,
+										"y": 504
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field Female Stag Beetle",
-										"access_rules": [
-											"clawshot, ^$canCompleteLanayruTwilight",
-											"boomerang, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lanayru Field Female Stag Beetle"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Field Bridge Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4905,
-										"y": 2597
+										"x": 1226,
+										"y": 649
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field Bridge Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteMDH, ^$canCompleteAllTwilight"
-										]
+										"name": "Lanayru Field Bridge Poe"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Field North Spinner Track Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3989,
-										"y": 2576
+										"x": 997,
+										"y": 644
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field North Spinner Track Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
+										"name": "Lanayru Field North Spinner Track Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Field North Underwater Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4884,
-										"y": 2353
+										"x": 1221,
+										"y": 588
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field North Underwater Boulder Rupee",
-										"access_rules": [
-											"boots, ^$canUseWaterBombs"
-										]
+										"name": "Lanayru Field North Underwater Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Field South Underwater Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4926,
-										"y": 2685
+										"x": 1232,
+										"y": 671
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field South Underwater Boulder Rupee",
-										"access_rules": [
-											"boots, ^$canUseWaterBombs"
-										]
+										"name": "Lanayru Field South Underwater Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Field Tree Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4082,
-										"y": 2558
+										"x": 1020,
+										"y": 640
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field Tree Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4838,
-										"y": 1891,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "Lanayru Field Tree Boulder Rupee"
 									}
 								]
 							}
@@ -646,27 +421,19 @@
 					},
 					{
 						"name": "Hyrule Field Near Spinner Rails",
-						"access_rules": [
-							"^$canAccess|HyruleFieldNearSpinnerRails"
-						],
 						"children": [
 							{
 								"name": "Lanayru Field Spinner Track Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3575,
-										"y": 3349
+										"x": 894,
+										"y": 837
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field Spinner Track Chest",
-										"access_rules": [
-											"glitchesoff, spinner",
-											"[glitcheson], ^$canDoMapGlitch",
-											"glitchesoff, ^$canSmash, spinner"
-										]
+										"name": "Lanayru Field Spinner Track Chest"
 									}
 								]
 							}
@@ -674,24 +441,19 @@
 					},
 					{
 						"name": "Lanayru Ice Puzzle Cave",
-						"access_rules": [
-							"^$canAccess|LanayruIcePuzzleCave"
-						],
 						"children": [
 							{
 								"name": "Lanayru Ice Block Puzzle Cave",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4825,
-										"y": 1988,
-										"shape": "trapezoid"
+										"x": 1206,
+										"y": 497
 									}
 								],
 								"sections": [
 									{
-										"name": "Chest",
-										"ref": "Lanayru Province/Submaps/Lanayru Ice Puzzle Cave/Lanayru Ice Block Puzzle Cave Chest/Lanayru Ice Block Puzzle Cave Chest"
+										"name": "Chest"
 									}
 								]
 							}
@@ -699,24 +461,19 @@
 					},
 					{
 						"name": "Lanayru Field Skulltula Grotto",
-						"access_rules": [
-							"^$canAccess|LanayruFieldSkulltulaGrotto"
-						],
 						"children": [
 							{
 								"name": "Lanayru Field Skulltula Grotto",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4842,
-										"y": 2110,
-										"shape": "trapezoid"
+										"x": 1210,
+										"y": 528
 									}
 								],
 								"sections": [
 									{
-										"name": "Chest",
-										"ref": "Lanayru Province/Submaps/Lanayru Field Skulltula Grotto/Lanayru Field Skulltula Grotto Chest/Lanayru Field Skulltula Grotto Chest"
+										"name": "Chest"
 									}
 								]
 							}
@@ -724,28 +481,22 @@
 					},
 					{
 						"name": "Lanayru Field Poe Grotto",
-						"access_rules": [
-							"^$canAccess|LanayruFieldPoeGrotto"
-						],
 						"children": [
 							{
 								"name": "Lanayru Field Poe Grotto",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4189,
-										"y": 2623,
-										"shape": "trapezoid"
+										"x": 1047,
+										"y": 656
 									}
 								],
 								"sections": [
 									{
-										"name": "Left Poe",
-										"ref": "Lanayru Province/Submaps/Lanayru Field Poe Grotto/Lanayru Field Poe Grotto Left Poe/Lanayru Field Poe Grotto Left Poe"
+										"name": "Left Poe"
 									},
 									{
-										"name": "Right Poe",
-										"ref": "Lanayru Province/Submaps/Lanayru Field Poe Grotto/Lanayru Field Poe Grotto Right Poe/Lanayru Field Poe Grotto Right Poe"
+										"name": "Right Poe"
 									}
 								]
 							}
@@ -753,28 +504,19 @@
 					},
 					{
 						"name": "Outside Castle Town West",
-						"access_rules": [
-							"^$canAccess|OutsideCastleTownWest"
-						],
 						"children": [
 							{
 								"name": "Hyrule Field Amphitheater Owl Statue Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3834,
-										"y": 4329
+										"x": 958,
+										"y": 1082
 									}
 								],
 								"sections": [
 									{
-										"name": "Hyrule Field Amphitheater Owl Statue Chest",
-										"access_rules": [
-											"powereddominionrod",
-											"[glitcheson], ^$canDoLJA",
-											"[glitcheson], ^$canDoMapGlitch",
-											"[glitcheson], ^$canDoEBMoonBoots"
-										]
+										"name": "Hyrule Field Amphitheater Owl Statue Chest"
 									}
 								]
 							},
@@ -783,196 +525,103 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3761,
-										"y": 4270
+										"x": 940,
+										"y": 1068
 									}
 								],
 								"sections": [
 									{
-										"name": "Hyrule Field Amphitheater Owl Statue Sky Character",
-										"access_rules": [
-											"powereddominionrod"
-										]
+										"name": "Hyrule Field Amphitheater Owl Statue Sky Character"
 									}
 								]
 							},
 							{
 								"name": "West Hyrule Field Male Butterfly",
-								"chest_unopened_img": "images/Items/Bug12Grayed.png",
-								"chest_opened_img": "images/Items/Bug12.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3950,
-										"y": 4166
+										"x": 988,
+										"y": 1042
 									}
 								],
 								"sections": [
 									{
-										"name": "West Hyrule Field Male Butterfly",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "West Hyrule Field Male Butterfly"
 									}
 								]
 							},
 							{
 								"name": "West Hyrule Field Female Butterfly",
-								"chest_unopened_img": "images/Items/Bug13Grayed.png",
-								"chest_opened_img": "images/Items/Bug13.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3851,
-										"y": 3642
+										"x": 963,
+										"y": 910
 									}
 								],
 								"sections": [
 									{
-										"name": "West Hyrule Field Female Butterfly",
-										"access_rules": [
-											"clawshot, ^$canCompleteLanayruTwilight",
-											"boomerang, ^$canCompleteLanayruTwilight",
-											"glitchesoff, ^$canAccess|OutsideCastleTownWestGrottoLedge, ^$canCompleteLanayruTwilight",
-											"[glitcheson], ^$canDoMapGlitch, ^$canCompleteLanayruTwilight"
-										]
+										"name": "West Hyrule Field Female Butterfly"
 									}
 								]
 							},
 							{
 								"name": "Hyrule Field Amphitheater Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3795,
-										"y": 4298
+										"x": 949,
+										"y": 1074
 									}
 								],
 								"sections": [
 									{
-										"name": "Hyrule Field Amphitheater Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Hyrule Field Amphitheater Poe"
 									}
 								]
 							},
 							{
 								"name": "West Hyrule Field Golden Wolf",
-								"chest_unopened_img": "images/Items/GoldenWolfGrayed.png",
-								"chest_opened_img": "images/Items/GoldenWolf.png",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4158,
-										"y": 3800
+										"x": 1040,
+										"y": 950
 									}
 								],
 								"sections": [
 									{
-										"name": "West Hyrule Field Golden Wolf",
-										"access_rules": [
-											"shadowcrystal, ^$canAccess|UpperZorasRiver, uzrhowlingstone"
-										]
-									}
-								]
-							},
-							{
-								"name": "Castle Town Portal",
-								"visibility_rules": [
-									"portals"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4168,
-										"y": 3965
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											""
-										],
-										"hosted_item": "ctportal"
+										"name": "West Hyrule Field Golden Wolf"
 									}
 								]
 							},
 							{
 								"name": "West Hyrule Field Northern Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4110,
-										"y": 3412
+										"x": 1028,
+										"y": 853
 									}
 								],
 								"sections": [
 									{
-										"name": "West Hyrule Field Northern Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
+										"name": "West Hyrule Field Northern Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "West Hyrule Field Southern Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4082,
-										"y": 3633
+										"x": 1020,
+										"y": 908
 									}
 								],
 								"sections": [
 									{
-										"name": "West Hyrule Field Southern Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4196,
-										"y": 3800,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "West Hyrule Field Southern Boulder Rupee"
 									}
 								]
 							}
@@ -980,24 +629,19 @@
 					},
 					{
 						"name": "Outside Castle Town West Helmasaur Grotto",
-						"access_rules": [
-							"^$canAccess|OutsideCastleTownWestHelmasaurGrotto"
-						],
 						"children": [
 							{
 								"name": "West Hyrule Field Helmasaur Grotto",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3810,
-										"y": 3736,
-										"shape": "trapezoid"
+										"x": 952,
+										"y": 934
 									}
 								],
 								"sections": [
 									{
-										"name": "Chest",
-										"ref": "Lanayru Province/Submaps/Outside Castle Town West Helmasaur Grotto/West Hyrule Field Helmasaur Grotto Chest/West Hyrule Field Helmasaur Grotto Chest"
+										"name": "Chest"
 									}
 								]
 							}
@@ -1005,30 +649,19 @@
 					},
 					{
 						"name": "Outside Castle Town East",
-						"access_rules": [
-							"^$canAccess|OutsideCastleTownEast"
-						],
 						"children": [
 							{
 								"name": "East Castle Town Bridge Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 5058,
-										"y": 3967
+										"x": 1264,
+										"y": 992
 									}
 								],
 								"sections": [
 									{
-										"name": "East Castle Town Bridge Poe",
-										"access_rules": [
-											"shadowcrystal"
-										]
+										"name": "East Castle Town Bridge Poe"
 									}
 								]
 							}
@@ -1036,25 +669,19 @@
 					},
 					{
 						"name": "Outside Castle Town South",
-						"access_rules": [
-							"^$canAccess|OutsideCastleTownSouth"
-						],
 						"children": [
 							{
 								"name": "Outside South Castle Town Tightrope Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4643,
-										"y": 4368
+										"x": 1161,
+										"y": 1092
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside South Castle Town Tightrope Chest",
-										"access_rules": [
-											"clawshot, shadowcrystal"
-										]
+										"name": "Outside South Castle Town Tightrope Chest"
 									}
 								]
 							},
@@ -1063,22 +690,13 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4709,
-										"y": 4428
+										"x": 1177,
+										"y": 1107
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside South Castle Town Fountain Chest",
-										"access_rules": [
-											"spinner, clawshot",
-											"[glitcheson], ^$canDoMapGlitch, ^$hasBottle",
-											"[glitcheson], ^$canDoMoonBoots",
-											"[glitcheson], ^$canDoBSMoonBoots",
-											"[glitcheson], ^$canDoLJA",
-											"[glitcheson], sword, hiddenskill:3",
-											"[glitcheson], sword, ^$hasBombs"
-										]
+										"name": "Outside South Castle Town Fountain Chest"
 									}
 								]
 							},
@@ -1087,23 +705,13 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4513,
-										"y": 4540
+										"x": 1128,
+										"y": 1135
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside South Castle Town Double Clawshot Chasm Chest",
-										"access_rules": [
-											"doubleclawshot",
-											"[glitcheson], sword, damagevanilla",
-											"[glitcheson], sword, damagedouble",
-											"[glitcheson], sword, ^$canUseBottledFairy",
-											"[glitcheson], ^$hasBombs, ^$Not|ohko",
-											"[glitcheson], ^$hasBombs, ^$canUseBottledFairy",
-											"[glitcheson], spinner",
-											"[glitcheson], shadowcrystal"
-										]
+										"name": "Outside South Castle Town Double Clawshot Chasm Chest"
 									}
 								]
 							},
@@ -1112,151 +720,88 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4704,
-										"y": 4697
+										"x": 1176,
+										"y": 1174
 									}
 								],
 								"sections": [
 									{
-										"name": "Wooden Statue",
-										"access_rules": [
-											"^$canAccess|CastleTownDoctorsOfficeLower, shadowcrystal, ^$canAccess|CastleTownSouth, ^$canCompleteLanayruTwilight, medicinescent"
-										]
+										"name": "Wooden Statue"
 									}
 								]
 							},
 							{
 								"name": "Outside South Castle Town Male Ladybug",
-								"chest_unopened_img": "images/Items/Bug14Grayed.png",
-								"chest_opened_img": "images/Items/Bug14.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4904,
-										"y": 4560
+										"x": 1226,
+										"y": 1140
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside South Castle Town Male Ladybug",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Outside South Castle Town Male Ladybug"
 									}
 								]
 							},
 							{
 								"name": "Outside South Castle Town Female Ladybug",
-								"chest_unopened_img": "images/Items/Bug15Grayed.png",
-								"chest_opened_img": "images/Items/Bug15.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4615,
-										"y": 4495
+										"x": 1154,
+										"y": 1124
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside South Castle Town Female Ladybug",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Outside South Castle Town Female Ladybug"
 									}
 								]
 							},
 							{
 								"name": "Outside South Castle Town Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4643,
-										"y": 4432
+										"x": 1161,
+										"y": 1108
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside South Castle Town Poe",
-										"access_rules": [
-											"shadowcrystal"
-										]
+										"name": "Outside South Castle Town Poe"
 									}
 								]
 							},
 							{
 								"name": "Outside South Castle Town Golden Wolf",
-								"chest_unopened_img": "images/Items/GoldenWolfGrayed.png",
-								"chest_opened_img": "images/Items/GoldenWolf.png",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4588,
-										"y": 4423
+										"x": 1147,
+										"y": 1106
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside South Castle Town Golden Wolf",
-										"access_rules": [
-											"shadowcrystal, ^$canAccess|NorthFaronWoods, nfwhowlingstone"
-										]
+										"name": "Outside South Castle Town Golden Wolf"
 									}
 								]
 							},
 							{
 								"name": "Outside South Castle Town Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4875,
-										"y": 4413
+										"x": 1219,
+										"y": 1103
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside South Castle Town Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4707,
-										"y": 4481,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "Outside South Castle Town Boulder Rupee"
 									}
 								]
 							}
@@ -1264,24 +809,19 @@
 					},
 					{
 						"name": "Outside Castle Town South Tektite Grotto",
-						"access_rules": [
-							"^$canAccess|OutsideCastleTownSouthTektiteGrotto"
-						],
 						"children": [
 							{
 								"name": "Outside South Castle Town Tektite Grotto ",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4936,
-										"y": 4551,
-										"shape": "trapezoid"
+										"x": 1234,
+										"y": 1138
 									}
 								],
 								"sections": [
 									{
-										"name": "Chest",
-										"ref": "Lanayru Province/Submaps/Outside Castle Town South Tektite Grotto/Outside South Castle Town Tektite Grotto Chest/Outside South Castle Town Tektite Grotto Chest"
+										"name": "Chest"
 									}
 								]
 							}
@@ -1289,25 +829,19 @@
 					},
 					{
 						"name": "Lake Hylia Bridge",
-						"access_rules": [
-							"^$canAccess|LakeHyliaBridge"
-						],
 						"children": [
 							{
 								"name": "Lake Hylia Bridge Vines Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3380,
-										"y": 4572
+										"x": 845,
+										"y": 1143
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Bridge Vines Chest",
-										"access_rules": [
-											"clawshot"
-										]
+										"name": "Lake Hylia Bridge Vines Chest"
 									}
 								]
 							},
@@ -1316,161 +850,91 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3420,
-										"y": 4216
+										"x": 855,
+										"y": 1054
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Bridge Owl Statue Chest",
-										"access_rules": [
-											"powereddominionrod, clawshot",
-											"[glitcheson], ^$canDoMapGlitch, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lake Hylia Bridge Owl Statue Chest"
 									},
 									{
-										"name": "Lake Hylia Bridge Owl Statue Sky Character",
-										"access_rules": [
-											"powereddominionrod, clawshot",
-											"[glitcheson], powereddominionrod, ^$canDoMapGlitch, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lake Hylia Bridge Owl Statue Sky Character"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Bridge Male Mantis",
-								"chest_unopened_img": "images/Items/Bug6Grayed.png",
-								"chest_opened_img": "images/Items/Bug6.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3415,
-										"y": 4586
+										"x": 854,
+										"y": 1146
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Bridge Male Mantis",
-										"access_rules": [
-											"clawshot, ^$canCompleteLanayruTwilight",
-											"boomerang, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lake Hylia Bridge Male Mantis"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Bridge Female Mantis",
-								"chest_unopened_img": "images/Items/Bug7Grayed.png",
-								"chest_opened_img": "images/Items/Bug7.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3550,
-										"y": 5455
+										"x": 888,
+										"y": 1364
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Bridge Female Mantis",
-										"access_rules": [
-											"clawshot, ^$canCompleteLanayruTwilight",
-											"boomerang, ^$canCompleteLanayruTwilight",
-											"[glitcheson], ^$canDoStorage, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lake Hylia Bridge Female Mantis"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Bridge Faron Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3885,
-										"y": 5451
+										"x": 971,
+										"y": 1363
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Bridge Faron Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
+										"name": "Lake Hylia Bridge Faron Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Bridge Owl Statue Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3551,
-										"y": 4335
+										"x": 888,
+										"y": 1084
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Bridge Owl Statue Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
+										"name": "Lake Hylia Bridge Owl Statue Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Field South Spinner Track Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3382,
-										"y": 3819
+										"x": 846,
+										"y": 955
 									}
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field South Spinner Track Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 3374,
-										"y": 4219,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{clawshot}"
-										]
+										"name": "Lanayru Field South Spinner Track Boulder Rupee"
 									}
 								]
 							}
@@ -1478,48 +942,34 @@
 					},
 					{
 						"name": "Lake Hylia Bridge Grotto Ledge",
-						"access_rules": [
-							"^$canAccess|LakeHyliaBridgeGrottoLedge"
-						],
 						"children": [
 							{
 								"name": "Lake Hylia Bridge Cliff Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3759,
-										"y": 5644
+										"x": 940,
+										"y": 1411
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Bridge Cliff Chest",
-										"access_rules": [
-											""
-										]
+										"name": "Lake Hylia Bridge Cliff Chest"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Bridge Cliff Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3757,
-										"y": 5677
+										"x": 939,
+										"y": 1419
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Bridge Cliff Poe",
-										"access_rules": [
-											"^$canCompleteMDH, shadowcrystal, ^$canCompleteAllTwilight"
-										]
+										"name": "Lake Hylia Bridge Cliff Poe"
 									}
 								]
 							}
@@ -1527,24 +977,19 @@
 					},
 					{
 						"name": "Lake Hylia Bridge Bubble Grotto",
-						"access_rules": [
-							"^$canAccess|LakeHyliaBridgeBubbleGrotto"
-						],
 						"children": [
 							{
 								"name": "Lake Hylia Bridge Bubble Grotto",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3724,
-										"y": 5642,
-										"shape": "trapezoid"
+										"x": 931,
+										"y": 1410
 									}
 								],
 								"sections": [
 									{
-										"name": "Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Bridge Bubble Grotto/Lake Hylia Bridge Bubble Grotto Chest/Lake Hylia Bridge Bubble Grotto Chest"
+										"name": "Chest"
 									}
 								]
 							}
@@ -1557,26 +1002,19 @@
 				"children": [
 					{
 						"name": "Lake Hylia",
-						"access_rules": [
-							"^$canAccess|LakeHylia"
-						],
 						"children": [
 							{
 								"name": "Lake Hylia Underwater Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3288,
-										"y": 5460
+										"x": 822,
+										"y": 1365
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Underwater Chest",
-										"access_rules": [
-											"boots, ^$canCompleteLanayruTwilight",
-											"[glitcheson], ^$hasHeavyMod, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lake Hylia Underwater Chest"
 									}
 								]
 							},
@@ -1585,85 +1023,58 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 2691,
-										"y": 5456
+										"x": 673,
+										"y": 1364
 									}
 								],
 								"sections": [
 									{
-										"name": "Auru Gift To Fyer",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Auru Gift To Fyer"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Alcove Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3308,
-										"y": 5542
+										"x": 827,
+										"y": 1386
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Alcove Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lake Hylia Alcove Poe"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Dock Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3985,
-										"y": 5101
+										"x": 996,
+										"y": 1275
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Dock Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lake Hylia Dock Poe"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Tower Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 2690,
-										"y": 5491
+										"x": 672,
+										"y": 1373
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Tower Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Lake Hylia Tower Poe"
 									}
 								]
 							},
@@ -1672,148 +1083,78 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3875,
-										"y": 4917
+										"x": 969,
+										"y": 1229
 									},
 									{
 										"map": "overworld",
-										"x": 2918,
-										"y": 5218
+										"x": 730,
+										"y": 1304
 									}
 								],
 								"sections": [
 									{
-										"name": "Plumm Fruit Balloon Minigame",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
-									}
-								]
-							},
-							{
-								"name": "Lake Hylia Portal",
-								"visibility_rules": [
-									"portals"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 3139,
-										"y": 5233
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											""
-										],
-										"hosted_item": "lhportal"
+										"name": "Plumm Fruit Balloon Minigame"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Left Underwater Pillar Rupee",
-								"visibility_rules": [
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3360,
-										"y": 4924
+										"x": 840,
+										"y": 1231
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Left Underwater Pillar Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, zoraarmor, ",
-											"[glitcheson], ^$canCompleteLanayruTwilight, ^$canDoAirRefill"
-										]
+										"name": "Lake Hylia Left Underwater Pillar Rupee"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Right Underwater Pillar Rupee",
-								"visibility_rules": [
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3440,
-										"y": 4844
+										"x": 860,
+										"y": 1211
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Right Underwater Pillar Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, zoraarmor",
-											"[glitcheson], ^$canCompleteLanayruTwilight, ^$canDoAirRefill"
-										]
+										"name": "Lake Hylia Right Underwater Pillar Rupee"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Right Underwater Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3440,
-										"y": 4924
+										"x": 860,
+										"y": 1231
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Right Underwater Boulder Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, zoraarmor, boots, ^$canUseWaterBombs",
-											"[glitcheson], ^$canCompleteLanayruTwilight, ^$canDoAirRefill"
-										]
+										"name": "Lake Hylia Right Underwater Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Lake Hylia Left Underwater Boulder Rupee",
-								"visibility_rules": [
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3360,
-										"y": 4844
+										"x": 840,
+										"y": 1211
 									}
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Left Underwater Boulder Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, zoraarmor, boots, ^$canUseWaterBombs",
-											"[glitcheson], ^$canCompleteLanayruTwilight, ^$canDoAirRefill"
-										]
-									}
-								]
-							},
-							{
-								"name": "Gerudo Desert Stone",
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 3010,
-										"y": 5401
-									}
-								],
-								"sections": [
-									{
-										"hosted_item": "lhhowlingstone",
-										"access_rules": [
-											"{shadowcrystal}"
-										]
+										"name": "Lake Hylia Left Underwater Boulder Rupee"
 									}
 								]
 							}
@@ -1821,25 +1162,19 @@
 					},
 					{
 						"name": "Lake Hylia Flight By Fowl",
-						"access_rules": [
-							"^$canAccess|LakeHyliaFlightByFowl"
-						],
 						"children": [
 							{
 								"name": "Outside Lanayru Spring Left Statue Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3478,
-										"y": 5189
+										"x": 870,
+										"y": 1297
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside Lanayru Spring Left Statue Chest",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Outside Lanayru Spring Left Statue Chest"
 									}
 								]
 							},
@@ -1848,16 +1183,13 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3522,
-										"y": 5189
+										"x": 880,
+										"y": 1297
 									}
 								],
 								"sections": [
 									{
-										"name": "Outside Lanayru Spring Right Statue Chest",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Outside Lanayru Spring Right Statue Chest"
 									}
 								]
 							},
@@ -1866,111 +1198,55 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3108,
-										"y": 4945
+										"x": 777,
+										"y": 1236
 									}
 								],
 								"sections": [
 									{
-										"name": "Flight By Fowl Top Platform Reward",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Flight By Fowl Top Platform Reward"
 									},
 									{
-										"name": "Flight By Fowl Second Platform Chest",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Flight By Fowl Second Platform Chest"
 									},
 									{
-										"name": "Flight By Fowl Third Platform Chest",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Flight By Fowl Third Platform Chest"
 									},
 									{
-										"name": "Flight By Fowl Fourth Platform Chest",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Flight By Fowl Fourth Platform Chest"
 									},
 									{
-										"name": "Flight By Fowl Fifth Platform Chest",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Flight By Fowl Fifth Platform Chest"
 									}
 								]
 							},
 							{
 								"name": "Flight By Fowl Ledge Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 2883,
-										"y": 4482
+										"x": 721,
+										"y": 1120
 									}
 								],
 								"sections": [
 									{
-										"name": "Flight By Fowl Ledge Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Flight By Fowl Ledge Poe"
 									}
 								]
 							},
 							{
 								"name": "Isle of Riches Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3054,
-										"y": 4945
+										"x": 764,
+										"y": 1236
 									}
 								],
 								"sections": [
 									{
-										"name": "Isle of Riches Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 2906,
-										"y": 4645,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "Isle of Riches Poe"
 									}
 								]
 							}
@@ -1978,60 +1254,43 @@
 					},
 					{
 						"name": "Lake Hylia Lanayru Spring",
-						"access_rules": [
-							"^$canAccess|LakeHyliaLanayruSpring"
-						],
 						"children": [
 							{
 								"name": "Lanayru Spring",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3500,
-										"y": 5262,
-										"shape": "trapezoid"
+										"x": 875,
+										"y": 1316
 									}
 								],
 								"sections": [
 									{
-										"name": "Underwater Left Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Lanayru Spring Underwater Left Chest/Lanayru Spring Underwater Left Chest"
+										"name": "Underwater Left Chest"
 									},
 									{
-										"name": "Underwater Right Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Lanayru Spring Underwater Right Chest/Lanayru Spring Underwater Right Chest"
+										"name": "Underwater Right Chest"
 									},
 									{
-										"name": "Back Room Left Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Lanayru Spring Back Room Left Chest/Lanayru Spring Back Room Left Chest"
+										"name": "Back Room Left Chest"
 									},
 									{
-										"name": "Back Room Right Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Lanayru Spring Back Room Right Chest/Lanayru Spring Back Room Right Chest"
+										"name": "Back Room Right Chest"
 									},
 									{
-										"name": "Back Room Lantern Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Lanayru Spring Back Room Lantern Chest/Lanayru Spring Back Room Lantern Chest"
+										"name": "Back Room Lantern Chest"
 									},
 									{
-										"name": "East Double Clawshot Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Lanayru Spring East Double Clawshot Chest/Lanayru Spring East Double Clawshot Chest"
+										"name": "East Double Clawshot Chest"
 									},
 									{
-										"name": "West Double Clawshot Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Lanayru Spring West Double Clawshot Chest/Lanayru Spring West Double Clawshot Chest"
+										"name": "West Double Clawshot Chest"
 									},
 									{
-										"name": "Lanayru Spring Upper Underwater Boulder Rupee",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Lanayru Spring Upper Underwater Boulder Rupee/Lanayru Spring Upper Underwater Boulder Rupee"
+										"name": "Lanayru Spring Upper Underwater Boulder Rupee"
 									},
 									{
-										"name": "Lanayru Spring Lower Underwater Boulder Rupee",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Lanayru Spring Lower Underwater Boulder Rupee/Lanayru Spring Lower Underwater Boulder Rupee"
-									},
-									{
-										"name": "Hint Sign",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Lanayru Spring/Hint Sign/"
+										"name": "Lanayru Spring Lower Underwater Boulder Rupee"
 									}
 								]
 							}
@@ -2039,96 +1298,67 @@
 					},
 					{
 						"name": "Lake Hylia Long Cave",
-						"access_rules": [
-							"^$canAccess|LakeHyliaLongCave"
-						],
 						"children": [
 							{
 								"name": "Lake Lantern Cave",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3137,
-										"y": 5550,
-										"shape": "trapezoid"
+										"x": 784,
+										"y": 1388
 									}
 								],
 								"sections": [
 									{
-										"name": "First Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave First Chest/Lake Lantern Cave First Chest"
+										"name": "First Chest"
 									},
 									{
-										"name": "Second Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Second Chest/Lake Lantern Cave Second Chest"
+										"name": "Second Chest"
 									},
 									{
-										"name": "Third Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Third Chest/Lake Lantern Cave Third Chest"
+										"name": "Third Chest"
 									},
 									{
-										"name": "Fourth Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Fourth Chest/Lake Lantern Cave Fourth Chest"
+										"name": "Fourth Chest"
 									},
 									{
-										"name": "Fifth Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Fifth Chest/Lake Lantern Cave Fifth Chest"
+										"name": "Fifth Chest"
 									},
 									{
-										"name": "Sixth Chest - Lantern",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Sixth Chest - Lantern/"
+										"name": "Seventh Chest"
 									},
 									{
-										"name": "Seventh Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Seventh Chest/Lake Lantern Cave Seventh Chest"
+										"name": "Eighth Chest"
 									},
 									{
-										"name": "Eighth Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Eighth Chest/Lake Lantern Cave Eighth Chest"
+										"name": "Ninth Chest"
 									},
 									{
-										"name": "Ninth Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Ninth Chest/Lake Lantern Cave Ninth Chest"
+										"name": "Tenth Chest"
 									},
 									{
-										"name": "Tenth Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Tenth Chest/Lake Lantern Cave Tenth Chest"
+										"name": "Eleventh Chest"
 									},
 									{
-										"name": "Eleventh Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Eleventh Chest/Lake Lantern Cave Twelfth Chest"
+										"name": "Twelfth Chest"
 									},
 									{
-										"name": "Twelfth Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Twelfth Chest/Lake Lantern Cave Eleventh Chest"
+										"name": "Thirteenth Chest"
 									},
 									{
-										"name": "Thirteenth Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Thirteenth Chest/Lake Lantern Cave Thirteenth Chest"
+										"name": "Fourteenth Chest"
 									},
 									{
-										"name": "Fourteenth Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Fourteenth Chest/Lake Lantern Cave Fourteenth Chest"
+										"name": "End Lantern Chest"
 									},
 									{
-										"name": "End Lantern Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave End Lantern Chest/Lake Lantern Cave End Lantern Chest"
+										"name": "First Poe"
 									},
 									{
-										"name": "First Poe",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave First Poe/Lake Lantern Cave First Poe"
+										"name": "Second Poe"
 									},
 									{
-										"name": "Second Poe",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Second Poe/Lake Lantern Cave Second Poe"
-									},
-									{
-										"name": "Final Poe",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Lake Lantern Cave Final Poe/Lake Lantern Cave Final Poe"
-									},
-									{
-										"name": "Hint Sign",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Long Cave/Hint Sign/"
+										"name": "Final Poe"
 									}
 								]
 							}
@@ -2136,24 +1366,19 @@
 					},
 					{
 						"name": "Lake Hylia Shell Blade Grotto",
-						"access_rules": [
-							"^$canAccess|LakeHyliaShellBladeGrotto"
-						],
 						"children": [
 							{
 								"name": "Lake Hylia Shell Blade Grotto",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 2853,
-										"y": 4452,
-										"shape": "trapezoid"
+										"x": 713,
+										"y": 1113
 									}
 								],
 								"sections": [
 									{
-										"name": "Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Shell Blade Grotto/Lake Hylia Shell Blade Grotto Chest/Lake Hylia Shell Blade Grotto Chest"
+										"name": "Chest"
 									}
 								]
 							}
@@ -2161,24 +1386,19 @@
 					},
 					{
 						"name": "Lake Hylia Water Toadpoli Grotto",
-						"access_rules": [
-							"^$canAccess|LakeHyliaWaterToadpoliGrotto"
-						],
 						"children": [
 							{
 								"name": "Lake Hylia Water Toadpoli Grotto",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 3035,
-										"y": 5498,
-										"shape": "trapezoid"
+										"x": 759,
+										"y": 1374
 									}
 								],
 								"sections": [
 									{
-										"name": "Chest",
-										"ref": "Lanayru Province/Submaps/Lake Hylia Water Toadpoli Grotto/Lake Hylia Water Toadpoli Grotto Chest/Lake Hylia Water Toadpoli Grotto Chest"
+										"name": "Chest"
 									}
 								]
 							}
@@ -2191,176 +1411,94 @@
 				"children": [
 					{
 						"name": "Upper Zoras River",
-						"access_rules": [
-							"^$canAccess|UpperZorasRiver"
-						],
 						"children": [
 							{
 								"name": "Upper Zoras River Female Dragonfly",
-								"chest_unopened_img": "images/Items/Bug23Grayed.png",
-								"chest_opened_img": "images/Items/Bug23.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 6017,
-										"y": 882
+										"x": 1504,
+										"y": 220
 									}
 								],
 								"sections": [
 									{
-										"name": "Upper Zoras River Female Dragonfly",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Upper Zoras River Female Dragonfly"
 									}
 								]
 							},
 							{
 								"name": "Upper Zoras River Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 5876,
-										"y": 1011
+										"x": 1469,
+										"y": 253
 									}
 								],
 								"sections": [
 									{
-										"name": "Upper Zoras River Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
-									}
-								]
-							},
-							{
-								"name": "Upper Zoras River Portal",
-								"visibility_rules": [
-									"portals"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 5975,
-										"y": 792
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"^$canDefeatShadowBeast"
-										],
-										"hosted_item": "uzrportal"
+										"name": "Upper Zoras River Poe"
 									}
 								]
 							},
 							{
 								"name": "Upper Zoras River East Underwater Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 5957,
-										"y": 1032
+										"x": 1489,
+										"y": 258
 									}
 								],
 								"sections": [
 									{
-										"name": "Upper Zoras River East Underwater Boulder Rupee",
-										"access_rules": [
-											"boots, ^$canUseWaterBombs"
-										]
+										"name": "Upper Zoras River East Underwater Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Upper Zoras River Central Underwater Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 5881,
-										"y": 875
+										"x": 1470,
+										"y": 219
 									}
 								],
 								"sections": [
 									{
-										"name": "Upper Zoras River Central Underwater Boulder Rupee",
-										"access_rules": [
-											"boots, ^$canUseWaterBombs"
-										]
+										"name": "Upper Zoras River Central Underwater Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Upper Zoras River West Underwater Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 5811,
-										"y": 954
+										"x": 1453,
+										"y": 238
 									}
 								],
 								"sections": [
 									{
-										"name": "Upper Zoras River West Underwater Boulder Rupee",
-										"access_rules": [
-											"boots, ^$canUseWaterBombs"
-										]
+										"name": "Upper Zoras River West Underwater Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Upper Zoras River Ledge Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 5857,
-										"y": 804
+										"x": 1464,
+										"y": 201
 									}
 								],
 								"sections": [
 									{
-										"name": "Upper Zoras River Ledge Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
-									}
-								]
-							},
-							{
-								"name": "West Castle Town Stone",
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 5921,
-										"y": 846
-									}
-								],
-								"sections": [
-									{
-										"hosted_item": "uzrhowlingstone",
-										"access_rules": [
-											"{shadowcrystal}"
-										]
+										"name": "Upper Zoras River Ledge Boulder Rupee"
 									}
 								]
 							}
@@ -2368,33 +1506,22 @@
 					},
 					{
 						"name": "Upper Zoras River Izas House",
-						"access_rules": [
-							"^$canAccess|UpperZorasRiverIzasHouse"
-						],
 						"children": [
 							{
 								"name": "Iza",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 6052,
-										"y": 855
+										"x": 1513,
+										"y": 214
 									}
 								],
 								"sections": [
 									{
-										"name": "Iza Helping Hand",
-										"access_rules": [
-											"^$canAccess|UpperZorasRiver, sword, bow, ^$canCompleteLanayruTwilight",
-											"^$canAccess|UpperZorasRiver, ^$canDefeatShadowBeast, transformanywhereon, bow, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Iza Helping Hand"
 									},
 									{
-										"name": "Iza Raging Rapids Minigame",
-										"access_rules": [
-											"^$canAccess|UpperZorasRiver, sword, bow, ^$canCompleteLanayruTwilight",
-											"^$canAccess|UpperZorasRiver, ^$canDefeatShadowBeast, transformanywhereon, bow, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Iza Raging Rapids Minigame"
 									}
 								]
 							}
@@ -2402,50 +1529,19 @@
 					},
 					{
 						"name": "Fishing Hole",
-						"access_rules": [
-							"^$canAccess|FishingHole"
-						],
 						"children": [
 							{
 								"name": "Fishing Hole Bottle",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 6064,
-										"y": 368
+										"x": 1516,
+										"y": 92
 									}
 								],
 								"sections": [
 									{
-										"name": "Fishing Hole Bottle",
-										"access_rules": [
-											"fishingrod"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 5788,
-										"y": 599,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "Fishing Hole Bottle"
 									}
 								]
 							}
@@ -2453,25 +1549,19 @@
 					},
 					{
 						"name": "Fishing Hole Piece of Heart",
-						"access_rules": [
-							"^$canAccess|FishingHolePieceofHeart"
-						],
 						"children": [
 							{
 								"name": "Fishing Hole Heart Piece",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 5800,
-										"y": 370
+										"x": 1450,
+										"y": 92
 									}
 								],
 								"sections": [
 									{
-										"name": "Fishing Hole Heart Piece",
-										"access_rules": [
-											""
-										]
+										"name": "Fishing Hole Heart Piece"
 									}
 								]
 							}
@@ -2479,25 +1569,19 @@
 					},
 					{
 						"name": "Zoras Domain",
-						"access_rules": [
-							"^$canAccess|ZorasDomain"
-						],
 						"children": [
 							{
 								"name": "Zoras Domain Chest By Mother and Child Isles",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4932,
-										"y": 604
+										"x": 1233,
+										"y": 151
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Chest By Mother and Child Isles",
-										"access_rules": [
-											""
-										]
+										"name": "Zoras Domain Chest By Mother and Child Isles"
 									}
 								]
 							},
@@ -2506,255 +1590,163 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4961,
-										"y": 598
+										"x": 1240,
+										"y": 150
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Chest Behind Waterfall",
-										"access_rules": [
-											"shadowcrystal",
-											"[glitcheson], ^$canDoBSMoonBoots",
-											"[glitcheson], spinner",
-											"[glitcheson], ^$hasBombs, sword",
-											"[glitcheson], ^$canDoLJA"
-										]
+										"name": "Zoras Domain Chest Behind Waterfall"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Male Dragonfly",
-								"chest_unopened_img": "images/Items/Bug22Grayed.png",
-								"chest_opened_img": "images/Items/Bug22.png",
-								"visibility_rules": [
-									"bugson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4952,
-										"y": 743
+										"x": 1238,
+										"y": 186
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Male Dragonfly",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Zoras Domain Male Dragonfly"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Mother and Child Isle Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4967,
-										"y": 638
+										"x": 1242,
+										"y": 160
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Mother and Child Isle Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Zoras Domain Mother and Child Isle Poe"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Waterfall Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4840,
-										"y": 486
+										"x": 1210,
+										"y": 122
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Waterfall Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Zoras Domain Waterfall Poe"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Behind Waterfall Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4889,
-										"y": 508
+										"x": 1222,
+										"y": 127
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Behind Waterfall Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Zoras Domain Behind Waterfall Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Central Underwater Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4851,
-										"y": 676
+										"x": 1213,
+										"y": 169
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Central Underwater Boulder Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, boots, ^$canUseWaterBombs"
-										]
+										"name": "Zoras Domain Central Underwater Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain North Underwater Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4852,
-										"y": 514
+										"x": 1213,
+										"y": 128
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain North Underwater Boulder Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, boots, ^$canUseWaterBombs"
-										]
+										"name": "Zoras Domain North Underwater Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Shortcut Ledge Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4767,
-										"y": 604
+										"x": 1192,
+										"y": 151
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Shortcut Ledge Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Zoras Domain Shortcut Ledge Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Top Ledge Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4781,
-										"y": 512
+										"x": 1195,
+										"y": 128
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Top Ledge Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Zoras Domain Top Ledge Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Vine Ledge Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4789,
-										"y": 584
+										"x": 1197,
+										"y": 146
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Vine Ledge Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
+										"name": "Zoras Domain Vine Ledge Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Waterfall Ledge Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4811,
-										"y": 520
+										"x": 1203,
+										"y": 130
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Waterfall Ledge Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight"
-										]
-									}
-								]
-							},
-							{
-								"name": "Reekfish Scent",
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4938,
-										"y": 661,
-										"shape": "diamond"
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"hook, shadowcrystal"
-										],
-										"hosted_item": "reekfishscent"
+										"name": "Zoras Domain Waterfall Ledge Rupee"
 									}
 								]
 							}
@@ -2762,53 +1754,19 @@
 					},
 					{
 						"name": "Zoras Domain West Ledge",
-						"access_rules": [
-							"^$canAccess|ZorasDomainWestLedge"
-						],
 						"children": [
 							{
 								"name": "Zoras Domain Shortcut Lower Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4707,
-										"y": 474
+										"x": 1177,
+										"y": 118
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Shortcut Lower Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4753,
-										"y": 774,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{}"
-										]
+										"name": "Zoras Domain Shortcut Lower Boulder Rupee"
 									}
 								]
 							}
@@ -2816,26 +1774,19 @@
 					},
 					{
 						"name": "Zoras Domain Throne Room",
-						"access_rules": [
-							"^$canAccess|ZorasDomainThroneRoom"
-						],
 						"children": [
 							{
 								"name": "Zoras Domain Light All Torches Chest",
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4859,
-										"y": 204
+										"x": 1215,
+										"y": 51
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Light All Torches Chest",
-										"access_rules": [
-											"lantern, boots",
-											"[glitcheson], lantern, ^$hasHeavyMod"
-										]
+										"name": "Zoras Domain Light All Torches Chest"
 									}
 								]
 							},
@@ -2844,17 +1795,13 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4837,
-										"y": 204
+										"x": 1209,
+										"y": 51
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Extinguish All Torches Chest",
-										"access_rules": [
-											"boomerang, boots",
-											"[glitcheson], boomerang, ^$hasHeavyMod"
-										]
+										"name": "Zoras Domain Extinguish All Torches Chest"
 									}
 								]
 							},
@@ -2863,174 +1810,103 @@
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4847,
-										"y": 172
+										"x": 1212,
+										"y": 43
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Underwater Goron",
-										"access_rules": [
-											"^$canUseWaterBombs, boots, zoraarmor, ^$canCompleteLanayruTwilight",
-											"[glitcheson], ^$canUseWaterBombs, boots, ^$canCompleteLanayruTwilight"
-										]
-									}
-								]
-							},
-							{
-								"name": "Zoras Domain Portal",
-								"visibility_rules": [
-									"portals"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4847,
-										"y": 250
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											""
-										],
-										"hosted_item": "zdportal"
+										"name": "Zoras Domain Underwater Goron"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Throne East Gate Underwater Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4863,
-										"y": 250
+										"x": 1216,
+										"y": 62
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Throne East Gate Underwater Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, boots",
-											"[glitcheson], ^$canCompleteLanayruTwilight, ^$hasHeavyMod"
-										]
+										"name": "Zoras Domain Throne East Gate Underwater Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Throne East Underwater Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4895,
-										"y": 142
+										"x": 1224,
+										"y": 36
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Throne East Underwater Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, boots",
-											"^$canCompleteLanayruTwilight, zoraarmor",
-											"[glitcheson], ^$canCompleteLanayruTwilight, magicarmor"
-										]
+										"name": "Zoras Domain Throne East Underwater Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Throne Northwest Underwater Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4807,
-										"y": 105
+										"x": 1202,
+										"y": 26
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Throne Northwest Underwater Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, boots",
-											"^$canCompleteLanayruTwilight, zoraarmor",
-											"[glitcheson], ^$canCompleteLanayruTwilight, magicarmor"
-										]
+										"name": "Zoras Domain Throne Northwest Underwater Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Throne South Underwater Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4840,
-										"y": 223
+										"x": 1210,
+										"y": 56
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Throne South Underwater Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, boots",
-											"^$canCompleteLanayruTwilight, zoraarmor",
-											"[glitcheson], ^$canCompleteLanayruTwilight, magicarmor"
-										]
+										"name": "Zoras Domain Throne South Underwater Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Throne West Gate Underwater Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4829,
-										"y": 250
+										"x": 1207,
+										"y": 62
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Throne West Gate Underwater Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, boots",
-											"[glitcheson], ^$canCompleteLanayruTwilight, magicarmor"
-										]
+										"name": "Zoras Domain Throne West Gate Underwater Rupee"
 									}
 								]
 							},
 							{
 								"name": "Zoras Domain Throne West Underwater Rupee",
-								"visibility_rules":[
-									"freerupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4785,
-										"y": 120
+										"x": 1196,
+										"y": 30
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Throne West Underwater Rupee",
-										"access_rules": [
-											"^$canCompleteLanayruTwilight, boots",
-											"^$canCompleteLanayruTwilight, zoraarmor",
-											"[glitcheson], ^$canCompleteLanayruTwilight, magicarmor"
-										]
+										"name": "Zoras Domain Throne West Underwater Rupee"
 									}
 								]
 							}
@@ -3038,28 +1914,19 @@
 					},
 					{
 						"name": "Zoras Domain Top of Waterfall",
-						"access_rules": [
-							"^$canAccess|ZorasDomainTopofWaterfall"
-						],
 						"children": [
 							{
 								"name": "Zoras Domain Shortcut Upper Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "overworld",
-										"x": 4743,
-										"y": 476
+										"x": 1186,
+										"y": 119
 									}
 								],
 								"sections": [
 									{
-										"name": "Zoras Domain Shortcut Upper Boulder Rupee",
-										"access_rules": [
-											"^$canSmash"
-										]
+										"name": "Zoras Domain Shortcut Upper Boulder Rupee"
 									}
 								]
 							}
@@ -3072,9 +1939,6 @@
 				"children": [
 					{
 						"name": "Castle Town STAR Game",
-						"access_rules": [
-							"^$canAccess|CastleTownSTARGame"
-						],
 						"children": [
 							{
 								"name": "STAR",
@@ -3087,16 +1951,10 @@
 								],
 								"sections": [
 									{
-										"name": "STAR Prize 1",
-										"access_rules": [
-											"clawshot"
-										]
+										"name": "STAR Prize 1"
 									},
 									{
-										"name": "STAR Prize 2",
-										"access_rules": [
-											"doubleclawshot"
-										]
+										"name": "STAR Prize 2"
 									}
 								]
 							}
@@ -3104,9 +1962,6 @@
 					},
 					{
 						"name": "Castle Town Goron House",
-						"access_rules": [
-							"^$canAccess|CastleTownGoronHouse"
-						],
 						"children": [
 							{
 								"name": "Castle Town Goron Shop Hylian Shield",
@@ -3119,11 +1974,7 @@
 								],
 								"sections": [
 									{
-										"name": "Castle Town Goron Shop Hylian Shield",
-										"access_rules": [
-											"$Not|reducedwalletsize",
-											"mediumwallet"
-										]
+										"name": "Castle Town Goron Shop Hylian Shield"
 									}
 								]
 							},
@@ -3138,10 +1989,7 @@
 								],
 								"sections": [
 									{
-										"name": "Castle Town Goron Shop Red Potion",
-										"access_rules": [
-											""
-										]
+										"name": "Castle Town Goron Shop Red Potion"
 									}
 								]
 							},
@@ -3156,10 +2004,7 @@
 								],
 								"sections": [
 									{
-										"name": "Castle Town Goron Shop Lantern Oil",
-										"access_rules": [
-											""
-										]
+										"name": "Castle Town Goron Shop Lantern Oil"
 									}
 								]
 							}
@@ -3167,9 +2012,6 @@
 					},
 					{
 						"name": "Castle Town Malo Mart",
-						"access_rules": [
-							"^$canAccess|CastleTownMaloMart"
-						],
 						"children": [
 							{
 								"name": "Castle Town Malo Mart Magic Armor",
@@ -3182,37 +2024,7 @@
 								],
 								"sections": [
 									{
-										"name": "Castle Town Malo Mart Magic Armor",
-										"access_rules": [
-											"^$canAccess|KakarikoMaloMart, ^$canAccess|LowerKakarikoVillage, ^$canBuyMagicArmor"
-										]
-									}
-								]
-							}
-						]
-					},
-					{
-						"name": "Castle Town Doctors Office Lower",
-						"access_rules": [
-							"^$canAccess|CastleTownDoctorsOfficeLower"
-						],
-						"children": [
-							{
-								"name": "Medicine Scent",
-								"map_locations": [
-									{
-										"map": "do",
-										"x": 155,
-										"y": 10,
-										"shape": "diamond"
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"shadowcrystal"
-										],
-										"hosted_item": "medicinescent"
+										"name": "Castle Town Malo Mart Magic Armor"
 									}
 								]
 							}
@@ -3220,9 +2032,6 @@
 					},
 					{
 						"name": "Castle Town Agithas House",
-						"access_rules": [
-							"^$canAccess|CastleTownAgithasHouse"
-						],
 						"children": [
 							{
 								"name": "Agitha Male Ant Reward",
@@ -3235,10 +2044,7 @@
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Ant Reward",
-										"access_rules": [
-											"bug0"
-										]
+										"name": "Agitha Male Ant Reward"
 									}
 								]
 							},
@@ -3253,10 +2059,7 @@
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Ant Reward",
-										"access_rules": [
-											"bug1"
-										]
+										"name": "Agitha Female Ant Reward"
 									}
 								]
 							},
@@ -3265,16 +2068,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  113,
+										"x": 113,
 										"y": 47
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Dayfly Reward",
-										"access_rules": [
-											"bug2"
-										]
+										"name": "Agitha Male Dayfly Reward"
 									}
 								]
 							},
@@ -3283,16 +2083,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  142,
+										"x": 142,
 										"y": 47
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Dayfly Reward",
-										"access_rules": [
-											"bug3"
-										]
+										"name": "Agitha Female Dayfly Reward"
 									}
 								]
 							},
@@ -3301,16 +2098,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  188,
+										"x": 188,
 										"y": 47
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Beetle Reward",
-										"access_rules": [
-											"bug4"
-										]
+										"name": "Agitha Male Beetle Reward"
 									}
 								]
 							},
@@ -3319,16 +2113,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  217,
+										"x": 217,
 										"y": 47
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Beetle Reward",
-										"access_rules": [
-											"bug5"
-										]
+										"name": "Agitha Female Beetle Reward"
 									}
 								]
 							},
@@ -3343,10 +2134,7 @@
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Mantis Reward",
-										"access_rules": [
-											"bug6"
-										]
+										"name": "Agitha Male Mantis Reward"
 									}
 								]
 							},
@@ -3361,10 +2149,7 @@
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Mantis Reward",
-										"access_rules": [
-											"bug7"
-										]
+										"name": "Agitha Female Mantis Reward"
 									}
 								]
 							},
@@ -3373,16 +2158,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  113,
+										"x": 113,
 										"y": 97
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Stag Beetle Reward",
-										"access_rules": [
-											"bug8"
-										]
+										"name": "Agitha Male Stag Beetle Reward"
 									}
 								]
 							},
@@ -3391,16 +2173,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  142,
+										"x": 142,
 										"y": 97
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Stag Beetle Reward",
-										"access_rules": [
-											"bug9"
-										]
+										"name": "Agitha Female Stag Beetle Reward"
 									}
 								]
 							},
@@ -3409,16 +2188,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  188,
+										"x": 188,
 										"y": 97
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Pill Bug Reward",
-										"access_rules": [
-											"bug10"
-										]
+										"name": "Agitha Male Pill Bug Reward"
 									}
 								]
 							},
@@ -3427,16 +2203,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  217,
+										"x": 217,
 										"y": 97
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Pill Bug Reward",
-										"access_rules": [
-											"bug11"
-										]
+										"name": "Agitha Female Pill Bug Reward"
 									}
 								]
 							},
@@ -3451,10 +2224,7 @@
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Butterfly Reward",
-										"access_rules": [
-											"bug12"
-										]
+										"name": "Agitha Male Butterfly Reward"
 									}
 								]
 							},
@@ -3469,10 +2239,7 @@
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Butterfly Reward",
-										"access_rules": [
-											"bug13"
-										]
+										"name": "Agitha Female Butterfly Reward"
 									}
 								]
 							},
@@ -3481,16 +2248,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  113,
+										"x": 113,
 										"y": 147
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Ladybug Reward",
-										"access_rules": [
-											"bug14"
-										]
+										"name": "Agitha Male Ladybug Reward"
 									}
 								]
 							},
@@ -3499,16 +2263,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  142,
+										"x": 142,
 										"y": 147
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Ladybug Reward",
-										"access_rules": [
-											"bug15"
-										]
+										"name": "Agitha Female Ladybug Reward"
 									}
 								]
 							},
@@ -3517,16 +2278,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  188,
+										"x": 188,
 										"y": 147
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Snail Reward",
-										"access_rules": [
-											"bug16"
-										]
+										"name": "Agitha Male Snail Reward"
 									}
 								]
 							},
@@ -3535,16 +2293,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  217,
+										"x": 217,
 										"y": 147
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Snail Reward",
-										"access_rules": [
-											"bug17"
-										]
+										"name": "Agitha Female Snail Reward"
 									}
 								]
 							},
@@ -3559,10 +2314,7 @@
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Phasmid Reward",
-										"access_rules": [
-											"bug18"
-										]
+										"name": "Agitha Male Phasmid Reward"
 									}
 								]
 							},
@@ -3577,10 +2329,7 @@
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Phasmid Reward",
-										"access_rules": [
-											"bug19"
-										]
+										"name": "Agitha Female Phasmid Reward"
 									}
 								]
 							},
@@ -3589,16 +2338,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  113,
+										"x": 113,
 										"y": 197
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Grasshopper Reward",
-										"access_rules": [
-											"bug20"
-										]
+										"name": "Agitha Male Grasshopper Reward"
 									}
 								]
 							},
@@ -3607,16 +2353,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  142,
+										"x": 142,
 										"y": 197
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Grasshopper Reward",
-										"access_rules": [
-											"bug21"
-										]
+										"name": "Agitha Female Grasshopper Reward"
 									}
 								]
 							},
@@ -3625,16 +2368,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  188,
+										"x": 188,
 										"y": 197
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Male Dragonfly Reward",
-										"access_rules": [
-											"bug22"
-										]
+										"name": "Agitha Male Dragonfly Reward"
 									}
 								]
 							},
@@ -3643,16 +2383,13 @@
 								"map_locations": [
 									{
 										"map": "ac1f",
-										"x":  217,
+										"x": 217,
 										"y": 197
 									}
 								],
 								"sections": [
 									{
-										"name": "Agitha Female Dragonfly Reward",
-										"access_rules": [
-											"bug23"
-										]
+										"name": "Agitha Female Dragonfly Reward"
 									}
 								]
 							}
@@ -3660,9 +2397,6 @@
 					},
 					{
 						"name": "Castle Town Jovanis House",
-						"access_rules": [
-							"^$canAccess|CastleTownJovanisHouse"
-						],
 						"children": [
 							{
 								"name": "Jovani",
@@ -3675,26 +2409,15 @@
 								],
 								"sections": [
 									{
-										"name": "Jovani 20 Poe Soul Reward",
-										"access_rules": [
-											"poesoul:20"
-										]
+										"name": "Jovani 20 Poe Soul Reward"
 									},
 									{
-										"name": "Jovani 60 Poe Soul Reward",
-										"access_rules": [
-											"poesoul:60"
-										]
+										"name": "Jovani 60 Poe Soul Reward"
 									}
 								]
 							},
 							{
 								"name": "Jovani House Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "joh",
@@ -3704,10 +2427,7 @@
 								],
 								"sections": [
 									{
-										"name": "Jovani House Poe",
-										"access_rules": [
-											"shadowcrystal"
-										]
+										"name": "Jovani House Poe"
 									}
 								]
 							}
@@ -3715,9 +2435,6 @@
 					},
 					{
 						"name": "Castle Town Telmas Bar",
-						"access_rules": [
-							"^$canAccess|CastleTownTelmasBar"
-						],
 						"children": [
 							{
 								"name": "Telma Invoice",
@@ -3730,10 +2447,7 @@
 								],
 								"sections": [
 									{
-										"name": "Telma Invoice",
-										"access_rules": [
-											"renadosletter, ^$canCompleteLanayruTwilight"
-										]
+										"name": "Telma Invoice"
 									}
 								]
 							}
@@ -3741,9 +2455,6 @@
 					},
 					{
 						"name": "Lanayru Ice Puzzle Cave",
-						"access_rules": [
-							"^$canAccess|LanayruIcePuzzleCave"
-						],
 						"children": [
 							{
 								"name": "Lanayru Ice Block Puzzle Cave Chest",
@@ -3756,10 +2467,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Ice Block Puzzle Cave Chest",
-										"access_rules": [
-											"ballchain"
-										]
+										"name": "Lanayru Ice Block Puzzle Cave Chest"
 									}
 								]
 							}
@@ -3767,9 +2475,6 @@
 					},
 					{
 						"name": "Lanayru Field Skulltula Grotto",
-						"access_rules": [
-							"^$canAccess|LanayruFieldSkulltulaGrotto"
-						],
 						"children": [
 							{
 								"name": "Lanayru Field Skulltula Grotto Chest",
@@ -3782,11 +2487,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field Skulltula Grotto Chest",
-										"access_rules": [
-											"^$canDefeatSkulltula, lantern, ^$canBreakWoodenDoor",
-											"[glitcheson], lantern, ^$canBreakWoodenDoor"
-										]
+										"name": "Lanayru Field Skulltula Grotto Chest"
 									}
 								]
 							}
@@ -3794,17 +2495,9 @@
 					},
 					{
 						"name": "Lanayru Field Poe Grotto",
-						"access_rules": [
-							"^$canAccess|LanayruFieldPoeGrotto"
-						],
 						"children": [
 							{
 								"name": "Lanayru Field Poe Grotto Left Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "grotto13",
@@ -3814,20 +2507,12 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field Poe Grotto Left Poe",
-										"access_rules": [
-											"shadowcrystal"
-										]
+										"name": "Lanayru Field Poe Grotto Left Poe"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Field Poe Grotto Right Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "grotto13",
@@ -3837,10 +2522,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Field Poe Grotto Right Poe",
-										"access_rules": [
-											"shadowcrystal"
-										]
+										"name": "Lanayru Field Poe Grotto Right Poe"
 									}
 								]
 							}
@@ -3848,9 +2530,6 @@
 					},
 					{
 						"name": "Outside Castle Town West Helmasaur Grotto",
-						"access_rules": [
-							"^$canAccess|OutsideCastleTownWestHelmasaurGrotto"
-						],
 						"children": [
 							{
 								"name": "West Hyrule Field Helmasaur Grotto Chest",
@@ -3863,10 +2542,7 @@
 								],
 								"sections": [
 									{
-										"name": "West Hyrule Field Helmasaur Grotto Chest",
-										"access_rules": [
-											"^$canDefeatHelmasaur"
-										]
+										"name": "West Hyrule Field Helmasaur Grotto Chest"
 									}
 								]
 							}
@@ -3874,9 +2550,6 @@
 					},
 					{
 						"name": "Outside Castle Town South Tektite Grotto",
-						"access_rules": [
-							"^$canAccess|OutsideCastleTownSouthTektiteGrotto"
-						],
 						"children": [
 							{
 								"name": "Outside South Castle Town Tektite Grotto Chest",
@@ -3889,10 +2562,7 @@
 								],
 								"sections": [
 									{
-										"name": "Outside South Castle Town Tektite Grotto Chest",
-										"access_rules": [
-											"^$canDefeatTektite"
-										]
+										"name": "Outside South Castle Town Tektite Grotto Chest"
 									}
 								]
 							}
@@ -3900,9 +2570,6 @@
 					},
 					{
 						"name": "Lake Hylia Bridge Bubble Grotto",
-						"access_rules": [
-							"^$canAccess|LakeHyliaBridgeBubbleGrotto"
-						],
 						"children": [
 							{
 								"name": "Lake Hylia Bridge Bubble Grotto Chest",
@@ -3915,10 +2582,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Bridge Bubble Grotto Chest",
-										"access_rules": [
-											"^$canDefeatBubble, ^$canDefeatFireBubble, ^$canDefeatIceBubble"
-										]
+										"name": "Lake Hylia Bridge Bubble Grotto Chest"
 									}
 								]
 							}
@@ -3926,9 +2590,6 @@
 					},
 					{
 						"name": "Lake Hylia Lanayru Spring",
-						"access_rules": [
-							"^$canAccess|LakeHyliaLanayruSpring"
-						],
 						"children": [
 							{
 								"name": "Lanayru Spring Underwater Left Chest",
@@ -3941,11 +2602,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Spring Underwater Left Chest",
-										"access_rules": [
-											"boots",
-											"[glitcheson], ^$hasHeavyMod"
-										]
+										"name": "Lanayru Spring Underwater Left Chest"
 									}
 								]
 							},
@@ -3960,11 +2617,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Spring Underwater Right Chest",
-										"access_rules": [
-											"boots",
-											"[glitcheson], ^$hasHeavyMod"
-										]
+										"name": "Lanayru Spring Underwater Right Chest"
 									}
 								]
 							},
@@ -3979,11 +2632,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Spring Back Room Left Chest",
-										"access_rules": [
-											"clawshot",
-											"[glitcheson], ^$canDoBSMoonBoots"
-										]
+										"name": "Lanayru Spring Back Room Left Chest"
 									}
 								]
 							},
@@ -3998,11 +2647,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Spring Back Room Right Chest",
-										"access_rules": [
-											"clawshot",
-											"[glitcheson], ^$canDoBSMoonBoots"
-										]
+										"name": "Lanayru Spring Back Room Right Chest"
 									}
 								]
 							},
@@ -4017,11 +2662,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Spring Back Room Lantern Chest",
-										"access_rules": [
-											"clawshot, lantern",
-											"[glitcheson], lantern, ^$canDoBSMoonBoots"
-										]
+										"name": "Lanayru Spring Back Room Lantern Chest"
 									}
 								]
 							},
@@ -4036,10 +2677,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Spring East Double Clawshot Chest",
-										"access_rules": [
-											"doubleclawshot"
-										]
+										"name": "Lanayru Spring East Double Clawshot Chest"
 									}
 								]
 							},
@@ -4054,18 +2692,12 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Spring West Double Clawshot Chest",
-										"access_rules": [
-											"doubleclawshot"
-										]
+										"name": "Lanayru Spring West Double Clawshot Chest"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Spring Upper Underwater Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "ls",
@@ -4075,19 +2707,12 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Spring Upper Underwater Boulder Rupee",
-										"access_rules": [
-											"boots, ^$canUseWaterBombs",
-											"[glitcheson], magicarmor, ^$canUseWaterBombs"
-										]
+										"name": "Lanayru Spring Upper Underwater Boulder Rupee"
 									}
 								]
 							},
 							{
 								"name": "Lanayru Spring Lower Underwater Boulder Rupee",
-								"visibility_rules":[
-									"hiddenrupeeson"
-								],
 								"map_locations": [
 									{
 										"map": "ls",
@@ -4097,38 +2722,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lanayru Spring Lower Underwater Boulder Rupee",
-										"access_rules": [
-											"boots, ^$canUseWaterBombs",
-											"[glitcheson], magicarmor, ^$canUseWaterBombs"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "ls",
-										"x": 246,
-										"y": 224,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{boots}",
-											"{zoraarmor}",
-											"{glitcheson, ^$hasHeavyMod}"
-										]
+										"name": "Lanayru Spring Lower Underwater Boulder Rupee"
 									}
 								]
 							}
@@ -4136,9 +2730,6 @@
 					},
 					{
 						"name": "Lake Hylia Long Cave",
-						"access_rules": [
-							"^$canAccess|LakeHyliaLongCave"
-						],
 						"children": [
 							{
 								"name": "Lake Lantern Cave First Chest",
@@ -4151,11 +2742,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave First Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave First Chest"
 									}
 								]
 							},
@@ -4170,11 +2757,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Second Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Second Chest"
 									}
 								]
 							},
@@ -4189,11 +2772,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Third Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Third Chest"
 									}
 								]
 							},
@@ -4208,11 +2787,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Fourth Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Fourth Chest"
 									}
 								]
 							},
@@ -4227,11 +2802,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Fifth Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Fifth Chest"
 									}
 								]
 							},
@@ -4246,10 +2817,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Sixth Chest",
-										"access_rules": [
-											"^$canSmash, lantern"
-										]
+										"name": "Lake Lantern Cave Sixth Chest"
 									}
 								]
 							},
@@ -4264,11 +2832,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Seventh Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Seventh Chest"
 									}
 								]
 							},
@@ -4283,11 +2847,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Eighth Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Eighth Chest"
 									}
 								]
 							},
@@ -4302,11 +2862,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Ninth Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Ninth Chest"
 									}
 								]
 							},
@@ -4321,11 +2877,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Tenth Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Tenth Chest"
 									}
 								]
 							},
@@ -4340,11 +2892,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Twelfth Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Twelfth Chest"
 									}
 								]
 							},
@@ -4359,11 +2907,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Eleventh Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Eleventh Chest"
 									}
 								]
 							},
@@ -4378,11 +2922,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Thirteenth Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Thirteenth Chest"
 									}
 								]
 							},
@@ -4397,11 +2937,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Fourteenth Chest",
-										"access_rules": [
-											"^$canSmash, lantern",
-											"[glitcheson], ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Fourteenth Chest"
 									}
 								]
 							},
@@ -4416,20 +2952,12 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave End Lantern Chest",
-										"access_rules": [
-											"^$canSmash, lantern"
-										]
+										"name": "Lake Lantern Cave End Lantern Chest"
 									}
 								]
 							},
 							{
 								"name": "Lake Lantern Cave First Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "llc",
@@ -4439,21 +2967,12 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave First Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canSmash, lantern",
-											"[glitcheson], shadowcrystal, ^$canSmash"
-										]
+										"name": "Lake Lantern Cave First Poe"
 									}
 								]
 							},
 							{
 								"name": "Lake Lantern Cave Second Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "llc",
@@ -4463,21 +2982,12 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Second Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canSmash, lantern",
-											"[glitcheson], shadowcrystal, ^$canSmash"
-										]
+										"name": "Lake Lantern Cave Second Poe"
 									}
 								]
 							},
 							{
 								"name": "Lake Lantern Cave Final Poe",
-								"chest_unopened_img": "images/Items/PoeSoulGrayed.png",
-								"chest_opened_img": "images/Items/PoeSoul.png",
-								"visibility_rules": [
-									"poeson"
-								],
 								"map_locations": [
 									{
 										"map": "llc",
@@ -4487,37 +2997,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Lantern Cave Final Poe",
-										"access_rules": [
-											"shadowcrystal, ^$canSmash, lantern",
-											"[glitcheson], shadowcrystal, ^$canSmash"
-										]
-									}
-								]
-							},
-							{
-								"name": "Hint Sign",
-								"chest_opened_img": "images/Items/Sign.png",
-								"chest_unopened_img": "images/Items/SignGrayed.png",
-								"visibility_rules": [
-									"hintson"
-								],
-								"map_locations": [
-									{
-										"map": "llc",
-										"x": 251,
-										"y": 106,
-										"shape": "triangle",
-										"orientation": "south",
-										"border_thickness": 32
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											"{lantern, ^$canSmash}",
-											"{[glitcheson], ^$canSmash}"
-										]
+										"name": "Lake Lantern Cave Final Poe"
 									}
 								]
 							}
@@ -4525,9 +3005,6 @@
 					},
 					{
 						"name": "Lake Hylia Shell Blade Grotto",
-						"access_rules": [
-							"^$canAccess|LakeHyliaShellBladeGrotto"
-						],
 						"children": [
 							{
 								"name": "Lake Hylia Shell Blade Grotto Chest",
@@ -4540,10 +3017,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Shell Blade Grotto Chest",
-										"access_rules": [
-											"^$canDefeatShellBlade"
-										]
+										"name": "Lake Hylia Shell Blade Grotto Chest"
 									}
 								]
 							}
@@ -4551,9 +3025,6 @@
 					},
 					{
 						"name": "Lake Hylia Water Toadpoli Grotto",
-						"access_rules": [
-							"^$canAccess|LakeHyliaWaterToadpoliGrotto"
-						],
 						"children": [
 							{
 								"name": "Lake Hylia Water Toadpoli Grotto Chest",
@@ -4566,10 +3037,7 @@
 								],
 								"sections": [
 									{
-										"name": "Lake Hylia Water Toadpoli Grotto Chest",
-										"access_rules": [
-											"^$canDefeatWaterToadpoli"
-										]
+										"name": "Lake Hylia Water Toadpoli Grotto Chest"
 									}
 								]
 							}
