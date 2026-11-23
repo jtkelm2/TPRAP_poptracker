@@ -130,6 +130,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle Graveyard Owl Statue Chest",
 								"access_rules": [
 									"^$canSmash, lantern, powereddominionrod"
 								]
@@ -160,6 +161,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle Main Hall Northeast Chest",
 								"access_rules": [
 									"^$canDefeatBokoblin, ^$canDefeatLizalfos, clawshot"
 								]
@@ -190,6 +192,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle East Wing Boomerang Puzzle Chest",
 								"access_rules": [
 									"boomerang"
 								]
@@ -212,6 +215,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle East Wing Balcony Chest",
 								"access_rules": [
 									"boomerang"
 								]
@@ -242,6 +246,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle West Courtyard North Small Chest",
 								"access_rules": [
 									"^$canDefeatBokoblin",
 									"[glitcheson]"
@@ -265,6 +270,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle West Courtyard Central Small Chest",
 								"access_rules": [
 									"^$canDefeatBokoblin",
 									"[glitcheson]"
@@ -288,6 +294,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle King Bulblin Key",
 								"access_rules": [
 									"^$canDefeatKingBulblinCastle"
 								]
@@ -318,6 +325,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle Lantern Staircase Chest",
 								"access_rules": [
 									"^$canDefeatDarknut"
 								]
@@ -348,6 +356,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle Main Hall Southwest Chest",
 								"access_rules": [
 									""
 								]
@@ -370,6 +379,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle Main Hall Northwest Chest",
 								"access_rules": [
 									"doubleclawshot",
 									"[glitcheson], clawshot",
@@ -402,6 +412,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle Southeast Balcony Tower Chest",
 								"access_rules": [
 									"^$canDefeatAeralfos"
 								]
@@ -424,6 +435,7 @@
 						],
 						"sections": [
 							{
+								"name": "Hyrule Castle Big Key Chest",
 								"access_rules": [
 									"^$canOpenHCBKGate"
 								]

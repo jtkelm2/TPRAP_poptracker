@@ -18,19 +18,19 @@
 						"sections": [
 							{
 								"name": "Floor 17 Poe",
-								"ref": "Gerudo Province/Submaps/Gerudo Desert Cave of Ordeals Floors 1221/Cave of Ordeals Floor 17 Poe/"
+								"ref": "Gerudo Province/Submaps/Gerudo Desert Cave of Ordeals Floors 1221/Cave of Ordeals Floor 17 Poe/Cave of Ordeals Floor 17 Poe"
 							},
 							{
 								"name": "Floor 33 Poe",
-								"ref": "Gerudo Province/Submaps/Gerudo Desert Cave of Ordeals Floors 3241/Cave of Ordeals Floor 33 Poe/"
+								"ref": "Gerudo Province/Submaps/Gerudo Desert Cave of Ordeals Floors 3241/Cave of Ordeals Floor 33 Poe/Cave of Ordeals Floor 33 Poe"
 							},
 							{
 								"name": "Floor 44 Poe",
-								"ref": "Gerudo Province/Submaps/Gerudo Desert Cave of Ordeals Floors 4250/Cave of Ordeals Floor 44 Poe/"
+								"ref": "Gerudo Province/Submaps/Gerudo Desert Cave of Ordeals Floors 4250/Cave of Ordeals Floor 44 Poe/Cave of Ordeals Floor 44 Poe"
 							},
 							{
 								"name": "Great Fairy Reward",
-								"ref": "Gerudo Province/Submaps/Gerudo Desert Cave of Ordeals Floors 4250/Cave of Ordeals Great Fairy Reward/"
+								"ref": "Gerudo Province/Submaps/Gerudo Desert Cave of Ordeals Floors 4250/Cave of Ordeals Great Fairy Reward/Cave of Ordeals Great Fairy Reward"
 							},
 							{
 								"name": "Hint Sign",
@@ -60,6 +60,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Peahat Ledge Chest",
 										"access_rules": [
 											"clawshot"
 										]
@@ -77,6 +78,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert East Canyon Chest",
 										"access_rules": [
 											""
 										]
@@ -94,6 +96,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Lone Small Chest",
 										"access_rules": [
 											""
 										]
@@ -111,6 +114,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert West Canyon Chest",
 										"access_rules": [
 											"clawshot",
 											"[glitcheson], canDoLJA",
@@ -130,6 +134,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert South Chest Behind Wooden Gates",
 										"access_rules": [
 											"^$canDefeatBulblin"
 										]
@@ -177,6 +182,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Male Dayfly",
 										"access_rules": [
 											""
 										]
@@ -199,6 +205,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Female Dayfly",
 										"access_rules": [
 											""
 										]
@@ -221,6 +228,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert East Poe",
 										"access_rules": [
 											"shadowcrystal"
 										]
@@ -276,6 +284,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Poe Above Cave of Ordeals",
 										"access_rules": [
 											"glitchesoff, shadowcrystal",
 											"[glitcheson], shadowcrystal, clawshot, ^$canDefeatShadowBeast"
@@ -323,6 +332,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Northeast Chest Behind Gates",
 										"access_rules": [
 											"^$canDefeatBulblin"
 										]
@@ -340,6 +350,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Campfire North Chest",
 										"access_rules": [
 											""
 										]
@@ -357,6 +368,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Campfire East Chest",
 										"access_rules": [
 											"^$canDefeatBulblin"
 										]
@@ -374,6 +386,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Campfire West Chest",
 										"access_rules": [
 											"^$canDefeatBulblin"
 										]
@@ -391,6 +404,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Northwest Chest Behind Gates",
 										"access_rules": [
 											"^$canDefeatBulblin"
 										]
@@ -421,6 +435,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert North Peahat Poe",
 										"access_rules": [
 											"glitchesoff, shadowcrystal",
 											"[glitcheson], shadowcrystal, clawshot"
@@ -447,6 +462,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert North Small Chest Before Bulblin Camp",
 										"access_rules": [
 											"glitchesoff",
 											"[glitcheson], ^$canDefeatBulblin"
@@ -470,6 +486,7 @@
 								],
 								"sections": [
 									{
+										"name": "Outside Bulblin Camp Poe",
 										"access_rules": [
 											"shadowcrystal"
 										]
@@ -517,7 +534,7 @@
 								"sections": [
 									{
 										"name": "Chest",
-										"ref": "Gerudo Province/Submaps/Gerudo Desert Skulltula Grotto/Gerudo Desert Skulltula Grotto Chest/"
+										"ref": "Gerudo Province/Submaps/Gerudo Desert Skulltula Grotto/Gerudo Desert Skulltula Grotto Chest/Gerudo Desert Skulltula Grotto Chest"
 									}
 								]
 							}
@@ -542,15 +559,15 @@
 								"sections": [
 									{
 										"name": "Lantern Chest",
-										"ref": "Gerudo Province/Submaps/Gerudo Desert Rock Grotto/Gerudo Desert Rock Grotto Lantern Chest/"
+										"ref": "Gerudo Province/Submaps/Gerudo Desert Rock Grotto/Gerudo Desert Rock Grotto Lantern Chest/Gerudo Desert Rock Grotto Lantern Chest"
 									},
 									{
 										"name": "First Poe",
-										"ref": "Gerudo Province/Submaps/Gerudo Desert Rock Grotto/Gerudo Desert Rock Grotto First Poe/"
+										"ref": "Gerudo Province/Submaps/Gerudo Desert Rock Grotto/Gerudo Desert Rock Grotto First Poe/Gerudo Desert Rock Grotto Second Poe"
 									},
 									{
 										"name": "Second Poe",
-										"ref": "Gerudo Province/Submaps/Gerudo Desert Rock Grotto/Gerudo Desert Rock Grotto Second Poe/"
+										"ref": "Gerudo Province/Submaps/Gerudo Desert Rock Grotto/Gerudo Desert Rock Grotto Second Poe/Gerudo Desert Rock Grotto First Poe"
 									}
 								]
 							}
@@ -573,6 +590,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bulblin Camp First Chest Under Tower At Entrance",
 										"access_rules": [
 											""
 										]
@@ -590,6 +608,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bulblin Camp Small Chest in Back of Camp",
 										"access_rules": [
 											""
 										]
@@ -607,6 +626,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bulblin Camp Roasted Boar",
 										"access_rules": [
 											"^$hasDamagingItem"
 										]
@@ -629,6 +649,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bulblin Camp Poe",
 										"access_rules": [
 											"shadowcrystal, bckey",
 											"shadowcrystal, skiparbitersentranceon",
@@ -648,6 +669,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bulblin Guard Key",
 										"access_rules": [
 											"^$canDefeatBulblin"
 										]
@@ -698,6 +720,7 @@
 								],
 								"sections": [
 									{
+										"name": "Outside Arbiters Grounds Lantern Chest",
 										"access_rules": [
 											"lantern"
 										]
@@ -720,6 +743,7 @@
 								],
 								"sections": [
 									{
+										"name": "Outside Arbiters Grounds Poe",
 										"access_rules": [
 											"shadowcrystal"
 										]
@@ -817,6 +841,7 @@
 								],
 								"sections": [
 									{
+										"name": "Cave of Ordeals Floor 17 Poe",
 										"access_rules": [
 											"spinner, shadowcrystal, ^$canDefeatHelmasaur, ^$canDefeatRat, ^$canDefeatChu, ^$canDefeatChuWorm, ^$canDefeatBubble, ^$canDefeatKeese, ^$canDefeatStalhound",
 											"[glitcheson], clawshot, ^$canDoLJA, shadowcrystal, ^$canDefeatHelmasaur, ^$canDefeatRat, ^$canDefeatChu, ^$canDefeatChuWorm, ^$canDefeatBubble, ^$canDefeatKeese, ^$canDefeatStalhound"
@@ -848,6 +873,7 @@
 								],
 								"sections": [
 									{
+										"name": "Cave of Ordeals Floor 33 Poe",
 										"access_rules": [
 											"shadowcrystal, powereddominionrod, ^$canDefeatBeamos, ^$canDefeatKeese, ^$canDefeatDodongo, ^$canDefeatBubble, ^$canDefeatRedeadKnight"
 										]
@@ -878,6 +904,7 @@
 								],
 								"sections": [
 									{
+										"name": "Cave of Ordeals Floor 44 Poe",
 										"access_rules": [
 											"shadowcrystal, doubleclawshot, ^$canDefeatArmos, ^$canDefeatBabaSerpent, ^$canDefeatLizalfos, ^$canDefeatDinalfos, bow",
 											"shadowcrystal, doubleclawshot, ^$canDefeatArmos, ^$canDefeatBabaSerpent, ^$canDefeatLizalfos, ^$canDefeatDinalfos, ballchain",
@@ -898,6 +925,7 @@
 								],
 								"sections": [
 									{
+										"name": "Cave of Ordeals Great Fairy Reward",
 										"access_rules": [
 											"^$canDefeatArmos, ^$canDefeatBokoblin, ^$canDefeatBabaSerpent, ^$canDefeatLizalfos, ^$canDefeatBulblin, ^$canDefeatDinalfos, ^$canDefeatPoe, ^$canDefeatRedeadKnight, ^$canDefeatChu, ^$canDefeatFreezard, ^$canDefeatChilfos, ^$canDefeatGhoulRat, ^$canDefeatRat, ^$canDefeatStalchild, ^$canDefeatAeralfos, ^$canDefeatDarknut"
 										]
@@ -923,6 +951,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Skulltula Grotto Chest",
 										"access_rules": [
 											"^$canDefeatSkulltula"
 										]
@@ -948,6 +977,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Rock Grotto Lantern Chest",
 										"access_rules": [
 											"^$canSmash, lantern"
 										]
@@ -970,6 +1000,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Rock Grotto Second Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canSmash"
 										]
@@ -992,6 +1023,7 @@
 								],
 								"sections": [
 									{
+										"name": "Gerudo Desert Rock Grotto First Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canSmash"
 										]

@@ -22,6 +22,7 @@
 								],
 								"sections": [
 									{
+										"name": "Death Mountain Alcove Chest",
 										"access_rules": [
 											"gmcompleted",
 											"clawshot",
@@ -46,6 +47,7 @@
 								],
 								"sections": [
 									{
+										"name": "Death Mountain Trail Poe",
 										"access_rules": [
 											"shadowcrystal, gmcompleted, ^$canCompleteEldinTwilight"
 										]
@@ -181,6 +183,7 @@
 								],
 								"sections": [
 									{
+										"name": "Death Mountain Volcano Pipe Ledge Rock Rupee",
 										"access_rules": [
 											"^$canDefeatGoron, ^$canCompleteEldinTwilight",
 											"gmcompleted, ^$canCompleteEldinTwilight"
@@ -212,6 +215,7 @@
 								],
 								"sections": [
 									{
+										"name": "Cats Hide and Seek Minigame",
 										"access_rules": [
 											"bow, shadowcrystal, clawshot",
 											"[glitcheson], ^$canDoHiddenVillageGlitched, shadowcrystal"
@@ -230,6 +234,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ilia Charm",
 										"access_rules": [
 											"bow, woodenstatue",
 											"[glitcheson], ^$canDoHiddenVillageGlitched, woodenstatue"
@@ -253,6 +258,7 @@
 								],
 								"sections": [
 									{
+										"name": "Hidden Village Poe",
 										"access_rules": [
 											"bow, shadowcrystal, clawshot",
 											"^$canDoHiddenVillageGlitched, shadowcrystal"
@@ -324,7 +330,7 @@
 								"sections": [
 									{
 										"name": "Skybook From Impaz",
-										"ref": "Eldin Province/Submaps/Hidden Village Impaz House/Skybook From Impaz/"
+										"ref": "Eldin Province/Submaps/Hidden Village Impaz House/Skybook From Impaz/Skybook From Impaz"
 									}
 								]
 							}
@@ -379,6 +385,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Gorge Double Clawshot Chest",
 										"access_rules": [
 											"doubleclawshot",
 											"[glitcheson], ^$canDoLJA",
@@ -398,6 +405,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Gorge Spire Heart Piece",
 										"access_rules": [
 											"clawshot",
 											"boomerang"
@@ -421,6 +429,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Gorge Male Pill Bug",
 										"access_rules": [
 											"^$canCompleteEldinTwilight"
 										]
@@ -443,6 +452,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Gorge Female Pill Bug",
 										"access_rules": [
 											"^$canCompleteEldinTwilight"
 										]
@@ -465,6 +475,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Gorge Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canCompleteMDH, ^$canCompleteAllTwilight"
 										]
@@ -506,6 +517,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Gorge Owl Statue Boulder Rupee",
 										"access_rules": [
 											"^$canSmash"
 										]
@@ -526,6 +538,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Gorge Spire Boulder Rupee",
 										"access_rules": [
 											"^$canSmash"
 										]
@@ -578,19 +591,19 @@
 								"sections": [
 									{
 										"name": "First Chest",
-										"ref": "Eldin Province/Submaps/Eldin Lantern Cave/Eldin Lantern Cave First Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Lantern Cave/Eldin Lantern Cave First Chest/Eldin Lantern Cave First Chest"
 									},
 									{
 										"name": "Second Chest",
-										"ref": "Eldin Province/Submaps/Eldin Lantern Cave/Eldin Lantern Cave Second Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Lantern Cave/Eldin Lantern Cave Second Chest/Eldin Lantern Cave Second Chest"
 									},
 									{
 										"name": "Lantern Chest",
-										"ref": "Eldin Province/Submaps/Eldin Lantern Cave/Eldin Lantern Cave Lantern Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Lantern Cave/Eldin Lantern Cave Lantern Chest/Eldin Lantern Cave Lantern Chest"
 									},
 									{
 										"name": "Poe",
-										"ref": "Eldin Province/Submaps/Eldin Lantern Cave/Eldin Lantern Cave Poe/"
+										"ref": "Eldin Province/Submaps/Eldin Lantern Cave/Eldin Lantern Cave Poe/Eldin Lantern Cave Poe"
 									}
 								]
 							}
@@ -613,6 +626,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Field Bomb Rock Chest",
 										"access_rules": [
 											"^$canSmash",
 											"[glitcheson], ^$canDoMapGlitch, ^$canCompleteEldinTwilight",
@@ -632,6 +646,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bridge of Eldin Owl Statue Chest",
 										"access_rules": [
 											"powereddominionrod",
 											"[glitcheson], ^$canDoLJA",
@@ -651,6 +666,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bridge of Eldin Owl Statue Sky Character",
 										"access_rules": [
 											"powereddominionrod"
 										]
@@ -673,6 +689,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Field Male Grasshopper",
 										"access_rules": [
 											"^$canCompleteEldinTwilight"
 										]
@@ -695,6 +712,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Field Female Grasshopper",
 										"access_rules": [
 											"^$canCompleteEldinTwilight"
 										]
@@ -717,6 +735,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bridge of Eldin Male Phasmid",
 										"access_rules": [
 											"clawshot, ^$canCompleteEldinTwilight",
 											"boomerang, ^$canCompleteEldinTwilight"
@@ -740,6 +759,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bridge of Eldin Female Phasmid",
 										"access_rules": [
 											"clawshot, ^$canCompleteEldinTwilight",
 											"boomerang, ^$canCompleteEldinTwilight"
@@ -782,6 +802,7 @@
 								],
 								"sections": [
 									{
+										"name": "Bridge of Eldin Boulder Rupee",
 										"access_rules": [
 											"^$canSmash"
 										]
@@ -832,6 +853,7 @@
 								],
 								"sections": [
 									{
+										"name": "Goron Springwater Rush",
 										"access_rules": [
 											"^$canCompleteEldinTwilight, ^$canAccess|LowerKakarikoVillage, skipbridgedonationon",
 											"^$canCompleteEldinTwilight, ^$canAccess|LowerKakarikoVillage, canAccess|KakarikoMaloMart, $Not|reducedwalletsie",
@@ -891,15 +913,15 @@
 								"sections": [
 									{
 										"name": "Upper Chest",
-										"ref": "Eldin Province/Submaps/Eldin Field Lava Cave Upper/Eldin Stockcave Upper Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Field Lava Cave Upper/Eldin Stockcave Upper Chest/Eldin Stockcave Upper Chest"
 									},
 									{
 										"name": "Lantern Chest",
-										"ref": "Eldin Province/Submaps/Eldin Field Lava Cave Lower/Eldin Stockcave Lantern Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Field Lava Cave Lower/Eldin Stockcave Lantern Chest/Eldin Stockcave Lantern Chest"
 									},
 									{
 										"name": "Lowest Chest",
-										"ref": "Eldin Province/Submaps/Eldin Field Lava Cave Lower/Eldin Stockcave Lowest Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Field Lava Cave Lower/Eldin Stockcave Lowest Chest/Eldin Stockcave Lowest Chest"
 									}
 								]
 							}
@@ -924,11 +946,11 @@
 								"sections": [
 									{
 										"name": "Left Chest",
-										"ref": "Eldin Province/Submaps/Eldin Field Bomskit Grotto/Eldin Field Bomskit Grotto Left Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Field Bomskit Grotto/Eldin Field Bomskit Grotto Left Chest/Eldin Field Bomskit Grotto Left Chest"
 									},
 									{
 										"name": "Lantern Chest",
-										"ref": "Eldin Province/Submaps/Eldin Field Bomskit Grotto/Eldin Field Bomskit Grotto Lantern Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Field Bomskit Grotto/Eldin Field Bomskit Grotto Lantern Chest/Eldin Field Bomskit Grotto Lantern Chest"
 									}
 								]
 							}
@@ -953,7 +975,7 @@
 								"sections": [
 									{
 										"name": "Chest",
-										"ref": "Eldin Province/Submaps/Eldin Field Water Bomb Fish Grotto/Eldin Field Water Bomb Fish Grotto Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Field Water Bomb Fish Grotto/Eldin Field Water Bomb Fish Grotto Chest/Eldin Field Water Bomb Fish Grotto Chest"
 									}
 								]
 							}
@@ -978,15 +1000,15 @@
 								"sections": [
 									{
 										"name": "Left Small Chest",
-										"ref": "Eldin Province/Submaps/Eldin Field Stalfos Grotto/Eldin Field Stalfos Grotto Left Small Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Field Stalfos Grotto/Eldin Field Stalfos Grotto Left Small Chest/Eldin Field Stalfos Grotto Left Small Chest"
 									},
 									{
 										"name": "Right Small Chest",
-										"ref": "Eldin Province/Submaps/Eldin Field Stalfos Grotto/Eldin Field Stalfos Grotto Right Small Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Field Stalfos Grotto/Eldin Field Stalfos Grotto Right Small Chest/Eldin Field Stalfos Grotto Right Small Chest"
 									},
 									{
 										"name": "Stalfos Chest",
-										"ref": "Eldin Province/Submaps/Eldin Field Stalfos Grotto/Eldin Field Stalfos Grotto Stalfos Chest/"
+										"ref": "Eldin Province/Submaps/Eldin Field Stalfos Grotto/Eldin Field Stalfos Grotto Stalfos Chest/Eldin Field Stalfos Grotto Stalfos Chest"
 									}
 								]
 							}
@@ -1014,6 +1036,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Spring Underwater Chest",
 										"access_rules": [
 											"^$canSmash, boots",
 											"[glitcheson], ^$hasHeavyMod, ^$canSmash",
@@ -1033,6 +1056,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Bomb Rock Spire Heart Piece",
 										"access_rules": [
 											"^$hasBombs, boomerang, ^$canCompleteEldinTwilight",
 											"[glitcheson], ^$canDoMapGlitch, ^$canCompleteEldinTwilight",
@@ -1076,6 +1100,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Bell Rupee",
 										"access_rules": [
 											"shadowcrystal, ^$canLaunchBombs, ^$canCompleteEldinTwilight",
 											"[glitcheson], ^$canLaunchBombs, boomerang, ^$canCompleteEldinTwilight"
@@ -1097,6 +1122,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Spring Underwater Boulder Rupee",
 										"access_rules": [
 											"boots, ^$canUseWaterBombs, ^$canCompleteEldinTwilight",
 											"zoraarmor, ^$canUseWaterBombs, ^$canCompleteEldinTwilight",
@@ -1148,6 +1174,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Ant House Ledge Box Rupee",
 										"access_rules": [
 											"boomerang, ^$canCompleteEldinTwilight",
 											"[glitcheson], shadowcrystal, ^$canCompleteEldinTwilight"
@@ -1169,6 +1196,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Hot Spring Ledge Box Rupee",
 										"access_rules": [
 											"shadowcrystal, ^$canCompleteEldinTwilight",
 											"boomerang, ^$canCompleteEldinTwilight"
@@ -1225,6 +1253,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Bomb Shop Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canCompleteEldinTwilight"
 										]
@@ -1247,6 +1276,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Watchtower Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canCompleteEldinTwilight"
 										]
@@ -1264,6 +1294,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Watchtower Alcove Chest",
 										"access_rules": [
 											"^$canSmash, ^$canCompleteEldinTwilight",
 											"[glitcheson], shadowcrystal"
@@ -1290,6 +1321,7 @@
 								],
 								"sections": [
 									{
+										"name": "Talo Sharpshooting",
 										"access_rules": [
 											"gmcompleted, bow, ^$canCompleteEldinTwilight"
 										]
@@ -1314,15 +1346,15 @@
 								"sections": [
 									{
 										"name": "Renados Letter",
-										"ref": "Eldin Province/Submaps/Kakariko Renados Sanctuary/Renados Letter/"
+										"ref": "Eldin Province/Submaps/Kakariko Renados Sanctuary/Renados Letter/Renados Letter"
 									},
 									{
 										"name": "Ilia Memory Reward",
-										"ref": "Eldin Province/Submaps/Kakariko Renados Sanctuary/Ilia Memory Reward/"
+										"ref": "Eldin Province/Submaps/Kakariko Renados Sanctuary/Ilia Memory Reward/Ilia Memory Reward"
 									},
 									{
 										"name": "Shad Dominion Rod",
-										"ref": "Eldin Province/Submaps/Kakariko Renados Sanctuary Basement/Shad Dominion Rod/"
+										"ref": "Eldin Province/Submaps/Kakariko Renados Sanctuary Basement/Shad Dominion Rod/Shad Dominion Rod"
 									}
 								]
 							}
@@ -1347,19 +1379,19 @@
 								"sections": [
 									{
 										"name": "Hylian Shield",
-										"ref": "Eldin Province/Submaps/Kakariko Malo Mart/Kakariko Village Malo Mart Hylian Shield/"
+										"ref": "Eldin Province/Submaps/Kakariko Malo Mart/Kakariko Village Malo Mart Hylian Shield/Kakariko Village Malo Mart Hylian Shield"
 									},
 									{
 										"name": "Red Potion",
-										"ref": "Eldin Province/Submaps/Kakariko Malo Mart/Kakariko Village Malo Mart Red Potion/"
+										"ref": "Eldin Province/Submaps/Kakariko Malo Mart/Kakariko Village Malo Mart Red Potion/Kakariko Village Malo Mart Red Potion"
 									},
 									{
 										"name": "Wooden Shield",
-										"ref": "Eldin Province/Submaps/Kakariko Malo Mart/Kakariko Village Malo Mart Wooden Shield/"
+										"ref": "Eldin Province/Submaps/Kakariko Malo Mart/Kakariko Village Malo Mart Wooden Shield/Kakariko Village Malo Mart Wooden Shield"
 									},
 									{
 										"name": "Hawkeye",
-										"ref": "Eldin Province/Submaps/Kakariko Malo Mart/Kakariko Village Malo Mart Hawkeye/"
+										"ref": "Eldin Province/Submaps/Kakariko Malo Mart/Kakariko Village Malo Mart Hawkeye/Kakariko Village Malo Mart Hawkeye"
 									}
 								]
 							}
@@ -1384,7 +1416,7 @@
 								"sections": [
 									{
 										"name": "Chest",
-										"ref": "Eldin Province/Submaps/Kakariko Elde Inn/Kakariko Inn Chest/"
+										"ref": "Eldin Province/Submaps/Kakariko Elde Inn/Kakariko Inn Chest/Kakariko Inn Chest"
 									}
 								]
 							}
@@ -1409,7 +1441,7 @@
 								"sections": [
 									{
 										"name": "Kakariko Village Female Ant",
-										"ref": "Eldin Province/Submaps/Kakariko Bug House/Kakariko Village Female Ant/"
+										"ref": "Eldin Province/Submaps/Kakariko Bug House/Kakariko Village Female Ant/Kakariko Village Female Ant"
 									}
 								]
 							}
@@ -1434,7 +1466,7 @@
 								"sections": [
 									{
 										"name": "Barnes Bomb Bag",
-										"ref": "Eldin Province/Submaps/Kakariko Barnes Bomb Shop Lower/Barnes Bomb Bag/"
+										"ref": "Eldin Province/Submaps/Kakariko Barnes Bomb Shop Lower/Barnes Bomb Bag/Barnes Bomb Bag"
 									}
 								]
 							}
@@ -1459,7 +1491,7 @@
 								"sections": [
 									{
 										"name": "Kakariko Watchtower Chest",
-										"ref": "Eldin Province/Submaps/Kakariko Watchtower/Kakariko Watchtower Chest/"
+										"ref": "Eldin Province/Submaps/Kakariko Watchtower/Kakariko Watchtower Chest/Kakariko Watchtower Chest"
 									}
 								]
 							}
@@ -1482,6 +1514,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Graveyard Lantern Chest",
 										"access_rules": [
 											"lantern"
 										]
@@ -1528,6 +1561,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Graveyard Male Ant",
 										"access_rules": [
 											"^$canCompleteEldinTwilight"
 										]
@@ -1550,6 +1584,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Graveyard Grave Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canCompleteEldinTwilight"
 										]
@@ -1572,6 +1607,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Graveyard Open Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canCompleteEldinTwilight"
 										]
@@ -1612,6 +1648,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Graveyard Underwater Boulder Rupee",
 										"access_rules": [
 											"boots, ^$canUseWaterBombs, gatekeys",
 											"zoraarmor, ^$canUseWaterBombs, gatekeys",
@@ -1669,6 +1706,7 @@
 								],
 								"sections": [
 									{
+										"name": "Skybook From Impaz",
 										"access_rules":[
 											"^$canAccess|HiddenVillage, bow, dominionrod",
 											"[glitcheson], ^$canAccess|HiddenVillage, ^$CanDoHiddenVillageGlitched, dominionrod"
@@ -1695,6 +1733,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Lantern Cave First Chest",
 										"access_rules": [
 											"^$canBurnWebs"
 										]
@@ -1712,6 +1751,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Lantern Cave Second Chest",
 										"access_rules": [
 											"^$canBurnWebs"
 										]
@@ -1729,6 +1769,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Lantern Cave Lantern Chest",
 										"access_rules": [
 											"lantern"
 										]
@@ -1751,6 +1792,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Lantern Cave Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canBurnWebs"
 										]
@@ -1776,6 +1818,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Stockcave Upper Chest",
 										"access_rules": [
 											"boots",
 											"[glitcheson]"
@@ -1802,6 +1845,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Stockcave Lantern Chest",
 										"access_rules": [
 											"glitchesoff, lantern",
 											"[glitcheson], clawshot, lantern",
@@ -1821,6 +1865,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Stockcave Lowest Chest",
 										"access_rules": [
 											"glitchesoff",
 											"[glitcheson], clawshot",
@@ -1848,6 +1893,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Field Bomskit Grotto Left Chest",
 										"access_rules": [
 											"^$canDefeatBomskit"
 										]
@@ -1865,6 +1911,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Field Bomskit Grotto Lantern Chest",
 										"access_rules": [
 											"^$canDefeatBomskit, lantern"
 										]
@@ -1890,6 +1937,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Field Water Bomb Fish Grotto Chest",
 										"access_rules": [
 											""
 										]
@@ -1915,6 +1963,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Field Stalfos Grotto Left Small Chest",
 										"access_rules": [
 											""
 										]
@@ -1932,6 +1981,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Field Stalfos Grotto Right Small Chest",
 										"access_rules": [
 											""
 										]
@@ -1949,6 +1999,7 @@
 								],
 								"sections": [
 									{
+										"name": "Eldin Field Stalfos Grotto Stalfos Chest",
 										"access_rules": [
 											"^$canDefeatStalfos"
 										]
@@ -1974,6 +2025,7 @@
 								],
 								"sections": [
 									{
+										"name": "Renados Letter",
 										"access_rules": [
 											"ttcompleted, ^$canCompleteEldinTwilight",
 											"$Not|iliaquestvanilla, ^$canCompleteEldinTwilight"
@@ -1992,6 +2044,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ilia Memory Reward",
 										"access_rules": [
 											"iliascharm"
 										]
@@ -2017,6 +2070,7 @@
 								],
 								"sections": [
 									{
+										"name": "Shad Dominion Rod",
 										"access_rules": [
 											"skybook, ^$canCompleteEldinTwilight"
 										]
@@ -2042,6 +2096,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Malo Mart Hylian Shield",
 										"access_rules": [
 											"^$canCompleteEldinTwilight, $Not|reducedwalletsize",
 											"^$canCompleteEldinTwilight, mediumwallet"
@@ -2060,6 +2115,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Malo Mart Red Potion",
 										"access_rules": [
 											"^$canCompleteEldinTwilight, $Not|reducedwalletsize",
 											"^$canCompleteEldinTwilight, mediumwallet"
@@ -2078,6 +2134,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Malo Mart Wooden Shield",
 										"access_rules": [
 											"^$canCompleteEldinTwilight"
 										]
@@ -2095,6 +2152,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Malo Mart Hawkeye",
 										"access_rules": [
 											"gmcompleted, ^$canAccess|KakarikoTopofWatchtower, bow, ^$canCompleteEldinTwilight, $Not|reducedwalletsize",
 											"gmcompleted, ^$canAccess|KakarikoTopofWatchtower, bow, ^$canCompleteEldinTwilight, mediumwallet"
@@ -2121,6 +2179,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Inn Chest",
 										"access_rules": [
 											""
 										]
@@ -2151,6 +2210,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Village Female Ant",
 										"access_rules": [
 											"^$canCompleteEldinTwilight"
 										]
@@ -2176,6 +2236,7 @@
 								],
 								"sections": [
 									{
+										"name": "Barnes Bomb Bag",
 										"access_rules": [
 											"^$canCompleteEldinTwilight, $Not|reducedwalletsize",
 											"^$canCompleteEldinTwilight, mediumwallet"
@@ -2202,6 +2263,7 @@
 								],
 								"sections": [
 									{
+										"name": "Kakariko Watchtower Chest",
 										"access_rules": [
 											""
 										]

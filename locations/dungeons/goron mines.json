@@ -68,6 +68,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Crystal Switch Room Underwater Chest",
 								"access_rules": [
 									"boots",
 									"[glitcheson], ^$hasHeavyMod"
@@ -91,6 +92,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Crystal Switch Room Small Chest",
 								"access_rules": [
 									"boots"
 								]
@@ -113,6 +115,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"access_rules": [
 									"boots"
 								]
@@ -143,6 +146,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Entrance Chest",
 								"access_rules": [
 									"^$canPressMinesSwitch, ^$canBreakWoodenDoor",
 									"[glitcheson], ^$canDoBSMoonBoots"
@@ -174,6 +178,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Magnet Maze Chest",
 								"access_rules": [
 									"boots"
 								]
@@ -196,6 +201,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Gor Amato Chest",
 								"access_rules": [
 									"boots"
 								]
@@ -218,6 +224,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Gor Amato Small Chest",
 								"access_rules": [
 									"boots"
 								]
@@ -240,6 +247,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Gor Amato Key Shard",
 								"access_rules": [
 									"boots"
 								]
@@ -270,6 +278,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Main Magnet Room Bottom Chest",
 								"access_rules": [
 									""
 								]
@@ -292,6 +301,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Main Magnet Room Top Chest",
 								"access_rules": [
 									"bow, boots, ^$canDefeatDangoro, gmsmallkey:3",
 									"[glitcheson], ^$canAccess|GoronMinesUpperEastWing, ^$canDefeatDangoro, ^$canDefeatBeamos"
@@ -323,6 +333,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Outside Beamos Chest",
 								"access_rules": [
 									""
 								]
@@ -345,6 +356,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Outside Underwater Chest",
 								"access_rules": [
 									"sword, boots",
 									"^$canUseWaterBombs, boots",
@@ -369,6 +381,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Outside Clawshot Chest",
 								"access_rules": [
 									"clawshot, bow",
 									"clawshot, slingshot",
@@ -401,6 +414,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Gor Ebizo Chest",
 								"access_rules": [
 									""
 								]
@@ -423,6 +437,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Chest Before Dangoro",
 								"access_rules": [
 									"boots",
 									"[glitcheson], ^$canDoLJA"
@@ -446,6 +461,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Gor Ebizo Key Shard",
 								"access_rules": [
 									""
 								]
@@ -468,6 +484,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Dangoro Chest",
 								"access_rules": [
 									"boots, ^$canDefeatDangoro"
 								]
@@ -490,6 +507,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Beamos Room Chest",
 								"access_rules": [
 									"boots, ^$canDefeatDangoro, bow",
 									"[glitcheson], boots, ^$canDefeatDangoro, ^$canDefeatBeamos"
@@ -513,6 +531,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Gor Liggs Chest",
 								"access_rules": [
 									"boots, ^$canDefeatDangoro, bow",
 									"[glitcheson], boots, ^$canDefeatDangoro, ^$canDefeatBeamos"
@@ -536,6 +555,7 @@
 						],
 						"sections": [
 							{
+								"name": "Goron Mines Gor Liggs Key Shard",
 								"access_rules": [
 									"boots, ^$canDefeatDangoro, bow",
 									"[glitcheson], boots, ^$canDefeatDangoro, ^$canDefeatBeamos"

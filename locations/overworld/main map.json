@@ -130,23 +130,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -162,47 +162,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -243,27 +243,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -271,7 +271,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -283,55 +283,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -1719,23 +1719,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -1751,47 +1751,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -1832,27 +1832,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -1860,7 +1860,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -1872,55 +1872,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -3308,23 +3308,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -3340,47 +3340,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -3421,27 +3421,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -3449,7 +3449,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -3461,55 +3461,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -4897,23 +4897,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -4929,47 +4929,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -5010,27 +5010,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -5038,7 +5038,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -5050,55 +5050,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -6487,23 +6487,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -6519,47 +6519,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -6600,27 +6600,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -6628,7 +6628,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -6640,55 +6640,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -8077,23 +8077,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -8109,47 +8109,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -8190,27 +8190,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -8218,7 +8218,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -8230,55 +8230,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -9668,23 +9668,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -9700,47 +9700,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -9781,27 +9781,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -9809,7 +9809,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -9821,55 +9821,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -11274,23 +11274,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -11306,47 +11306,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -11397,27 +11397,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -11425,7 +11425,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -11437,55 +11437,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -12975,23 +12975,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -13007,47 +13007,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -13088,27 +13088,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -13116,7 +13116,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -13128,55 +13128,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -14564,23 +14564,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -14596,47 +14596,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -14677,27 +14677,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -14705,7 +14705,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -14717,55 +14717,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{
@@ -16154,23 +16154,23 @@
 						],
 						"sections": [
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/",
+								"ref": "Forest Temple/Forest Temple West Wing/Big Baba Key/Forest Temple Big Baba Key",
 								"name": "Big Baba Key"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Big Key Chest/Forest Temple Big Key Chest",
 								"name": "Big Key Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Behind Stairs/Forest Temple Central Chest Behind Stairs",
 								"name": "Central Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central Chest Hanging From Web/Forest Temple Central Chest Hanging From Web",
 								"name": "Central Chest Hanging From Web"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/",
+								"ref": "Forest Temple/Forest Temple Lobby/Central North Chest/Forest Temple Central North Chest",
 								"name": "Central North Chest"
 							},
 							{
@@ -16186,47 +16186,47 @@
 								"name": "Diababa Boss Dungeon Reward"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/East Tile Worm Chest/Forest Temple East Tile Worm Chest",
 								"name": "East Tile Worm Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/East Water Cave Chest/Forest Temple East Water Cave Chest",
 								"name": "East Water Cave Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/",
+								"ref": "Forest Temple/Forest Temple Entrance/Entrance Vines Chest/Forest Temple Entrance Vines Chest",
 								"name": "Entrance Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Ook/Gale Boomerang/",
+								"ref": "Forest Temple/Ook/Gale Boomerang/Forest Temple Gale Boomerang",
 								"name": "Gale Boomerang"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/North Deku Like Chest/Forest Temple North Deku Like Chest",
 								"name": "North Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple East Wing/Second Monkey Under Bridge Chest/Forest Temple Second Monkey Under Bridge Chest",
 								"name": "Second Monkey Under Bridge Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/Totem Pole Chest/Forest Temple Totem Pole Chest",
 								"name": "Totem Pole Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Deku Like Chest/Forest Temple West Deku Like Chest",
 								"name": "West Deku Like Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Chest Behind Stairs/Forest Temple West Tile Worm Chest Behind Stairs",
 								"name": "West Tile Worm Chest Behind Stairs"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/",
+								"ref": "Forest Temple/Forest Temple West Wing/West Tile Worm Room Vines Chest/Forest Temple West Tile Worm Room Vines Chest",
 								"name": "West Tile Worm Room Vines Chest"
 							},
 							{
-								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/",
+								"ref": "Forest Temple/Forest Temple North Wing/Windless Bridge Chest/Forest Temple Windless Bridge Chest",
 								"name": "Windless Bridge Chest"
 							},
 							{
@@ -16267,27 +16267,27 @@
 						],
 						"sections": [
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/After Crystal Switch Room Magnet Wall Chest/Goron Mines After Crystal Switch Room Magnet Wall Chest",
 								"name": "After Crystal Switch Room Magnet Wall Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Beamos Room Chest/Goron Mines Beamos Room Chest",
 								"name": "Beamos Room Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Chest Before Dangoro/Goron Mines Chest Before Dangoro",
 								"name": "Chest Before Dangoro"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Small Chest/Goron Mines Crystal Switch Room Small Chest",
 								"name": "Crystal Switch Room Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines Crystal Switch Room/Crystal Switch Room Underwater Chest/Goron Mines Crystal Switch Room Underwater Chest",
 								"name": "Crystal Switch Room Underwater Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Dangoro Chest/Goron Mines Dangoro Chest",
 								"name": "Dangoro Chest"
 							},
 							{
@@ -16295,7 +16295,7 @@
 								"name": "Fyrus Boss Dungeon Reward"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/",
+								"ref": "Goron Mines/Goron Mines Entrance/Entrance Chest/Goron Mines Entrance Chest",
 								"name": "Entrance Chest"
 							},
 							{
@@ -16307,55 +16307,55 @@
 								"name": "Fyrus Boss Fyrus"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Chest/Goron Mines Gor Amato Chest",
 								"name": "Gor Amato Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Key Shard/Goron Mines Gor Amato Key Shard",
 								"name": "Gor Amato Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Gor Amato Small Chest/Goron Mines Gor Amato Small Chest",
 								"name": "Gor Amato Small Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Chest/Goron Mines Gor Ebizo Chest",
 								"name": "Gor Ebizo Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Ebizo Key Shard/Goron Mines Gor Ebizo Key Shard",
 								"name": "Gor Ebizo Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Chest/Goron Mines Gor Liggs Chest",
 								"name": "Gor Liggs Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/",
+								"ref": "Goron Mines/Goron Mines Upper East Wing/Gor Liggs Key Shard/Goron Mines Gor Liggs Key Shard",
 								"name": "Gor Liggs Key Shard"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/",
+								"ref": "Goron Mines/Goron Mines Lower West Wing/Magnet Maze Chest/Goron Mines Magnet Maze Chest",
 								"name": "Magnet Maze Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Bottom Chest/Goron Mines Main Magnet Room Bottom Chest",
 								"name": "Main Magnet Room Bottom Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/",
+								"ref": "Goron Mines/Goron Mines Magnet Room/Main Magnet Room Top Chest/Goron Mines Main Magnet Room Top Chest",
 								"name": "Main Magnet Room Top Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Beamos Chest/Goron Mines Outside Beamos Chest",
 								"name": "Outside Beamos Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Clawshot Chest/Goron Mines Outside Clawshot Chest",
 								"name": "Outside Clawshot Chest"
 							},
 							{
-								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/",
+								"ref": "Goron Mines/Goron Mines North Wing/Outside Underwater Chest/Goron Mines Outside Underwater Chest",
 								"name": "Outside Underwater Chest"
 							},
 							{

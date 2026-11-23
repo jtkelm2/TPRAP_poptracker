@@ -146,6 +146,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Woods Owl Statue Sky Character",
 										"access_rules": [
 											"glitchesoff, ^$canClearForest, powereddominionrod",
 											"[glitcheson], powereddominionrod, ^$canDoMapGlitch",
@@ -175,7 +176,7 @@
 								"sections": [
 									{
 										"name": "Chest",
-										"ref": "Faron Province/Submaps/Faron Woods Cave/South Faron Cave Chest/"
+										"ref": "Faron Province/Submaps/Faron Woods Cave/South Faron Cave Chest/South Faron Cave Chest"
 									}
 								]
 							}
@@ -198,6 +199,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Mist Stump Chest",
 										"access_rules": [
 											"lantern, ^$canCompletePrologue, ^$canCompleteFaronTwilight",
 											"lantern, ^$canCompletePrologue, shadowcrystal",
@@ -217,6 +219,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Mist North Chest",
 										"access_rules": [
 											"lantern, ^$canCompletePrologue, ^$canCompleteFaronTwilight",
 											"lantern, ^$canCompletePrologue, shadowcrystal",
@@ -236,6 +239,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Mist South Chest",
 										"access_rules": [
 											"lantern, ^$canCompletePrologue, ^$canCompleteFaronTwilight",
 											"lantern, ^$canCompletePrologue, shadowcrystal",
@@ -263,6 +267,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Woods Owl Statue Chest",
 										"access_rules": [
 											""
 										]
@@ -293,6 +298,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Mist Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canCompletePrologue, ^$canCompleteFaronTwilight"
 										]
@@ -350,6 +356,7 @@
 								],
 								"sections": [
 									{
+										"name": "North Faron Woods Deku Baba Chest",
 										"access_rules": [
 											""
 										]
@@ -367,6 +374,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Woods Golden Wolf",
 										"access_rules": [
 											""
 										]
@@ -444,6 +452,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Field Bridge Chest",
 										"access_rules": [
 											"clawshot",
 											"[glitcheson], ^$canDoStorage"
@@ -462,6 +471,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Field Tree Heart Piece",
 										"access_rules": [
 											"boomerang",
 											"clawshot",
@@ -486,6 +496,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Field Male Beetle",
 										"access_rules": [
 											""
 										]
@@ -508,6 +519,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Field Female Beetle",
 										"access_rules": [
 											"boomerang",
 											"clawshot",
@@ -532,6 +544,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Field Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canCompleteMDH, ^$canCompleteAllTwilight"
 										]
@@ -584,15 +597,15 @@
 								"sections": [
 									{
 										"name": "Left Chest",
-										"ref": "Faron Province/Submaps/Faron Field Corner Grotto/Faron Field Corner Grotto Left Chest/"
+										"ref": "Faron Province/Submaps/Faron Field Corner Grotto/Faron Field Corner Grotto Left Chest/Faron Field Corner Grotto Left Chest"
 									},
 									{
 										"name": "Right Chest",
-										"ref": "Faron Province/Submaps/Faron Field Corner Grotto/Faron Field Corner Grotto Right Chest/"
+										"ref": "Faron Province/Submaps/Faron Field Corner Grotto/Faron Field Corner Grotto Right Chest/Faron Field Corner Grotto Right Chest"
 									},
 									{
 										"name": "Rear Chest",
-										"ref": "Faron Province/Submaps/Faron Field Corner Grotto/Faron Field Corner Grotto Rear Chest/"
+										"ref": "Faron Province/Submaps/Faron Field Corner Grotto/Faron Field Corner Grotto Rear Chest/Faron Field Corner Grotto Rear Chest"
 									}
 								]
 							}
@@ -620,6 +633,7 @@
 								],
 								"sections": [
 									{
+										"name": "Lost Woods Lantern Chest",
 										"access_rules": [
 											"lantern, ^$canDefeatSkullKid",
 											"lantern, skipsacredgroveentranceon"
@@ -643,6 +657,7 @@
 								],
 								"sections": [
 									{
+										"name": "Lost Woods Waterfall Poe",
 										"access_rules": [
 											"shadowcrystal"
 										]
@@ -668,6 +683,7 @@
 								],
 								"sections": [
 									{
+										"name": "Sacred Grove Spinner Chest",
 										"access_rules": [
 											"spinner",
 											"[glitcheson], ^$canDoLJA"
@@ -691,6 +707,7 @@
 								],
 								"sections": [
 									{
+										"name": "Lost Woods Boulder Poe",
 										"access_rules": [
 											"shadowcrystal, ^$canSmash"
 										]
@@ -718,7 +735,7 @@
 								"sections": [
 									{
 										"name": "Chest",
-										"ref": "Faron Province/Submaps/Lost Woods Baba Serpent Grotto/Sacred Grove Baba Serpent Grotto Chest/"
+										"ref": "Faron Province/Submaps/Lost Woods Baba Serpent Grotto/Sacred Grove Baba Serpent Grotto Chest/Sacred Grove Baba Serpent Grotto Chest"
 									}
 								]
 							}
@@ -779,6 +796,7 @@
 								],
 								"sections": [
 									{
+										"name": "Sacred Grove Male Snail",
 										"access_rules": [
 											"clawshot",
 											"boomerang"
@@ -802,6 +820,7 @@
 								],
 								"sections": [
 									{
+										"name": "Sacred Grove Master Sword Poe",
 										"access_rules": [
 											"shadowcrystal"
 										]
@@ -874,15 +893,15 @@
 								"sections": [
 									{
 										"name": "Past Owl Statue Chest",
-										"ref": "Faron Province/Submaps/Sacred Grove Past/Sacred Grove Past Owl Statue Chest/"
+										"ref": "Faron Province/Submaps/Sacred Grove Past/Sacred Grove Past Owl Statue Chest/Sacred Grove Past Owl Statue Chest"
 									},
 									{
 										"name": "Female Snail",
-										"ref": "Faron Province/Submaps/Sacred Grove Past/Sacred Grove Female Snail/"
+										"ref": "Faron Province/Submaps/Sacred Grove Past/Sacred Grove Female Snail/Sacred Grove Female Snail"
 									},
 									{
 										"name": "Temple of Time Owl Statue Poe",
-										"ref": "Faron Province/Submaps/Sacred Grove Past/Sacred Grove Temple of Time Owl Statue Poe/"
+										"ref": "Faron Province/Submaps/Sacred Grove Past/Sacred Grove Temple of Time Owl Statue Poe/Sacred Grove Temple of Time Owl Statue Poe"
 									}
 								]
 							}
@@ -910,6 +929,7 @@
 								],
 								"sections": [
 									{
+										"name": "South Faron Cave Chest",
 										"access_rules": [
 											""
 										]
@@ -935,6 +955,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Field Corner Grotto Left Chest",
 										"access_rules": [
 											""
 										]
@@ -952,6 +973,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Field Corner Grotto Right Chest",
 										"access_rules": [
 											""
 										]
@@ -969,6 +991,7 @@
 								],
 								"sections": [
 									{
+										"name": "Faron Field Corner Grotto Rear Chest",
 										"access_rules": [
 											""
 										]
@@ -994,6 +1017,7 @@
 								],
 								"sections": [
 									{
+										"name": "Sacred Grove Baba Serpent Grotto Chest",
 										"access_rules": [
 											"^$canDefeatBabaSerpent, ^$canKnockDownHangingBaba",
 											"[glitcheson], ^$canDefeatBabaSerpentGlitched, sword",
@@ -1024,6 +1048,7 @@
 								],
 								"sections": [
 									{
+										"name": "Sacred Grove Past Owl Statue Chest",
 										"access_rules": [
 											"dominionrod",
 											"[glitcheson], shadowcrystal"
@@ -1047,6 +1072,7 @@
 								],
 								"sections": [
 									{
+										"name": "Sacred Grove Female Snail",
 										"access_rules": [
 											"clawshot",
 											"boomerang"
@@ -1070,6 +1096,7 @@
 								],
 								"sections": [
 									{
+										"name": "Sacred Grove Temple of Time Owl Statue Poe",
 										"access_rules": [
 											"shadowcrystal, dominionrod"
 										]

@@ -57,11 +57,11 @@
 								"sections": [
 									{
 										"name": "Wooden Sword Chest",
-										"ref": "Ordona Province/Submaps/Ordon Links House/Wooden Sword Chest/"
+										"ref": "Ordona Province/Submaps/Ordon Links House/Wooden Sword Chest/Wooden Sword Chest"
 									},
 									{
 										"name": "Links Basement Chest",
-										"ref": "Ordona Province/Submaps/Ordon Links House/Links Basement Chest/"
+										"ref": "Ordona Province/Submaps/Ordon Links House/Links Basement Chest/Links Basement Chest"
 									}
 								]
 							}
@@ -73,26 +73,6 @@
 							"^$canAccess|OrdonVillage"
 						],
 						"children": [
-							{
-								"name": "Ordon Bo Cliff Rupee",
-								"visibility_rules": [
-									"freerupeeson"
-								],
-								"map_locations": [
-									{
-										"map": "overworld",
-										"x": 4917,
-										"y": 9227
-									}
-								],
-								"sections": [
-									{
-										"access_rules": [
-											""
-										]
-									}
-								]
-							},
 							{
 								"name": "Ordon Bo Roof",
 								"visibility_rules": [
@@ -123,6 +103,12 @@
 										"access_rules": [
 											""
 										]
+									},
+									{
+										"name": "Ordon Bo Cliff Rupee",
+										"access_rules": [
+											""
+										]
 									}
 								]
 							},
@@ -140,6 +126,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ordon Hidden Rusl House Rupee",
 										"access_rules": [
 											"boomerang",
 											"clawshot"
@@ -161,6 +148,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ordon Rupee In Grass By Bo",
 										"access_rules": [
 											""
 										]
@@ -208,6 +196,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ordon Rupee Under Bridge",
 										"access_rules": [
 											""
 										]
@@ -282,6 +271,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ordon Shield House Ledge Grass Rupee",
 										"access_rules": [
 											"boomerang",
 											"clawshot",
@@ -328,6 +318,7 @@
 								],
 								"sections": [
 									{
+										"name": "Uli Cradle Delivery",
 										"access_rules": [
 											"^$canCompleteGoats1"
 										]
@@ -355,11 +346,11 @@
 								"sections": [
 									{
 										"name": "Ordon Cat Rescue",
-										"ref": "Ordona Province/Submaps/Ordon Seras Shop/Ordon Cat Rescue/"
+										"ref": "Ordona Province/Submaps/Ordon Seras Shop/Ordon Cat Rescue/Ordon Cat Rescue"
 									},
 									{
 										"name": "Sera Shop Slingshot",
-										"ref": "Ordona Province/Submaps/Ordon Seras Shop/Sera Shop Slingshot/"
+										"ref": "Ordona Province/Submaps/Ordon Seras Shop/Sera Shop Slingshot/Sera Shop Slingshot"
 									}
 								]
 							}
@@ -384,7 +375,7 @@
 								"sections": [
 									{
 										"name": "Ordon Shield",
-										"ref": "Ordona Province/Submaps/Ordon Shield House Upper/Ordon Shield/"
+										"ref": "Ordona Province/Submaps/Ordon Shield House Upper/Ordon Shield/Ordon Shield"
 									}
 								]
 							}
@@ -409,7 +400,7 @@
 								"sections": [
 									{
 										"name": "Ordon Sword",
-										"ref": "Ordona Province/Submaps/Ordon Sword House/Ordon Sword/"
+										"ref": "Ordona Province/Submaps/Ordon Sword House/Ordon Sword/Ordon Sword"
 									}
 								]
 							}
@@ -434,7 +425,7 @@
 								"sections": [
 									{
 										"name": "Wrestling With Bo",
-										"ref": "Ordona Province/Submaps/Ordon Bos House/Wrestling with Bo/"
+										"ref": "Ordona Province/Submaps/Ordon Bos House/Wrestling with Bo/Wrestling With Bo"
 									}
 								]
 							}
@@ -457,6 +448,7 @@
 								],
 								"sections": [
 									{
+										"name": "Herding Goats Reward",
 										"access_rules": [
 											"^$canCompletePrologue, ^$canCompleteGoats1"
 										]
@@ -484,7 +476,7 @@
 								"sections": [
 									{
 										"name": "Lantern Chest",
-										"ref": "Ordona Province/Submaps/Ordon Ranch Grotto/Ordon Ranch Grotto Lantern Chest/"
+										"ref": "Ordona Province/Submaps/Ordon Ranch Grotto/Ordon Ranch Grotto Lantern Chest/Ordon Ranch Grotto Lantern Chest"
 									}
 								]
 							}
@@ -540,6 +532,7 @@
 								],
 								"sections": [
 									{
+										"name": "Wooden Sword Chest",
 										"access_rules": [
 											""
 										]
@@ -557,6 +550,7 @@
 								],
 								"sections": [
 									{
+										"name": "Links Basement Chest",
 										"access_rules": [
 											"lantern"
 										]
@@ -582,6 +576,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ordon Cat Rescue",
 										"access_rules": [
 											"^$canAccess|OrdonVillage, fishingrod, ^$canCompleteGoats1"
 										]
@@ -599,6 +594,7 @@
 								],
 								"sections": [
 									{
+										"name": "Sera Shop Slingshot",
 										"access_rules": [
 											""
 										]
@@ -624,6 +620,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ordon Shield",
 										"access_rules": [
 											"farontwilightclearedoff, ^$canCompletePrologue, bonksdodamageoff",
 											"farontwilightclearedoff, ^$canCompletePrologue, bonksdodamageon, $Not|ohko",
@@ -654,6 +651,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ordon Sword",
 										"access_rules": [
 											"^$canCompletePrologue",
 											"farontwilightclearedon"
@@ -680,6 +678,7 @@
 								],
 								"sections": [
 									{
+										"name": "Wrestling With Bo",
 										"access_rules": [
 											""
 										]
@@ -705,6 +704,7 @@
 								],
 								"sections": [
 									{
+										"name": "Ordon Ranch Grotto Lantern Chest",
 										"access_rules": [
 											"lantern"
 										]
