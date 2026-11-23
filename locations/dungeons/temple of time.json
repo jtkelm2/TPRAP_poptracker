@@ -102,13 +102,13 @@
 						],
 						"sections": [
 							{
-								"name": "Armogohma Heart Container",
+								"name": "Temple of Time Armogohma Heart Container",
 								"access_rules": [
 									"^$canDefeatArmogohma"
 								]
 							},
 							{
-								"name": "Dungeon Reward",
+								"name": "Temple of Time Dungeon Reward",
 								"access_rules": [
 									"^$canDefeatArmogohma"
 								]

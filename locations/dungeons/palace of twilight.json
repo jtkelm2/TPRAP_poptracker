@@ -528,7 +528,7 @@
 						],
 						"sections": [
 							{
-								"name": "Zant Heart Container",
+								"name": "Palace of Twilight Zant Heart Container",
 								"access_rules": [
 									"^$canDefeatZant"
 								]

@@ -24,13 +24,13 @@
 						],
 						"sections": [
 							{
-								"name": "Morpheel Heart Container",
+								"name": "Lakebed Temple Morpheel Heart Container",
 								"access_rules": [
 									"^$canDefeatMorpheel"
 								]
 							},
 							{
-								"name": "Dungeon Reward",
+								"name": "Lakebed Temple Dungeon Reward",
 								"access_rules": [
 									"^$canDefeatMorpheel"
 								]

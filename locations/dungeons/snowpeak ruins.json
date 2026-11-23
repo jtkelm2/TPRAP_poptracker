@@ -24,13 +24,13 @@
 						],
 						"sections": [
 							{
-								"name": "Blizzeta Heart Container",
+								"name": "Snowpeak Ruins Blizzeta Heart Container",
 								"access_rules": [
 									"^$canDefeatBlizzeta"
 								]
 							},
 							{
-								"name": "Dungeon Reward",
+								"name": "Snowpeak Ruins Dungeon Reward",
 								"access_rules": [
 									"^$canDefeatBlizzeta"
 								]

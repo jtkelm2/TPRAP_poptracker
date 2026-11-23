@@ -101,7 +101,7 @@
 						],
 						"sections": [
 							{
-								"name": "Poe Soul",
+								"name": "Arbiters Grounds Torch Room Poe",
 								"access_rules": [
 									"shadowcrystal"
 								],
@@ -650,13 +650,13 @@
 						],
 						"sections": [
 							{
-								"name": "Stallord Heart Container",
+								"name": "Arbiters Grounds Stallord Heart Container",
 								"access_rules": [
 									"^$canDefeatStallord"
 								]
 							},
 							{
-								"name": "Dungeon Reward",
+								"name": "Arbiters Grounds Dungeon Reward",
 								"access_rules": [
 									"^$canDefeatStallord"
 								]

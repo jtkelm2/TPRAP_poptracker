@@ -95,19 +95,19 @@
 						],
 						"sections": [
 							{
-								"name": "Right Chest",
+								"name": "Hyrule Castle Graveyard Grave Switch Room Right Chest",
 								"access_rules": [
 									"^$canSmash"
 								]
 							},
 							{
-								"name": "Front Left Chest",
+								"name": "Hyrule Castle Graveyard Grave Switch Room Front Left Chest",
 								"access_rules": [
 									"^$canSmash"
 								]
 							},
 							{
-								"name": "Back Left Chest",
+								"name": "Hyrule Castle Graveyard Grave Switch Room Back Left Chest",
 								"access_rules": [
 									"^$canSmash"
 								]
@@ -466,79 +466,79 @@
 						],
 						"sections": [
 							{
-								"name": "First Chest",
+								"name": "Hyrule Castle Treasure Room First Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Second Chest",
+								"name": "Hyrule Castle Treasure Room Second Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Third Chest",
+								"name": "Hyrule Castle Treasure Room Third Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Fourth Chest",
+								"name": "Hyrule Castle Treasure Room Fourth Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Fifth Chest",
+								"name": "Hyrule Castle Treasure Room Fifth Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "First Small Chest",
+								"name": "Hyrule Castle Treasure Room First Small Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Second Small Chest",
+								"name": "Hyrule Castle Treasure Room Second Small Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Third Small Chest",
+								"name": "Hyrule Castle Treasure Room Third Small Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Fourth Small Chest",
+								"name": "Hyrule Castle Treasure Room Fourth Small Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Fifth Small Chest",
+								"name": "Hyrule Castle Treasure Room Fifth Small Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Sixth Small Chest",
+								"name": "Hyrule Castle Treasure Room Sixth Small Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Seventh Small Chest",
+								"name": "Hyrule Castle Treasure Room Seventh Small Chest",
 								"access_rules": [
 									""
 								]
 							},
 							{
-								"name": "Eighth Small Chest",
+								"name": "Hyrule Castle Treasure Room Eighth Small Chest",
 								"access_rules": [
 									""
 								]

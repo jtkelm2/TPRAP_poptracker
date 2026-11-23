@@ -22,20 +22,20 @@
 								],
 								"sections": [
 									{
-										"name": "Bottle",
+										"name": "Coro Bottle",
 										"access_rules": [
 											"$Not|reducedwalletsize",
 											"mediumwallet"
 										]
 									},
 									{
-										"name": "Lantern",
+										"name": "Coro Lantern",
 										"access_rules": [
 											""
 										]
 									},
 									{
-										"name": "Gate Key",
+										"name": "Coro Gate Key",
 										"access_rules": [
 											""
 										]
@@ -77,25 +77,25 @@
 								],
 								"sections": [
 									{
-										"name": "Rupee 1",
+										"name": "Faron Woods Coro Boulder Rupee 1",
 										"access_rules": [
 											"^$canSmash"
 										]
 									},
 									{
-										"name": "Rupee 2",
+										"name": "Faron Woods Coro Boulder Rupee 2",
 										"access_rules": [
 											"^$canSmash"
 										]
 									},
 									{
-										"name": "Rupee 3",
+										"name": "Faron Woods Coro Boulder Rupee 3",
 										"access_rules": [
 											"^$canSmash"
 										]
 									},
 									{
-										"name": "Rupee 4",
+										"name": "Faron Woods Coro Boulder Rupee 4",
 										"access_rules": [
 											"^$canSmash"
 										]
@@ -324,13 +324,13 @@
 								],
 								"sections": [
 									{
-										"name": "Open Chest",
+										"name": "Faron Mist Cave Open Chest",
 										"access_rules": [
 											""
 										]
 									},
 									{
-										"name": "Lantern Chest",
+										"name": "Faron Mist Cave Lantern Chest",
 										"access_rules": [
 											"lantern"
 										]
@@ -838,13 +838,13 @@
 								],
 								"sections": [
 									{
-										"name": "Master Sword",
+										"name": "Sacred Grove Pedestal Master Sword",
 										"access_rules": [
 											""
 										]
 									},
 									{
-										"name": "Shadow Crystal",
+										"name": "Sacred Grove Pedestal Shadow Crystal",
 										"access_rules": [
 											""
 										]

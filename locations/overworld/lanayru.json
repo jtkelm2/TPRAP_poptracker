@@ -51,11 +51,11 @@
 								"sections": [
 									{
 										"name": "Prize 1",
-										"ref": "Lanayru Province/Submaps/Castle Town STAR Game/STAR/Prize 1"
+										"ref": "Lanayru Province/Submaps/Castle Town STAR Game/STAR/STAR Prize 1"
 									},
 									{
 										"name": "Prize 2",
-										"ref": "Lanayru Province/Submaps/Castle Town STAR Game/STAR/Prize 2"
+										"ref": "Lanayru Province/Submaps/Castle Town STAR Game/STAR/STAR Prize 2"
 									}
 								]
 							}
@@ -197,7 +197,7 @@
 								],
 								"sections": [
 									{
-										"name": "(Hidden Village Stone)",
+										"name": "North Castle Town Golden Wolf",
 										"access_rules": [
 											"shadowcrystal, ^$canAccess|HiddenVillage, ^$canCompleteMDH, ^$canCompleteLanayruTwilight, hvhowlingstone"
 										]
@@ -393,11 +393,11 @@
 								"sections": [
 									{
 										"name": "20 Poe Soul Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Jovanis House/Jovani/20 Poe Soul Reward"
+										"ref": "Lanayru Province/Submaps/Castle Town Jovanis House/Jovani/Jovani 20 Poe Soul Reward"
 									},
 									{
 										"name": "60 Poe Soul Reward",
-										"ref": "Lanayru Province/Submaps/Castle Town Jovanis House/Jovani/60 Poe Soul Reward"
+										"ref": "Lanayru Province/Submaps/Castle Town Jovanis House/Jovani/Jovani 60 Poe Soul Reward"
 									},
 									{
 										"name": "House Poe",
@@ -881,7 +881,7 @@
 								],
 								"sections": [
 									{
-										"name": "(Upper Zora's River Stone)",
+										"name": "West Hyrule Field Golden Wolf",
 										"access_rules": [
 											"shadowcrystal, ^$canAccess|UpperZorasRiver, uzrhowlingstone"
 										]
@@ -1207,7 +1207,7 @@
 								],
 								"sections": [
 									{
-										"name": "(North Faron Woods Stone)",
+										"name": "Outside South Castle Town Golden Wolf",
 										"access_rules": [
 											"shadowcrystal, ^$canAccess|NorthFaronWoods, nfwhowlingstone"
 										]
@@ -1322,14 +1322,14 @@
 								],
 								"sections": [
 									{
-										"name": "Chest",
+										"name": "Lake Hylia Bridge Owl Statue Chest",
 										"access_rules": [
 											"powereddominionrod, clawshot",
 											"[glitcheson], ^$canDoMapGlitch, ^$canCompleteLanayruTwilight"
 										]
 									},
 									{
-										"name": "Sky Character",
+										"name": "Lake Hylia Bridge Owl Statue Sky Character",
 										"access_rules": [
 											"powereddominionrod, clawshot",
 											"[glitcheson], powereddominionrod, ^$canDoMapGlitch, ^$canCompleteLanayruTwilight"
@@ -1872,31 +1872,31 @@
 								],
 								"sections": [
 									{
-										"name": "Top Platform Reward",
+										"name": "Flight By Fowl Top Platform Reward",
 										"access_rules": [
 											"^$canCompleteLanayruTwilight"
 										]
 									},
 									{
-										"name": "Second Platform Chest",
+										"name": "Flight By Fowl Second Platform Chest",
 										"access_rules": [
 											"^$canCompleteLanayruTwilight"
 										]
 									},
 									{
-										"name": "Third Platform Chest",
+										"name": "Flight By Fowl Third Platform Chest",
 										"access_rules": [
 											"^$canCompleteLanayruTwilight"
 										]
 									},
 									{
-										"name": "Fourth Platform Chest",
+										"name": "Flight By Fowl Fourth Platform Chest",
 										"access_rules": [
 											"^$canCompleteLanayruTwilight"
 										]
 									},
 									{
-										"name": "Fifth Platform Chest",
+										"name": "Flight By Fowl Fifth Platform Chest",
 										"access_rules": [
 											"^$canCompleteLanayruTwilight"
 										]
@@ -2383,14 +2383,14 @@
 								],
 								"sections": [
 									{
-										"name": "Helping Hand",
+										"name": "Iza Helping Hand",
 										"access_rules": [
 											"^$canAccess|UpperZorasRiver, sword, bow, ^$canCompleteLanayruTwilight",
 											"^$canAccess|UpperZorasRiver, ^$canDefeatShadowBeast, transformanywhereon, bow, ^$canCompleteLanayruTwilight"
 										]
 									},
 									{
-										"name": "Raging Rapids Minigame",
+										"name": "Iza Raging Rapids Minigame",
 										"access_rules": [
 											"^$canAccess|UpperZorasRiver, sword, bow, ^$canCompleteLanayruTwilight",
 											"^$canAccess|UpperZorasRiver, ^$canDefeatShadowBeast, transformanywhereon, bow, ^$canCompleteLanayruTwilight"
@@ -3087,13 +3087,13 @@
 								],
 								"sections": [
 									{
-										"name": "Prize 1",
+										"name": "STAR Prize 1",
 										"access_rules": [
 											"clawshot"
 										]
 									},
 									{
-										"name": "Prize 2",
+										"name": "STAR Prize 2",
 										"access_rules": [
 											"doubleclawshot"
 										]
@@ -3675,13 +3675,13 @@
 								],
 								"sections": [
 									{
-										"name": "20 Poe Soul Reward",
+										"name": "Jovani 20 Poe Soul Reward",
 										"access_rules": [
 											"poesoul:20"
 										]
 									},
 									{
-										"name": "60 Poe Soul Reward",
+										"name": "Jovani 60 Poe Soul Reward",
 										"access_rules": [
 											"poesoul:60"
 										]

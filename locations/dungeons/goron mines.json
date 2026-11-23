@@ -24,13 +24,13 @@
 						],
 						"sections": [
 							{
-								"name": "Fyrus Heart Container",
+								"name": "Goron Mines Fyrus Heart Container",
 								"access_rules": [
 									"^$canDefeatFyrus"
 								]
 							},
 							{
-								"name": "Dungeon Reward",
+								"name": "Goron Mines Dungeon Reward",
 								"access_rules": [
 									"^$canDefeatFyrus"
 								]

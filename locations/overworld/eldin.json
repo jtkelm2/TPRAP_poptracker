@@ -140,7 +140,7 @@
 								],
 								"sections": [
 									{
-										"name": "Rupee 1",
+										"name": "Death Mountain Volcano Ledge Rupee 1",
 										"access_rules": [
 											"boots, ^$canDefeatGoron, ^$canCompleteEldinTwilight",
 											"boots, gmcompleted, ^$canCompleteEldinTwilight",
@@ -149,7 +149,7 @@
 										]
 									},
 									{
-										"name": "Rupee 2",
+										"name": "Death Mountain Volcano Ledge Rupee 2",
 										"access_rules": [
 											"boots, ^$canDefeatGoron, ^$canCompleteEldinTwilight",
 											"boots, gmcompleted, ^$canCompleteEldinTwilight",
@@ -159,7 +159,7 @@
 										]
 									},
 									{
-										"name": "Rupee 3",
+										"name": "Death Mountain Volcano Ledge Rupee 3",
 										"access_rules": [
 											"boots, ^$canDefeatGoron, ^$canCompleteEldinTwilight",
 											"boots, gmcompleted, ^$canCompleteEldinTwilight",
@@ -358,13 +358,13 @@
 								],
 								"sections": [
 									{
-										"name": "Sky Character",
+										"name": "Kakariko Gorge Owl Statue Sky Character",
 										"access_rules": [
 											"powereddominionrod"
 										]
 									},
 									{
-										"name": "Chest",
+										"name": "Kakariko Gorge Owl Statue Chest",
 										"access_rules": [
 											"powereddominionrod",
 											"[glitcheson], ^$canDoLJA",
@@ -1145,14 +1145,14 @@
 								],
 								"sections": [
 									{
-										"name": "Rupee 1",
+										"name": "Kakariko Village Spring Shortcut Box Rupee 1",
 										"access_rules": [
 											"^$canSmash, ^$canCompleteEldinTwilight",
 											"[glitcheson], shadowcrystal, ^$canCompleteEldinTwilight"
 										]
 									},
 									{
-										"name": "Rupee 2",
+										"name": "Kakariko Village Spring Shortcut Box Rupee 2",
 										"access_rules": [
 											"^$canSmash, ^$canCompleteEldinTwilight",
 											"[glitcheson], shadowcrystal, ^$canCompleteEldinTwilight"
@@ -1627,7 +1627,7 @@
 								],
 								"sections": [
 									{
-										"name": "(Snowpeak Mountain Stone)",
+										"name": "Kakariko Graveyard Golden Wolf",
 										"access_rules": [
 											"shadowcrystal, ^$canAccess|SnowpeakClimbUpper, smhowlingstone"
 										]

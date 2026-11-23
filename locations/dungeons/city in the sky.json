@@ -24,13 +24,13 @@
 						],
 						"sections": [
 							{
-								"name": "Argorok Heart Container",
+								"name": "City in The Sky Argorok Heart Container",
 								"access_rules": [
 									"^$canDefeatArgorok"
 								]
 							},
 							{
-								"name": "Dungeon Reward",
+								"name": "City in The Sky Dungeon Reward",
 								"access_rules": [
 									"^$canDefeatArgorok"
 								]

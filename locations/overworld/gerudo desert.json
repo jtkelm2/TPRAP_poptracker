@@ -152,14 +152,14 @@
 								],
 								"sections": [
 									{
-										"name": "Chest",
+										"name": "Gerudo Desert Owl Statue Chest",
 										"access_rules": [
 											"powereddominionrod",
 											"[glitcheson], ^$canDoLJA"
 										]
 									},
 									{
-										"name": "Sky Character",
+										"name": "Gerudo Desert Owl Statue Sky Character",
 										"access_rules": [
 											"powereddominionrod"
 										]
@@ -506,7 +506,7 @@
 								],
 								"sections": [
 									{
-										"name": "(Lake Hylia Stone)",
+										"name": "Gerudo Desert Golden Wolf",
 										"access_rules": [
 											"shadowcrystal, ^$canAccess|LakeHylia, lhhowlingstone"
 										]

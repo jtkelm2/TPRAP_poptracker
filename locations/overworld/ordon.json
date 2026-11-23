@@ -169,13 +169,13 @@
 								],
 								"sections": [
 									{
-										"name": "1",
+										"name": "Ordon Rupee In River 1",
 										"access_rules": [
 											""
 										]
 									},
 									{
-										"name": "2",
+										"name": "Ordon Rupee In River 2",
 										"access_rules": [
 											""
 										]
@@ -217,13 +217,13 @@
 								],
 								"sections": [
 									{
-										"name": "1",
+										"name": "Ordon Rupee Under Tall Tree 1",
 										"access_rules": [
 											""
 										]
 									},
 									{
-										"name": "2",
+										"name": "Ordon Rupee Under Tall Tree 2",
 										"access_rules": [
 											""
 										]
@@ -244,13 +244,13 @@
 								],
 								"sections": [
 									{
-										"name": "Rupee 1",
+										"name": "Ordon Rusl House Roof Rupee 1",
 										"access_rules": [
 											""
 										]
 									},
 									{
-										"name": "Rupee 2",
+										"name": "Ordon Rusl House Roof Rupee 2",
 										"access_rules": [
 											""
 										]
@@ -294,13 +294,13 @@
 								],
 								"sections": [
 									{
-										"name": "Long Branch Rupee",
+										"name": "Ordon Tree Long Branch Rupee",
 										"access_rules": [
 											""
 										]
 									},
 									{
-										"name": "Short Branch Rupee",
+										"name": "Ordon Tree Short Branch Rupee",
 										"access_rules": [
 											""
 										]
@@ -501,7 +501,7 @@
 								],
 								"sections": [
 									{
-										"name": "(Death Mountain Stone)",
+										"name": "Ordon Spring Golden Wolf",
 										"access_rules": [
 											"shadowcrystal, ^$canAccess|DeathMountainTrail, ^$canCompletePrologue, ^$canCompleteFaronTwilight, dmhowlingstone"
 										]
